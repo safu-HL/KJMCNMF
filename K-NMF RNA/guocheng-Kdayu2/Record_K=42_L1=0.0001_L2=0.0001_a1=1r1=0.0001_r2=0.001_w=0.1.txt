@@ -1,0 +1,9 @@
+ iteration 1
+Iter = 	20	 relative error = 	0.0026173	 diff_step = 	6188208.7826	 diff = 	4334.7777	 diff1 = 	4189.3687	 diff2 = 	-2.0029e-06	 diff3 = 	-5.0097e-05	 diff4 = 	0.0013965	 diff5 = 	0.4216	 diff6 = 	144.986	 diff7 = 	145.4076
+Iter = 	40	 relative error = 	0.0011135	 diff_step = 	2723.1919	 diff = 	1600.9859	 diff1 = 	1509.9062	 diff2 = 	-1.9308e-06	 diff3 = 	-3.9614e-05	 diff4 = 	0.0017365	 diff5 = 	0.31918	 diff6 = 	90.7588	 diff7 = 	91.078
+Iter = 	60	 relative error = 	0.00062052	 diff_step = 	1283.8211	 diff = 	998.5918	 diff1 = 	914.8875	 diff2 = 	-2.4301e-06	 diff3 = 	-3.366e-05	 diff4 = 	0.0021243	 diff5 = 	0.28008	 diff6 = 	83.4221	 diff7 = 	83.7022
+Iter = 	80	 relative error = 	0.00044519	 diff_step = 	727.3947	 diff = 	847.7871	 diff1 = 	760.8034	 diff2 = 	-2.6164e-06	 diff3 = 	-2.9794e-05	 diff4 = 	0.0026154	 diff5 = 	0.26179	 diff6 = 	86.7193	 diff7 = 	86.9811
+Iter = 	100	 relative error = 	0.00038903	 diff_step = 	469.4484	 diff = 	806.697	 diff1 = 	716.2951	 diff2 = 	-2.4103e-06	 diff3 = 	-2.6481e-05	 diff4 = 	0.003265	 diff5 = 	0.24888	 diff6 = 	90.1498	 diff7 = 	90.3987
+Iter = 	120	 relative error = 	0.00037502	 diff_step = 	337.9817	 diff = 	792.5089	 diff1 = 	700.8943	 diff2 = 	-2.1878e-06	 diff3 = 	-2.4157e-05	 diff4 = 	0.0038408	 diff5 = 	0.23813	 diff6 = 	91.3726	 diff7 = 	91.6107
+Iter = 	140	 relative error = 	0.00036763	 diff_step = 	286.9886	 diff = 	788.1092	 diff1 = 	692.9356	 diff2 = 	-1.9995e-06	 diff3 = 	-2.2489e-05	 diff4 = 	0.0043096	 diff5 = 	0.23259	 diff6 = 	94.9367	 diff7 = 	95.1693
+Iter = 	160	 relative error = 	0.00036828	 diff_step = 	261.5084	 diff = 	785.669	 diff1 = 	687.2802	 diff2 = 	-1.6785e-06	 diff3 = 	-2.1334e-05	 diff4 = 	0.0047775	 diff5 = 	0.22907	 diff6 = 	98.155	 diff7 = 	98.3841

@@ -1,0 +1,66 @@
+Record_K=2_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 1	 relative error= 0.033488	 eucl dist= 790.5286
+corr1= 0.99713	 corr2= 0.99592	 corr3= 0.9988
+
+Record_K=3_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 2	 relative error= 0.024594	 eucl dist= 752.4036
+corr1= 0.99767	 corr2= 0.99395	 corr3= 0.99862
+
+Record_K=4_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 3	 relative error= 0.025437	 eucl dist= 755.7053
+corr1= 0.99797	 corr2= 0.99456	 corr3= 0.99865
+
+Record_K=5_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 4	 relative error= 0.024801	 eucl dist= 752.2978
+corr1= 0.99814	 corr2= 0.99427	 corr3= 0.99868
+
+Record_K=6_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 5	 relative error= 0.026824	 eucl dist= 751.0128
+corr1= 0.99817	 corr2= 0.99394	 corr3= 0.99864
+
+Record_K=7_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 6	 relative error= 0.027687	 eucl dist= 750.3431
+corr1= 0.99826	 corr2= 0.99377	 corr3= 0.99876
+
+Record_K=8_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 7	 relative error= 0.029206	 eucl dist= 748.1615
+corr1= 0.99829	 corr2= 0.99213	 corr3= 0.99886
+
+Record_K=9_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 8	 relative error= 0.031916	 eucl dist= 748.1168
+corr1= 0.99828	 corr2= 0.99202	 corr3= 0.99888
+
+Record_K=10_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 9	 relative error= 0.033822	 eucl dist= 749.1726
+corr1= 0.99836	 corr2= 0.99278	 corr3= 0.99896
+
+Record_K=11_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 10	 relative error= 0.03691	 eucl dist= 743.5818
+corr1= 0.99855	 corr2= 0.99026	 corr3= 0.99894
+
+Record_K=12_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 11	 relative error= 0.039904	 eucl dist= 746.3711
+corr1= 0.99832	 corr2= 0.9932	 corr3= 0.99889
+
+Record_K=13_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 12	 relative error= 0.039635	 eucl dist= 745.8744
+corr1= 0.99839	 corr2= 0.99303	 corr3= 0.99906
+
+Record_K=14_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 13	 relative error= 0.040113	 eucl dist= 739.7331
+corr1= 0.9988	 corr2= 0.99486	 corr3= 0.99898
+
+Record_K=15_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 14	 relative error= 0.048456	 eucl dist= 746.0711
+corr1= 0.99829	 corr2= 0.9926	 corr3= 0.99899
+
+Record_K=16_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 15	 relative error= 0.046404	 eucl dist= 742.907
+corr1= 0.99847	 corr2= 0.99555	 corr3= 0.9989
+
+Record_K=17_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 16	 relative error= 0.056548	 eucl dist= 745.8441
+corr1= 0.99837	 corr2= 0.99152	 corr3= 0.99889
+
+Record_K=18_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 17

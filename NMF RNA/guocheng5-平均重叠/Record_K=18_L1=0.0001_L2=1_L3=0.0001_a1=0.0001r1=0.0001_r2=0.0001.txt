@@ -1,0 +1,10 @@
+ iteration 1
+Iter = 	20	 relative error = 	1.0574	 diff_step = 	1739995.7993	 diff = 	4962196.9351	 diff1 = 	4955486.3036	 diff2 = 	-0.92028	 diff3 = 	-62.1952	 diff4 = 	-0.017597	 diff5 = 	1.2506	 diff6 = 	6.4777	 diff7 = 	6766.0363	 diff8 = 	6772.514
+Iter = 	40	 relative error = 	1.0404	 diff_step = 	288045.6245	 diff = 	4791876.6442	 diff1 = 	4785252.4305	 diff2 = 	-0.91432	 diff3 = 	-62.5942	 diff4 = 	-0.016596	 diff5 = 	1.3441	 diff6 = 	7.0466	 diff7 = 	6679.3482	 diff8 = 	6686.3947
+Iter = 	60	 relative error = 	1.0346	 diff_step = 	157458.7999	 diff = 	4727834.9173	 diff1 = 	4721303.2452	 diff2 = 	-0.90819	 diff3 = 	-62.593	 diff4 = 	-0.016	 diff5 = 	1.3997	 diff6 = 	7.2933	 diff7 = 	6586.4963	 diff8 = 	6593.7896
+Iter = 	80	 relative error = 	1.0322	 diff_step = 	96734.1833	 diff = 	4698873.4891	 diff1 = 	4692435.972	 diff2 = 	-0.90183	 diff3 = 	-62.3795	 diff4 = 	-0.015597	 diff5 = 	1.4377	 diff6 = 	7.411	 diff7 = 	6491.9653	 diff8 = 	6499.3763
+Iter = 	100	 relative error = 	1.031	 diff_step = 	64453.8953	 diff = 	4683803.0332	 diff1 = 	4677458.2681	 diff2 = 	-0.8954	 diff3 = 	-62.0768	 diff4 = 	-0.015301	 diff5 = 	1.4659	 diff6 = 	7.4665	 diff7 = 	6398.8202	 diff8 = 	6406.2867
+Iter = 	120	 relative error = 	1.0302	 diff_step = 	46141.4683	 diff = 	4675041.73	 diff1 = 	4668787.308	 diff2 = 	-0.88898	 diff3 = 	-61.7358	 diff4 = 	-0.015066	 diff5 = 	1.4883	 diff6 = 	7.489	 diff7 = 	6308.0846	 diff8 = 	6315.5736
+Iter = 	140	 relative error = 	1.0297	 diff_step = 	34957.2471	 diff = 	4669560.3499	 diff1 = 	4663393.6153	 diff2 = 	-0.8826	 diff3 = 	-61.3744	 diff4 = 	-0.014869	 diff5 = 	1.507	 diff6 = 	7.4921	 diff7 = 	6220.0074	 diff8 = 	6227.4995
+Iter = 	160	 relative error = 	1.0293	 diff_step = 	27416.2787	 diff = 	4665960.6633	 diff1 = 	4659878.9947	 diff2 = 	-0.87631	 diff3 = 	-61.0006	 diff4 = 	-0.014699	 diff5 = 	1.5233	 diff6 = 	7.4831	 diff7 = 	6134.5538	 diff8 = 	6142.0369
+Iter = 	180	 relative error = 	1.0291	 diff_step = 	22008.9264	 diff = 	4663486.1198	 diff1 = 	4657487.012	 diff2 = 	-0.87013	 diff3 = 	-60.6198	 diff4 = 	-0.014549	 diff5 = 	1.5378	 diff6 = 	7.4661	 diff7 = 	6051.6082	 diff8 = 	6059.0743

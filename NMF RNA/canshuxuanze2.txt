@@ -1,0 +1,72 @@
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 1	 relative error= 1.0409	 eucl dist= 4807403.9694
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.001
+Iter= 2	 relative error= 1.0409	 eucl dist= 4807403.9738
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.01
+Iter= 3	 relative error= 1.0409	 eucl dist= 4807404.0187
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.1
+Iter= 4	 relative error= 1.0409	 eucl dist= 4807404.5268
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=1
+Iter= 5	 relative error= 1.0409	 eucl dist= 4807413.2715
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=10
+Iter= 6	 relative error= 1.041	 eucl dist= 4807483.2377
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.001_r2=0.0001
+Iter= 7	 relative error= 1.0409	 eucl dist= 4807403.9797
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.001_r2=0.001
+Iter= 8	 relative error= 1.0409	 eucl dist= 4807403.9841
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.001_r2=0.01
+Iter= 9	 relative error= 1.0409	 eucl dist= 4807404.0292
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.001_r2=0.1
+Iter= 10	 relative error= 1.0409	 eucl dist= 4807404.5378
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.001_r2=1
+Iter= 11	 relative error= 1.0409	 eucl dist= 4807413.2928
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.001_r2=10
+Iter= 12	 relative error= 1.041	 eucl dist= 4807483.4285
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.01_r2=0.0001
+Iter= 13	 relative error= 1.0409	 eucl dist= 4807404.0855
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.01_r2=0.001
+Iter= 14	 relative error= 1.0409	 eucl dist= 4807404.09
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.01_r2=0.01
+Iter= 15	 relative error= 1.0409	 eucl dist= 4807404.1356
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.01_r2=0.1
+Iter= 16	 relative error= 1.0409	 eucl dist= 4807404.6508
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.01_r2=1
+Iter= 17	 relative error= 1.0409	 eucl dist= 4807413.5109
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.01_r2=10
+Iter= 18	 relative error= 1.041	 eucl dist= 4807485.7738
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.1_r2=0.0001
+Iter= 19	 relative error= 1.0409	 eucl dist= 4807405.3426
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.1_r2=0.001
+Iter= 20	 relative error= 1.0409	 eucl dist= 4807405.3478
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.1_r2=0.01
+Iter= 21	 relative error= 1.0409	 eucl dist= 4807405.4012
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.1_r2=0.1
+Iter= 22	 relative error= 1.0409	 eucl dist= 4807405.9998
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.1_r2=1
+Iter= 23	 relative error= 1.041	 eucl dist= 4807416.1615
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.1_r2=10
+Iter= 24	 relative error= 1.0411	 eucl dist= 4807535.0142
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=1_r2=0.0001
+Iter= 25	 relative error= 1.041	 eucl dist= 4807423.8569
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=1_r2=0.001
+Iter= 26	 relative error= 1.041	 eucl dist= 4807423.8738
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=1_r2=0.01
+Iter= 27	 relative error= 1.041	 eucl dist= 4807424.0436
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=1_r2=0.1
+Iter= 28	 relative error= 1.041	 eucl dist= 4807425.87
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 29	 relative error= 1.041	 eucl dist= 4807454.1371
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=1_r2=10
+Iter= 30	 relative error= 1.0416	 eucl dist= 4808128.3834
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=10_r2=0.0001
+Iter= 31	 relative error= 1.041	 eucl dist= 4807624.1979
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=10_r2=0.001
+Iter= 32	 relative error= 1.041	 eucl dist= 4807624.2587
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=10_r2=0.01
+Iter= 33	 relative error= 1.041	 eucl dist= 4807624.8713
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=10_r2=0.1
+Iter= 34	 relative error= 1.041	 eucl dist= 4807631.4317
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=10_r2=1
+Iter= 35	 relative error= 1.0412	 eucl dist= 4807735.7205
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=10_r2=10
+Iter= 36	 relative error= 1.043	 eucl dist= 4810799.8758

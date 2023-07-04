@@ -1,0 +1,2592 @@
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 1	 relative error= 1.041	 eucl dist= 4807454.1701
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 2	 relative error= 1.041	 eucl dist= 4807491.2346
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 3	 relative error= 1.041	 eucl dist= 4807644.5888
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 4	 relative error= 1.0411	 eucl dist= 4808327.2245
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.0001_a1=1r1=1_r2=1
+Iter= 5	 relative error= 1.0413	 eucl dist= 4811291.9821
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.0001_a1=10r1=1_r2=1
+Iter= 6	 relative error= 1.0422	 eucl dist= 4823491.0624
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 7	 relative error= 1.041	 eucl dist= 4807454.1703
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 8	 relative error= 1.041	 eucl dist= 4807491.2347
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 9	 relative error= 1.041	 eucl dist= 4807644.5889
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 10	 relative error= 1.0411	 eucl dist= 4808327.2247
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.001_a1=1r1=1_r2=1
+Iter= 11	 relative error= 1.0413	 eucl dist= 4811291.9822
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.001_a1=10r1=1_r2=1
+Iter= 12	 relative error= 1.0422	 eucl dist= 4823491.0626
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 13	 relative error= 1.041	 eucl dist= 4807454.1719
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 14	 relative error= 1.041	 eucl dist= 4807491.2359
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 15	 relative error= 1.041	 eucl dist= 4807644.5899
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 16	 relative error= 1.0411	 eucl dist= 4808327.2258
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.01_a1=1r1=1_r2=1
+Iter= 17	 relative error= 1.0413	 eucl dist= 4811291.9834
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.01_a1=10r1=1_r2=1
+Iter= 18	 relative error= 1.0422	 eucl dist= 4823491.0637
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 19	 relative error= 1.041	 eucl dist= 4807454.1913
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 20	 relative error= 1.041	 eucl dist= 4807491.2484
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 21	 relative error= 1.041	 eucl dist= 4807644.6001
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 22	 relative error= 1.0411	 eucl dist= 4808327.2371
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.1_a1=1r1=1_r2=1
+Iter= 23	 relative error= 1.0413	 eucl dist= 4811291.9952
+Record_K=15_L1=0.0001_L2=0.0001_L3=0.1_a1=10r1=1_r2=1
+Iter= 24	 relative error= 1.0422	 eucl dist= 4823491.0756
+Record_K=15_L1=0.0001_L2=0.0001_L3=1_a1=0.0001r1=1_r2=1
+Iter= 25	 relative error= 1.041	 eucl dist= 4807454.6473
+Record_K=15_L1=0.0001_L2=0.0001_L3=1_a1=0.001r1=1_r2=1
+Iter= 26	 relative error= 1.041	 eucl dist= 4807491.4603
+Record_K=15_L1=0.0001_L2=0.0001_L3=1_a1=0.01r1=1_r2=1
+Iter= 27	 relative error= 1.041	 eucl dist= 4807644.7254
+Record_K=15_L1=0.0001_L2=0.0001_L3=1_a1=0.1r1=1_r2=1
+Iter= 28	 relative error= 1.0411	 eucl dist= 4808327.3562
+Record_K=15_L1=0.0001_L2=0.0001_L3=1_a1=1r1=1_r2=1
+Iter= 29	 relative error= 1.0413	 eucl dist= 4811292.1144
+Record_K=15_L1=0.0001_L2=0.0001_L3=1_a1=10r1=1_r2=1
+Iter= 30	 relative error= 1.0422	 eucl dist= 4823491.1944
+Record_K=15_L1=0.0001_L2=0.0001_L3=10_a1=0.0001r1=1_r2=1
+Iter= 31	 relative error= 1.0412	 eucl dist= 4807487.7533
+Record_K=15_L1=0.0001_L2=0.0001_L3=10_a1=0.001r1=1_r2=1
+Iter= 32	 relative error= 1.0411	 eucl dist= 4807502.5803
+Record_K=15_L1=0.0001_L2=0.0001_L3=10_a1=0.01r1=1_r2=1
+Iter= 33	 relative error= 1.0411	 eucl dist= 4807648.3435
+Record_K=15_L1=0.0001_L2=0.0001_L3=10_a1=0.1r1=1_r2=1
+Iter= 34	 relative error= 1.0411	 eucl dist= 4808329.1369
+Record_K=15_L1=0.0001_L2=0.0001_L3=10_a1=1r1=1_r2=1
+Iter= 35	 relative error= 1.0413	 eucl dist= 4811293.4457
+Record_K=15_L1=0.0001_L2=0.0001_L3=10_a1=10r1=1_r2=1
+Iter= 36	 relative error= 1.0422	 eucl dist= 4823492.4176
+Record_K=15_L1=0.0001_L2=0.001_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 37	 relative error= 1.041	 eucl dist= 4807454.17
+Record_K=15_L1=0.0001_L2=0.001_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 38	 relative error= 1.041	 eucl dist= 4807491.2346
+Record_K=15_L1=0.0001_L2=0.001_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 39	 relative error= 1.041	 eucl dist= 4807644.5888
+Record_K=15_L1=0.0001_L2=0.001_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 40	 relative error= 1.0411	 eucl dist= 4808327.2245
+Record_K=15_L1=0.0001_L2=0.001_L3=0.0001_a1=1r1=1_r2=1
+Iter= 41	 relative error= 1.0413	 eucl dist= 4811291.9821
+Record_K=15_L1=0.0001_L2=0.001_L3=0.0001_a1=10r1=1_r2=1
+Iter= 42	 relative error= 1.0422	 eucl dist= 4823491.0624
+Record_K=15_L1=0.0001_L2=0.001_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 43	 relative error= 1.041	 eucl dist= 4807454.1702
+Record_K=15_L1=0.0001_L2=0.001_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 44	 relative error= 1.041	 eucl dist= 4807491.2347
+Record_K=15_L1=0.0001_L2=0.001_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 45	 relative error= 1.041	 eucl dist= 4807644.5889
+Record_K=15_L1=0.0001_L2=0.001_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 46	 relative error= 1.0411	 eucl dist= 4808327.2247
+Record_K=15_L1=0.0001_L2=0.001_L3=0.001_a1=1r1=1_r2=1
+Iter= 47	 relative error= 1.0413	 eucl dist= 4811291.9822
+Record_K=15_L1=0.0001_L2=0.001_L3=0.001_a1=10r1=1_r2=1
+Iter= 48	 relative error= 1.0422	 eucl dist= 4823491.0626
+Record_K=15_L1=0.0001_L2=0.001_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 49	 relative error= 1.041	 eucl dist= 4807454.1719
+Record_K=15_L1=0.0001_L2=0.001_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 50	 relative error= 1.041	 eucl dist= 4807491.2359
+Record_K=15_L1=0.0001_L2=0.001_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 51	 relative error= 1.041	 eucl dist= 4807644.5899
+Record_K=15_L1=0.0001_L2=0.001_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 52	 relative error= 1.0411	 eucl dist= 4808327.2258
+Record_K=15_L1=0.0001_L2=0.001_L3=0.01_a1=1r1=1_r2=1
+Iter= 53	 relative error= 1.0413	 eucl dist= 4811291.9834
+Record_K=15_L1=0.0001_L2=0.001_L3=0.01_a1=10r1=1_r2=1
+Iter= 54	 relative error= 1.0422	 eucl dist= 4823491.0637
+Record_K=15_L1=0.0001_L2=0.001_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 55	 relative error= 1.041	 eucl dist= 4807454.1913
+Record_K=15_L1=0.0001_L2=0.001_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 56	 relative error= 1.041	 eucl dist= 4807491.2483
+Record_K=15_L1=0.0001_L2=0.001_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 57	 relative error= 1.041	 eucl dist= 4807644.6001
+Record_K=15_L1=0.0001_L2=0.001_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 58	 relative error= 1.0411	 eucl dist= 4808327.2371
+Record_K=15_L1=0.0001_L2=0.001_L3=0.1_a1=1r1=1_r2=1
+Iter= 59	 relative error= 1.0413	 eucl dist= 4811291.9952
+Record_K=15_L1=0.0001_L2=0.001_L3=0.1_a1=10r1=1_r2=1
+Iter= 60	 relative error= 1.0422	 eucl dist= 4823491.0756
+Record_K=15_L1=0.0001_L2=0.001_L3=1_a1=0.0001r1=1_r2=1
+Iter= 61	 relative error= 1.041	 eucl dist= 4807454.6472
+Record_K=15_L1=0.0001_L2=0.001_L3=1_a1=0.001r1=1_r2=1
+Iter= 62	 relative error= 1.041	 eucl dist= 4807491.4603
+Record_K=15_L1=0.0001_L2=0.001_L3=1_a1=0.01r1=1_r2=1
+Iter= 63	 relative error= 1.041	 eucl dist= 4807644.7254
+Record_K=15_L1=0.0001_L2=0.001_L3=1_a1=0.1r1=1_r2=1
+Iter= 64	 relative error= 1.0411	 eucl dist= 4808327.3562
+Record_K=15_L1=0.0001_L2=0.001_L3=1_a1=1r1=1_r2=1
+Iter= 65	 relative error= 1.0413	 eucl dist= 4811292.1144
+Record_K=15_L1=0.0001_L2=0.001_L3=1_a1=10r1=1_r2=1
+Iter= 66	 relative error= 1.0422	 eucl dist= 4823491.1944
+Record_K=15_L1=0.0001_L2=0.001_L3=10_a1=0.0001r1=1_r2=1
+Iter= 67	 relative error= 1.0412	 eucl dist= 4807487.7533
+Record_K=15_L1=0.0001_L2=0.001_L3=10_a1=0.001r1=1_r2=1
+Iter= 68	 relative error= 1.0411	 eucl dist= 4807502.5803
+Record_K=15_L1=0.0001_L2=0.001_L3=10_a1=0.01r1=1_r2=1
+Iter= 69	 relative error= 1.0411	 eucl dist= 4807648.3435
+Record_K=15_L1=0.0001_L2=0.001_L3=10_a1=0.1r1=1_r2=1
+Iter= 70	 relative error= 1.0411	 eucl dist= 4808329.1369
+Record_K=15_L1=0.0001_L2=0.001_L3=10_a1=1r1=1_r2=1
+Iter= 71	 relative error= 1.0413	 eucl dist= 4811293.4457
+Record_K=15_L1=0.0001_L2=0.001_L3=10_a1=10r1=1_r2=1
+Iter= 72	 relative error= 1.0422	 eucl dist= 4823492.4176
+Record_K=15_L1=0.0001_L2=0.01_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 73	 relative error= 1.041	 eucl dist= 4807454.1695
+Record_K=15_L1=0.0001_L2=0.01_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 74	 relative error= 1.041	 eucl dist= 4807491.2343
+Record_K=15_L1=0.0001_L2=0.01_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 75	 relative error= 1.041	 eucl dist= 4807644.5887
+Record_K=15_L1=0.0001_L2=0.01_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 76	 relative error= 1.0411	 eucl dist= 4808327.2245
+Record_K=15_L1=0.0001_L2=0.01_L3=0.0001_a1=1r1=1_r2=1
+Iter= 77	 relative error= 1.0413	 eucl dist= 4811291.9821
+Record_K=15_L1=0.0001_L2=0.01_L3=0.0001_a1=10r1=1_r2=1
+Iter= 78	 relative error= 1.0422	 eucl dist= 4823491.0624
+Record_K=15_L1=0.0001_L2=0.01_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 79	 relative error= 1.041	 eucl dist= 4807454.1697
+Record_K=15_L1=0.0001_L2=0.01_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 80	 relative error= 1.041	 eucl dist= 4807491.2344
+Record_K=15_L1=0.0001_L2=0.01_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 81	 relative error= 1.041	 eucl dist= 4807644.5888
+Record_K=15_L1=0.0001_L2=0.01_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 82	 relative error= 1.0411	 eucl dist= 4808327.2246
+Record_K=15_L1=0.0001_L2=0.01_L3=0.001_a1=1r1=1_r2=1
+Iter= 83	 relative error= 1.0413	 eucl dist= 4811291.9822
+Record_K=15_L1=0.0001_L2=0.01_L3=0.001_a1=10r1=1_r2=1
+Iter= 84	 relative error= 1.0422	 eucl dist= 4823491.0626
+Record_K=15_L1=0.0001_L2=0.01_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 85	 relative error= 1.041	 eucl dist= 4807454.1714
+Record_K=15_L1=0.0001_L2=0.01_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 86	 relative error= 1.041	 eucl dist= 4807491.2356
+Record_K=15_L1=0.0001_L2=0.01_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 87	 relative error= 1.041	 eucl dist= 4807644.5898
+Record_K=15_L1=0.0001_L2=0.01_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 88	 relative error= 1.0411	 eucl dist= 4808327.2258
+Record_K=15_L1=0.0001_L2=0.01_L3=0.01_a1=1r1=1_r2=1
+Iter= 89	 relative error= 1.0413	 eucl dist= 4811291.9834
+Record_K=15_L1=0.0001_L2=0.01_L3=0.01_a1=10r1=1_r2=1
+Iter= 90	 relative error= 1.0422	 eucl dist= 4823491.0637
+Record_K=15_L1=0.0001_L2=0.01_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 91	 relative error= 1.041	 eucl dist= 4807454.1908
+Record_K=15_L1=0.0001_L2=0.01_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 92	 relative error= 1.041	 eucl dist= 4807491.2481
+Record_K=15_L1=0.0001_L2=0.01_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 93	 relative error= 1.041	 eucl dist= 4807644.6
+Record_K=15_L1=0.0001_L2=0.01_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 94	 relative error= 1.0411	 eucl dist= 4808327.2371
+Record_K=15_L1=0.0001_L2=0.01_L3=0.1_a1=1r1=1_r2=1
+Iter= 95	 relative error= 1.0413	 eucl dist= 4811291.9952
+Record_K=15_L1=0.0001_L2=0.01_L3=0.1_a1=10r1=1_r2=1
+Iter= 96	 relative error= 1.0422	 eucl dist= 4823491.0756
+Record_K=15_L1=0.0001_L2=0.01_L3=1_a1=0.0001r1=1_r2=1
+Iter= 97	 relative error= 1.041	 eucl dist= 4807454.6467
+Record_K=15_L1=0.0001_L2=0.01_L3=1_a1=0.001r1=1_r2=1
+Iter= 98	 relative error= 1.041	 eucl dist= 4807491.46
+Record_K=15_L1=0.0001_L2=0.01_L3=1_a1=0.01r1=1_r2=1
+Iter= 99	 relative error= 1.041	 eucl dist= 4807644.7253
+Record_K=15_L1=0.0001_L2=0.01_L3=1_a1=0.1r1=1_r2=1
+Iter= 100	 relative error= 1.0411	 eucl dist= 4808327.3562
+Record_K=15_L1=0.0001_L2=0.01_L3=1_a1=1r1=1_r2=1
+Iter= 101	 relative error= 1.0413	 eucl dist= 4811292.1144
+Record_K=15_L1=0.0001_L2=0.01_L3=1_a1=10r1=1_r2=1
+Iter= 102	 relative error= 1.0422	 eucl dist= 4823491.1944
+Record_K=15_L1=0.0001_L2=0.01_L3=10_a1=0.0001r1=1_r2=1
+Iter= 103	 relative error= 1.0412	 eucl dist= 4807487.7534
+Record_K=15_L1=0.0001_L2=0.01_L3=10_a1=0.001r1=1_r2=1
+Iter= 104	 relative error= 1.0411	 eucl dist= 4807502.5801
+Record_K=15_L1=0.0001_L2=0.01_L3=10_a1=0.01r1=1_r2=1
+Iter= 105	 relative error= 1.0411	 eucl dist= 4807648.3434
+Record_K=15_L1=0.0001_L2=0.01_L3=10_a1=0.1r1=1_r2=1
+Iter= 106	 relative error= 1.0411	 eucl dist= 4808329.1369
+Record_K=15_L1=0.0001_L2=0.01_L3=10_a1=1r1=1_r2=1
+Iter= 107	 relative error= 1.0413	 eucl dist= 4811293.4457
+Record_K=15_L1=0.0001_L2=0.01_L3=10_a1=10r1=1_r2=1
+Iter= 108	 relative error= 1.0422	 eucl dist= 4823492.4176
+Record_K=15_L1=0.0001_L2=0.1_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 109	 relative error= 1.041	 eucl dist= 4807454.1648
+Record_K=15_L1=0.0001_L2=0.1_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 110	 relative error= 1.041	 eucl dist= 4807491.2317
+Record_K=15_L1=0.0001_L2=0.1_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 111	 relative error= 1.041	 eucl dist= 4807644.5878
+Record_K=15_L1=0.0001_L2=0.1_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 112	 relative error= 1.0411	 eucl dist= 4808327.2243
+Record_K=15_L1=0.0001_L2=0.1_L3=0.0001_a1=1r1=1_r2=1
+Iter= 113	 relative error= 1.0413	 eucl dist= 4811291.9821
+Record_K=15_L1=0.0001_L2=0.1_L3=0.0001_a1=10r1=1_r2=1
+Iter= 114	 relative error= 1.0422	 eucl dist= 4823491.0624
+Record_K=15_L1=0.0001_L2=0.1_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 115	 relative error= 1.041	 eucl dist= 4807454.165
+Record_K=15_L1=0.0001_L2=0.1_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 116	 relative error= 1.041	 eucl dist= 4807491.2318
+Record_K=15_L1=0.0001_L2=0.1_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 117	 relative error= 1.041	 eucl dist= 4807644.5879
+Record_K=15_L1=0.0001_L2=0.1_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 118	 relative error= 1.0411	 eucl dist= 4808327.2244
+Record_K=15_L1=0.0001_L2=0.1_L3=0.001_a1=1r1=1_r2=1
+Iter= 119	 relative error= 1.0413	 eucl dist= 4811291.9822
+Record_K=15_L1=0.0001_L2=0.1_L3=0.001_a1=10r1=1_r2=1
+Iter= 120	 relative error= 1.0422	 eucl dist= 4823491.0625
+Record_K=15_L1=0.0001_L2=0.1_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 121	 relative error= 1.041	 eucl dist= 4807454.1666
+Record_K=15_L1=0.0001_L2=0.1_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 122	 relative error= 1.041	 eucl dist= 4807491.233
+Record_K=15_L1=0.0001_L2=0.1_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 123	 relative error= 1.041	 eucl dist= 4807644.5889
+Record_K=15_L1=0.0001_L2=0.1_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 124	 relative error= 1.0411	 eucl dist= 4808327.2255
+Record_K=15_L1=0.0001_L2=0.1_L3=0.01_a1=1r1=1_r2=1
+Iter= 125	 relative error= 1.0413	 eucl dist= 4811291.9834
+Record_K=15_L1=0.0001_L2=0.1_L3=0.01_a1=10r1=1_r2=1
+Iter= 126	 relative error= 1.0422	 eucl dist= 4823491.0637
+Record_K=15_L1=0.0001_L2=0.1_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 127	 relative error= 1.041	 eucl dist= 4807454.186
+Record_K=15_L1=0.0001_L2=0.1_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 128	 relative error= 1.041	 eucl dist= 4807491.2454
+Record_K=15_L1=0.0001_L2=0.1_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 129	 relative error= 1.041	 eucl dist= 4807644.5991
+Record_K=15_L1=0.0001_L2=0.1_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 130	 relative error= 1.0411	 eucl dist= 4808327.2369
+Record_K=15_L1=0.0001_L2=0.1_L3=0.1_a1=1r1=1_r2=1
+Iter= 131	 relative error= 1.0413	 eucl dist= 4811291.9952
+Record_K=15_L1=0.0001_L2=0.1_L3=0.1_a1=10r1=1_r2=1
+Iter= 132	 relative error= 1.0422	 eucl dist= 4823491.0755
+Record_K=15_L1=0.0001_L2=0.1_L3=1_a1=0.0001r1=1_r2=1
+Iter= 133	 relative error= 1.041	 eucl dist= 4807454.6421
+Record_K=15_L1=0.0001_L2=0.1_L3=1_a1=0.001r1=1_r2=1
+Iter= 134	 relative error= 1.041	 eucl dist= 4807491.4575
+Record_K=15_L1=0.0001_L2=0.1_L3=1_a1=0.01r1=1_r2=1
+Iter= 135	 relative error= 1.041	 eucl dist= 4807644.7244
+Record_K=15_L1=0.0001_L2=0.1_L3=1_a1=0.1r1=1_r2=1
+Iter= 136	 relative error= 1.0411	 eucl dist= 4808327.356
+Record_K=15_L1=0.0001_L2=0.1_L3=1_a1=1r1=1_r2=1
+Iter= 137	 relative error= 1.0413	 eucl dist= 4811292.1144
+Record_K=15_L1=0.0001_L2=0.1_L3=1_a1=10r1=1_r2=1
+Iter= 138	 relative error= 1.0422	 eucl dist= 4823491.1944
+Record_K=15_L1=0.0001_L2=0.1_L3=10_a1=0.0001r1=1_r2=1
+Iter= 139	 relative error= 1.0412	 eucl dist= 4807487.7544
+Record_K=15_L1=0.0001_L2=0.1_L3=10_a1=0.001r1=1_r2=1
+Iter= 140	 relative error= 1.0411	 eucl dist= 4807502.5788
+Record_K=15_L1=0.0001_L2=0.1_L3=10_a1=0.01r1=1_r2=1
+Iter= 141	 relative error= 1.0411	 eucl dist= 4807648.3432
+Record_K=15_L1=0.0001_L2=0.1_L3=10_a1=0.1r1=1_r2=1
+Iter= 142	 relative error= 1.0411	 eucl dist= 4808329.1369
+Record_K=15_L1=0.0001_L2=0.1_L3=10_a1=1r1=1_r2=1
+Iter= 143	 relative error= 1.0413	 eucl dist= 4811293.4458
+Record_K=15_L1=0.0001_L2=0.1_L3=10_a1=10r1=1_r2=1
+Iter= 144	 relative error= 1.0422	 eucl dist= 4823492.4176
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 145	 relative error= 1.041	 eucl dist= 4807454.1371
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 146	 relative error= 1.041	 eucl dist= 4807491.21
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 147	 relative error= 1.041	 eucl dist= 4807644.5789
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 148	 relative error= 1.0411	 eucl dist= 4808327.2223
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=1r1=1_r2=1
+Iter= 149	 relative error= 1.0413	 eucl dist= 4811291.9824
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=10r1=1_r2=1
+Iter= 150	 relative error= 1.0422	 eucl dist= 4823491.062
+Record_K=15_L1=0.0001_L2=1_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 151	 relative error= 1.041	 eucl dist= 4807454.1373
+Record_K=15_L1=0.0001_L2=1_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 152	 relative error= 1.041	 eucl dist= 4807491.2101
+Record_K=15_L1=0.0001_L2=1_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 153	 relative error= 1.041	 eucl dist= 4807644.579
+Record_K=15_L1=0.0001_L2=1_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 154	 relative error= 1.0411	 eucl dist= 4808327.2224
+Record_K=15_L1=0.0001_L2=1_L3=0.001_a1=1r1=1_r2=1
+Iter= 155	 relative error= 1.0413	 eucl dist= 4811291.9825
+Record_K=15_L1=0.0001_L2=1_L3=0.001_a1=10r1=1_r2=1
+Iter= 156	 relative error= 1.0422	 eucl dist= 4823491.0621
+Record_K=15_L1=0.0001_L2=1_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 157	 relative error= 1.041	 eucl dist= 4807454.139
+Record_K=15_L1=0.0001_L2=1_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 158	 relative error= 1.041	 eucl dist= 4807491.2113
+Record_K=15_L1=0.0001_L2=1_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 159	 relative error= 1.041	 eucl dist= 4807644.58
+Record_K=15_L1=0.0001_L2=1_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 160	 relative error= 1.0411	 eucl dist= 4808327.2236
+Record_K=15_L1=0.0001_L2=1_L3=0.01_a1=1r1=1_r2=1
+Iter= 161	 relative error= 1.0413	 eucl dist= 4811291.9837
+Record_K=15_L1=0.0001_L2=1_L3=0.01_a1=10r1=1_r2=1
+Iter= 162	 relative error= 1.0422	 eucl dist= 4823491.0633
+Record_K=15_L1=0.0001_L2=1_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 163	 relative error= 1.041	 eucl dist= 4807454.1584
+Record_K=15_L1=0.0001_L2=1_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 164	 relative error= 1.041	 eucl dist= 4807491.2239
+Record_K=15_L1=0.0001_L2=1_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 165	 relative error= 1.041	 eucl dist= 4807644.5903
+Record_K=15_L1=0.0001_L2=1_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 166	 relative error= 1.0411	 eucl dist= 4808327.2349
+Record_K=15_L1=0.0001_L2=1_L3=0.1_a1=1r1=1_r2=1
+Iter= 167	 relative error= 1.0413	 eucl dist= 4811291.9954
+Record_K=15_L1=0.0001_L2=1_L3=0.1_a1=10r1=1_r2=1
+Iter= 168	 relative error= 1.0422	 eucl dist= 4823491.0751
+Record_K=15_L1=0.0001_L2=1_L3=1_a1=0.0001r1=1_r2=1
+Iter= 169	 relative error= 1.041	 eucl dist= 4807454.6153
+Record_K=15_L1=0.0001_L2=1_L3=1_a1=0.001r1=1_r2=1
+Iter= 170	 relative error= 1.041	 eucl dist= 4807491.4369
+Record_K=15_L1=0.0001_L2=1_L3=1_a1=0.01r1=1_r2=1
+Iter= 171	 relative error= 1.041	 eucl dist= 4807644.7163
+Record_K=15_L1=0.0001_L2=1_L3=1_a1=0.1r1=1_r2=1
+Iter= 172	 relative error= 1.0411	 eucl dist= 4808327.3542
+Record_K=15_L1=0.0001_L2=1_L3=1_a1=1r1=1_r2=1
+Iter= 173	 relative error= 1.0413	 eucl dist= 4811292.1147
+Record_K=15_L1=0.0001_L2=1_L3=1_a1=10r1=1_r2=1
+Iter= 174	 relative error= 1.0422	 eucl dist= 4823491.194
+Record_K=15_L1=0.0001_L2=1_L3=10_a1=0.0001r1=1_r2=1
+Iter= 175	 relative error= 1.0412	 eucl dist= 4807487.7848
+Record_K=15_L1=0.0001_L2=1_L3=10_a1=0.001r1=1_r2=1
+Iter= 176	 relative error= 1.0411	 eucl dist= 4807502.57
+Record_K=15_L1=0.0001_L2=1_L3=10_a1=0.01r1=1_r2=1
+Iter= 177	 relative error= 1.0411	 eucl dist= 4807648.3412
+Record_K=15_L1=0.0001_L2=1_L3=10_a1=0.1r1=1_r2=1
+Iter= 178	 relative error= 1.0411	 eucl dist= 4808329.137
+Record_K=15_L1=0.0001_L2=1_L3=10_a1=1r1=1_r2=1
+Iter= 179	 relative error= 1.0413	 eucl dist= 4811293.4465
+Record_K=15_L1=0.0001_L2=1_L3=10_a1=10r1=1_r2=1
+Iter= 180	 relative error= 1.0422	 eucl dist= 4823492.4172
+Record_K=15_L1=0.0001_L2=10_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 181	 relative error= 1.041	 eucl dist= 4807456.0886
+Record_K=15_L1=0.0001_L2=10_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 182	 relative error= 1.041	 eucl dist= 4807491.4769
+Record_K=15_L1=0.0001_L2=10_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 183	 relative error= 1.041	 eucl dist= 4807644.5765
+Record_K=15_L1=0.0001_L2=10_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 184	 relative error= 1.0411	 eucl dist= 4808327.2202
+Record_K=15_L1=0.0001_L2=10_L3=0.0001_a1=1r1=1_r2=1
+Iter= 185	 relative error= 1.0413	 eucl dist= 4811291.9883
+Record_K=15_L1=0.0001_L2=10_L3=0.0001_a1=10r1=1_r2=1
+Iter= 186	 relative error= 1.0422	 eucl dist= 4823491.0585
+Record_K=15_L1=0.0001_L2=10_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 187	 relative error= 1.041	 eucl dist= 4807456.0887
+Record_K=15_L1=0.0001_L2=10_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 188	 relative error= 1.041	 eucl dist= 4807491.477
+Record_K=15_L1=0.0001_L2=10_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 189	 relative error= 1.041	 eucl dist= 4807644.5766
+Record_K=15_L1=0.0001_L2=10_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 190	 relative error= 1.0411	 eucl dist= 4808327.2203
+Record_K=15_L1=0.0001_L2=10_L3=0.001_a1=1r1=1_r2=1
+Iter= 191	 relative error= 1.0413	 eucl dist= 4811291.9884
+Record_K=15_L1=0.0001_L2=10_L3=0.001_a1=10r1=1_r2=1
+Iter= 192	 relative error= 1.0422	 eucl dist= 4823491.0586
+Record_K=15_L1=0.0001_L2=10_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 193	 relative error= 1.041	 eucl dist= 4807456.09
+Record_K=15_L1=0.0001_L2=10_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 194	 relative error= 1.041	 eucl dist= 4807491.4783
+Record_K=15_L1=0.0001_L2=10_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 195	 relative error= 1.041	 eucl dist= 4807644.5777
+Record_K=15_L1=0.0001_L2=10_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 196	 relative error= 1.0411	 eucl dist= 4808327.2215
+Record_K=15_L1=0.0001_L2=10_L3=0.01_a1=1r1=1_r2=1
+Iter= 197	 relative error= 1.0413	 eucl dist= 4811291.9896
+Record_K=15_L1=0.0001_L2=10_L3=0.01_a1=10r1=1_r2=1
+Iter= 198	 relative error= 1.0422	 eucl dist= 4823491.0598
+Record_K=15_L1=0.0001_L2=10_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 199	 relative error= 1.041	 eucl dist= 4807456.1054
+Record_K=15_L1=0.0001_L2=10_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 200	 relative error= 1.041	 eucl dist= 4807491.4916
+Record_K=15_L1=0.0001_L2=10_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 201	 relative error= 1.041	 eucl dist= 4807644.5886
+Record_K=15_L1=0.0001_L2=10_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 202	 relative error= 1.0411	 eucl dist= 4808327.233
+Record_K=15_L1=0.0001_L2=10_L3=0.1_a1=1r1=1_r2=1
+Iter= 203	 relative error= 1.0413	 eucl dist= 4811292.0015
+Record_K=15_L1=0.0001_L2=10_L3=0.1_a1=10r1=1_r2=1
+Iter= 204	 relative error= 1.0422	 eucl dist= 4823491.0716
+Record_K=15_L1=0.0001_L2=10_L3=1_a1=0.0001r1=1_r2=1
+Iter= 205	 relative error= 1.041	 eucl dist= 4807456.5333
+Record_K=15_L1=0.0001_L2=10_L3=1_a1=0.001r1=1_r2=1
+Iter= 206	 relative error= 1.041	 eucl dist= 4807491.7129
+Record_K=15_L1=0.0001_L2=10_L3=1_a1=0.01r1=1_r2=1
+Iter= 207	 relative error= 1.041	 eucl dist= 4807644.7206
+Record_K=15_L1=0.0001_L2=10_L3=1_a1=0.1r1=1_r2=1
+Iter= 208	 relative error= 1.0411	 eucl dist= 4808327.3542
+Record_K=15_L1=0.0001_L2=10_L3=1_a1=1r1=1_r2=1
+Iter= 209	 relative error= 1.0413	 eucl dist= 4811292.1211
+Record_K=15_L1=0.0001_L2=10_L3=1_a1=10r1=1_r2=1
+Iter= 210	 relative error= 1.0422	 eucl dist= 4823491.1906
+Record_K=15_L1=0.0001_L2=10_L3=10_a1=0.0001r1=1_r2=1
+Iter= 211	 relative error= 1.0412	 eucl dist= 4807490.2487
+Record_K=15_L1=0.0001_L2=10_L3=10_a1=0.001r1=1_r2=1
+Iter= 212	 relative error= 1.0411	 eucl dist= 4807502.965
+Record_K=15_L1=0.0001_L2=10_L3=10_a1=0.01r1=1_r2=1
+Iter= 213	 relative error= 1.0411	 eucl dist= 4807648.4071
+Record_K=15_L1=0.0001_L2=10_L3=10_a1=0.1r1=1_r2=1
+Iter= 214	 relative error= 1.0411	 eucl dist= 4808329.1559
+Record_K=15_L1=0.0001_L2=10_L3=10_a1=1r1=1_r2=1
+Iter= 215	 relative error= 1.0413	 eucl dist= 4811293.4571
+Record_K=15_L1=0.0001_L2=10_L3=10_a1=10r1=1_r2=1
+Iter= 216	 relative error= 1.0422	 eucl dist= 4823492.4147
+Record_K=15_L1=0.001_L2=0.0001_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 217	 relative error= 1.041	 eucl dist= 4807454.1722
+Record_K=15_L1=0.001_L2=0.0001_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 218	 relative error= 1.041	 eucl dist= 4807491.2332
+Record_K=15_L1=0.001_L2=0.0001_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 219	 relative error= 1.041	 eucl dist= 4807644.5882
+Record_K=15_L1=0.001_L2=0.0001_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 220	 relative error= 1.0411	 eucl dist= 4808327.2253
+Record_K=15_L1=0.001_L2=0.0001_L3=0.0001_a1=1r1=1_r2=1
+Iter= 221	 relative error= 1.0413	 eucl dist= 4811291.9833
+Record_K=15_L1=0.001_L2=0.0001_L3=0.0001_a1=10r1=1_r2=1
+Iter= 222	 relative error= 1.0422	 eucl dist= 4823491.0633
+Record_K=15_L1=0.001_L2=0.0001_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 223	 relative error= 1.041	 eucl dist= 4807454.1724
+Record_K=15_L1=0.001_L2=0.0001_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 224	 relative error= 1.041	 eucl dist= 4807491.2334
+Record_K=15_L1=0.001_L2=0.0001_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 225	 relative error= 1.041	 eucl dist= 4807644.5883
+Record_K=15_L1=0.001_L2=0.0001_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 226	 relative error= 1.0411	 eucl dist= 4808327.2254
+Record_K=15_L1=0.001_L2=0.0001_L3=0.001_a1=1r1=1_r2=1
+Iter= 227	 relative error= 1.0413	 eucl dist= 4811291.9834
+Record_K=15_L1=0.001_L2=0.0001_L3=0.001_a1=10r1=1_r2=1
+Iter= 228	 relative error= 1.0422	 eucl dist= 4823491.0634
+Record_K=15_L1=0.001_L2=0.0001_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 229	 relative error= 1.041	 eucl dist= 4807454.1741
+Record_K=15_L1=0.001_L2=0.0001_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 230	 relative error= 1.041	 eucl dist= 4807491.2345
+Record_K=15_L1=0.001_L2=0.0001_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 231	 relative error= 1.041	 eucl dist= 4807644.5892
+Record_K=15_L1=0.001_L2=0.0001_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 232	 relative error= 1.0411	 eucl dist= 4808327.2265
+Record_K=15_L1=0.001_L2=0.0001_L3=0.01_a1=1r1=1_r2=1
+Iter= 233	 relative error= 1.0413	 eucl dist= 4811291.9846
+Record_K=15_L1=0.001_L2=0.0001_L3=0.01_a1=10r1=1_r2=1
+Iter= 234	 relative error= 1.0422	 eucl dist= 4823491.0646
+Record_K=15_L1=0.001_L2=0.0001_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 235	 relative error= 1.041	 eucl dist= 4807454.1935
+Record_K=15_L1=0.001_L2=0.0001_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 236	 relative error= 1.041	 eucl dist= 4807491.247
+Record_K=15_L1=0.001_L2=0.0001_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 237	 relative error= 1.041	 eucl dist= 4807644.5994
+Record_K=15_L1=0.001_L2=0.0001_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 238	 relative error= 1.0411	 eucl dist= 4808327.2378
+Record_K=15_L1=0.001_L2=0.0001_L3=0.1_a1=1r1=1_r2=1
+Iter= 239	 relative error= 1.0413	 eucl dist= 4811291.9964
+Record_K=15_L1=0.001_L2=0.0001_L3=0.1_a1=10r1=1_r2=1
+Iter= 240	 relative error= 1.0422	 eucl dist= 4823491.0765
+Record_K=15_L1=0.001_L2=0.0001_L3=1_a1=0.0001r1=1_r2=1
+Iter= 241	 relative error= 1.041	 eucl dist= 4807454.6495
+Record_K=15_L1=0.001_L2=0.0001_L3=1_a1=0.001r1=1_r2=1
+Iter= 242	 relative error= 1.041	 eucl dist= 4807491.4589
+Record_K=15_L1=0.001_L2=0.0001_L3=1_a1=0.01r1=1_r2=1
+Iter= 243	 relative error= 1.041	 eucl dist= 4807644.7247
+Record_K=15_L1=0.001_L2=0.0001_L3=1_a1=0.1r1=1_r2=1
+Iter= 244	 relative error= 1.0411	 eucl dist= 4808327.3569
+Record_K=15_L1=0.001_L2=0.0001_L3=1_a1=1r1=1_r2=1
+Iter= 245	 relative error= 1.0413	 eucl dist= 4811292.1156
+Record_K=15_L1=0.001_L2=0.0001_L3=1_a1=10r1=1_r2=1
+Iter= 246	 relative error= 1.0422	 eucl dist= 4823491.1953
+Record_K=15_L1=0.001_L2=0.0001_L3=10_a1=0.0001r1=1_r2=1
+Iter= 247	 relative error= 1.0412	 eucl dist= 4807487.7631
+Record_K=15_L1=0.001_L2=0.0001_L3=10_a1=0.001r1=1_r2=1
+Iter= 248	 relative error= 1.0411	 eucl dist= 4807502.5795
+Record_K=15_L1=0.001_L2=0.0001_L3=10_a1=0.01r1=1_r2=1
+Iter= 249	 relative error= 1.0411	 eucl dist= 4807648.3428
+Record_K=15_L1=0.001_L2=0.0001_L3=10_a1=0.1r1=1_r2=1
+Iter= 250	 relative error= 1.0411	 eucl dist= 4808329.1376
+Record_K=15_L1=0.001_L2=0.0001_L3=10_a1=1r1=1_r2=1
+Iter= 251	 relative error= 1.0413	 eucl dist= 4811293.4469
+Record_K=15_L1=0.001_L2=0.0001_L3=10_a1=10r1=1_r2=1
+Iter= 252	 relative error= 1.0422	 eucl dist= 4823492.4185
+Record_K=15_L1=0.001_L2=0.001_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 253	 relative error= 1.041	 eucl dist= 4807454.1722
+Record_K=15_L1=0.001_L2=0.001_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 254	 relative error= 1.041	 eucl dist= 4807491.2332
+Record_K=15_L1=0.001_L2=0.001_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 255	 relative error= 1.041	 eucl dist= 4807644.5881
+Record_K=15_L1=0.001_L2=0.001_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 256	 relative error= 1.0411	 eucl dist= 4808327.2253
+Record_K=15_L1=0.001_L2=0.001_L3=0.0001_a1=1r1=1_r2=1
+Iter= 257	 relative error= 1.0413	 eucl dist= 4811291.9833
+Record_K=15_L1=0.001_L2=0.001_L3=0.0001_a1=10r1=1_r2=1
+Iter= 258	 relative error= 1.0422	 eucl dist= 4823491.0633
+Record_K=15_L1=0.001_L2=0.001_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 259	 relative error= 1.041	 eucl dist= 4807454.1724
+Record_K=15_L1=0.001_L2=0.001_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 260	 relative error= 1.041	 eucl dist= 4807491.2333
+Record_K=15_L1=0.001_L2=0.001_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 261	 relative error= 1.041	 eucl dist= 4807644.5882
+Record_K=15_L1=0.001_L2=0.001_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 262	 relative error= 1.0411	 eucl dist= 4808327.2254
+Record_K=15_L1=0.001_L2=0.001_L3=0.001_a1=1r1=1_r2=1
+Iter= 263	 relative error= 1.0413	 eucl dist= 4811291.9834
+Record_K=15_L1=0.001_L2=0.001_L3=0.001_a1=10r1=1_r2=1
+Iter= 264	 relative error= 1.0422	 eucl dist= 4823491.0634
+Record_K=15_L1=0.001_L2=0.001_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 265	 relative error= 1.041	 eucl dist= 4807454.174
+Record_K=15_L1=0.001_L2=0.001_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 266	 relative error= 1.041	 eucl dist= 4807491.2345
+Record_K=15_L1=0.001_L2=0.001_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 267	 relative error= 1.041	 eucl dist= 4807644.5892
+Record_K=15_L1=0.001_L2=0.001_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 268	 relative error= 1.0411	 eucl dist= 4808327.2265
+Record_K=15_L1=0.001_L2=0.001_L3=0.01_a1=1r1=1_r2=1
+Iter= 269	 relative error= 1.0413	 eucl dist= 4811291.9846
+Record_K=15_L1=0.001_L2=0.001_L3=0.01_a1=10r1=1_r2=1
+Iter= 270	 relative error= 1.0422	 eucl dist= 4823491.0646
+Record_K=15_L1=0.001_L2=0.001_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 271	 relative error= 1.041	 eucl dist= 4807454.1934
+Record_K=15_L1=0.001_L2=0.001_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 272	 relative error= 1.041	 eucl dist= 4807491.247
+Record_K=15_L1=0.001_L2=0.001_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 273	 relative error= 1.041	 eucl dist= 4807644.5994
+Record_K=15_L1=0.001_L2=0.001_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 274	 relative error= 1.0411	 eucl dist= 4808327.2378
+Record_K=15_L1=0.001_L2=0.001_L3=0.1_a1=1r1=1_r2=1
+Iter= 275	 relative error= 1.0413	 eucl dist= 4811291.9964
+Record_K=15_L1=0.001_L2=0.001_L3=0.1_a1=10r1=1_r2=1
+Iter= 276	 relative error= 1.0422	 eucl dist= 4823491.0764
+Record_K=15_L1=0.001_L2=0.001_L3=1_a1=0.0001r1=1_r2=1
+Iter= 277	 relative error= 1.041	 eucl dist= 4807454.6495
+Record_K=15_L1=0.001_L2=0.001_L3=1_a1=0.001r1=1_r2=1
+Iter= 278	 relative error= 1.041	 eucl dist= 4807491.4589
+Record_K=15_L1=0.001_L2=0.001_L3=1_a1=0.01r1=1_r2=1
+Iter= 279	 relative error= 1.041	 eucl dist= 4807644.7247
+Record_K=15_L1=0.001_L2=0.001_L3=1_a1=0.1r1=1_r2=1
+Iter= 280	 relative error= 1.0411	 eucl dist= 4808327.3569
+Record_K=15_L1=0.001_L2=0.001_L3=1_a1=1r1=1_r2=1
+Iter= 281	 relative error= 1.0413	 eucl dist= 4811292.1156
+Record_K=15_L1=0.001_L2=0.001_L3=1_a1=10r1=1_r2=1
+Iter= 282	 relative error= 1.0422	 eucl dist= 4823491.1953
+Record_K=15_L1=0.001_L2=0.001_L3=10_a1=0.0001r1=1_r2=1
+Iter= 283	 relative error= 1.0412	 eucl dist= 4807487.7631
+Record_K=15_L1=0.001_L2=0.001_L3=10_a1=0.001r1=1_r2=1
+Iter= 284	 relative error= 1.0411	 eucl dist= 4807502.5795
+Record_K=15_L1=0.001_L2=0.001_L3=10_a1=0.01r1=1_r2=1
+Iter= 285	 relative error= 1.0411	 eucl dist= 4807648.3428
+Record_K=15_L1=0.001_L2=0.001_L3=10_a1=0.1r1=1_r2=1
+Iter= 286	 relative error= 1.0411	 eucl dist= 4808329.1376
+Record_K=15_L1=0.001_L2=0.001_L3=10_a1=1r1=1_r2=1
+Iter= 287	 relative error= 1.0413	 eucl dist= 4811293.4469
+Record_K=15_L1=0.001_L2=0.001_L3=10_a1=10r1=1_r2=1
+Iter= 288	 relative error= 1.0422	 eucl dist= 4823492.4185
+Record_K=15_L1=0.001_L2=0.01_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 289	 relative error= 1.041	 eucl dist= 4807454.1717
+Record_K=15_L1=0.001_L2=0.01_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 290	 relative error= 1.041	 eucl dist= 4807491.2329
+Record_K=15_L1=0.001_L2=0.01_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 291	 relative error= 1.041	 eucl dist= 4807644.588
+Record_K=15_L1=0.001_L2=0.01_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 292	 relative error= 1.0411	 eucl dist= 4808327.2253
+Record_K=15_L1=0.001_L2=0.01_L3=0.0001_a1=1r1=1_r2=1
+Iter= 293	 relative error= 1.0413	 eucl dist= 4811291.9833
+Record_K=15_L1=0.001_L2=0.01_L3=0.0001_a1=10r1=1_r2=1
+Iter= 294	 relative error= 1.0422	 eucl dist= 4823491.0633
+Record_K=15_L1=0.001_L2=0.01_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 295	 relative error= 1.041	 eucl dist= 4807454.1719
+Record_K=15_L1=0.001_L2=0.01_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 296	 relative error= 1.041	 eucl dist= 4807491.2331
+Record_K=15_L1=0.001_L2=0.01_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 297	 relative error= 1.041	 eucl dist= 4807644.5881
+Record_K=15_L1=0.001_L2=0.01_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 298	 relative error= 1.0411	 eucl dist= 4808327.2254
+Record_K=15_L1=0.001_L2=0.01_L3=0.001_a1=1r1=1_r2=1
+Iter= 299	 relative error= 1.0413	 eucl dist= 4811291.9834
+Record_K=15_L1=0.001_L2=0.01_L3=0.001_a1=10r1=1_r2=1
+Iter= 300	 relative error= 1.0422	 eucl dist= 4823491.0634
+Record_K=15_L1=0.001_L2=0.01_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 301	 relative error= 1.041	 eucl dist= 4807454.1735
+Record_K=15_L1=0.001_L2=0.01_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 302	 relative error= 1.041	 eucl dist= 4807491.2342
+Record_K=15_L1=0.001_L2=0.01_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 303	 relative error= 1.041	 eucl dist= 4807644.5891
+Record_K=15_L1=0.001_L2=0.01_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 304	 relative error= 1.0411	 eucl dist= 4808327.2265
+Record_K=15_L1=0.001_L2=0.01_L3=0.01_a1=1r1=1_r2=1
+Iter= 305	 relative error= 1.0413	 eucl dist= 4811291.9846
+Record_K=15_L1=0.001_L2=0.01_L3=0.01_a1=10r1=1_r2=1
+Iter= 306	 relative error= 1.0422	 eucl dist= 4823491.0646
+Record_K=15_L1=0.001_L2=0.01_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 307	 relative error= 1.041	 eucl dist= 4807454.1929
+Record_K=15_L1=0.001_L2=0.01_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 308	 relative error= 1.041	 eucl dist= 4807491.2467
+Record_K=15_L1=0.001_L2=0.01_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 309	 relative error= 1.041	 eucl dist= 4807644.5993
+Record_K=15_L1=0.001_L2=0.01_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 310	 relative error= 1.0411	 eucl dist= 4808327.2378
+Record_K=15_L1=0.001_L2=0.01_L3=0.1_a1=1r1=1_r2=1
+Iter= 311	 relative error= 1.0413	 eucl dist= 4811291.9964
+Record_K=15_L1=0.001_L2=0.01_L3=0.1_a1=10r1=1_r2=1
+Iter= 312	 relative error= 1.0422	 eucl dist= 4823491.0764
+Record_K=15_L1=0.001_L2=0.01_L3=1_a1=0.0001r1=1_r2=1
+Iter= 313	 relative error= 1.041	 eucl dist= 4807454.649
+Record_K=15_L1=0.001_L2=0.01_L3=1_a1=0.001r1=1_r2=1
+Iter= 314	 relative error= 1.041	 eucl dist= 4807491.4587
+Record_K=15_L1=0.001_L2=0.01_L3=1_a1=0.01r1=1_r2=1
+Iter= 315	 relative error= 1.041	 eucl dist= 4807644.7246
+Record_K=15_L1=0.001_L2=0.01_L3=1_a1=0.1r1=1_r2=1
+Iter= 316	 relative error= 1.0411	 eucl dist= 4808327.3569
+Record_K=15_L1=0.001_L2=0.01_L3=1_a1=1r1=1_r2=1
+Iter= 317	 relative error= 1.0413	 eucl dist= 4811292.1156
+Record_K=15_L1=0.001_L2=0.01_L3=1_a1=10r1=1_r2=1
+Iter= 318	 relative error= 1.0422	 eucl dist= 4823491.1953
+Record_K=15_L1=0.001_L2=0.01_L3=10_a1=0.0001r1=1_r2=1
+Iter= 319	 relative error= 1.0412	 eucl dist= 4807487.7631
+Record_K=15_L1=0.001_L2=0.01_L3=10_a1=0.001r1=1_r2=1
+Iter= 320	 relative error= 1.0411	 eucl dist= 4807502.5794
+Record_K=15_L1=0.001_L2=0.01_L3=10_a1=0.01r1=1_r2=1
+Iter= 321	 relative error= 1.0411	 eucl dist= 4807648.3428
+Record_K=15_L1=0.001_L2=0.01_L3=10_a1=0.1r1=1_r2=1
+Iter= 322	 relative error= 1.0411	 eucl dist= 4808329.1376
+Record_K=15_L1=0.001_L2=0.01_L3=10_a1=1r1=1_r2=1
+Iter= 323	 relative error= 1.0413	 eucl dist= 4811293.4469
+Record_K=15_L1=0.001_L2=0.01_L3=10_a1=10r1=1_r2=1
+Iter= 324	 relative error= 1.0422	 eucl dist= 4823492.4184
+Record_K=15_L1=0.001_L2=0.1_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 325	 relative error= 1.041	 eucl dist= 4807454.1669
+Record_K=15_L1=0.001_L2=0.1_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 326	 relative error= 1.041	 eucl dist= 4807491.2303
+Record_K=15_L1=0.001_L2=0.1_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 327	 relative error= 1.041	 eucl dist= 4807644.5871
+Record_K=15_L1=0.001_L2=0.1_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 328	 relative error= 1.0411	 eucl dist= 4808327.225
+Record_K=15_L1=0.001_L2=0.1_L3=0.0001_a1=1r1=1_r2=1
+Iter= 329	 relative error= 1.0413	 eucl dist= 4811291.9833
+Record_K=15_L1=0.001_L2=0.1_L3=0.0001_a1=10r1=1_r2=1
+Iter= 330	 relative error= 1.0422	 eucl dist= 4823491.0632
+Record_K=15_L1=0.001_L2=0.1_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 331	 relative error= 1.041	 eucl dist= 4807454.1671
+Record_K=15_L1=0.001_L2=0.1_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 332	 relative error= 1.041	 eucl dist= 4807491.2304
+Record_K=15_L1=0.001_L2=0.1_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 333	 relative error= 1.041	 eucl dist= 4807644.5872
+Record_K=15_L1=0.001_L2=0.1_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 334	 relative error= 1.0411	 eucl dist= 4808327.2252
+Record_K=15_L1=0.001_L2=0.1_L3=0.001_a1=1r1=1_r2=1
+Iter= 335	 relative error= 1.0413	 eucl dist= 4811291.9835
+Record_K=15_L1=0.001_L2=0.1_L3=0.001_a1=10r1=1_r2=1
+Iter= 336	 relative error= 1.0422	 eucl dist= 4823491.0634
+Record_K=15_L1=0.001_L2=0.1_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 337	 relative error= 1.041	 eucl dist= 4807454.1688
+Record_K=15_L1=0.001_L2=0.1_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 338	 relative error= 1.041	 eucl dist= 4807491.2316
+Record_K=15_L1=0.001_L2=0.1_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 339	 relative error= 1.041	 eucl dist= 4807644.5882
+Record_K=15_L1=0.001_L2=0.1_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 340	 relative error= 1.0411	 eucl dist= 4808327.2263
+Record_K=15_L1=0.001_L2=0.1_L3=0.01_a1=1r1=1_r2=1
+Iter= 341	 relative error= 1.0413	 eucl dist= 4811291.9846
+Record_K=15_L1=0.001_L2=0.1_L3=0.01_a1=10r1=1_r2=1
+Iter= 342	 relative error= 1.0422	 eucl dist= 4823491.0646
+Record_K=15_L1=0.001_L2=0.1_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 343	 relative error= 1.041	 eucl dist= 4807454.1882
+Record_K=15_L1=0.001_L2=0.1_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 344	 relative error= 1.041	 eucl dist= 4807491.2441
+Record_K=15_L1=0.001_L2=0.1_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 345	 relative error= 1.041	 eucl dist= 4807644.5984
+Record_K=15_L1=0.001_L2=0.1_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 346	 relative error= 1.0411	 eucl dist= 4808327.2376
+Record_K=15_L1=0.001_L2=0.1_L3=0.1_a1=1r1=1_r2=1
+Iter= 347	 relative error= 1.0413	 eucl dist= 4811291.9964
+Record_K=15_L1=0.001_L2=0.1_L3=0.1_a1=10r1=1_r2=1
+Iter= 348	 relative error= 1.0422	 eucl dist= 4823491.0764
+Record_K=15_L1=0.001_L2=0.1_L3=1_a1=0.0001r1=1_r2=1
+Iter= 349	 relative error= 1.041	 eucl dist= 4807454.6443
+Record_K=15_L1=0.001_L2=0.1_L3=1_a1=0.001r1=1_r2=1
+Iter= 350	 relative error= 1.041	 eucl dist= 4807491.4561
+Record_K=15_L1=0.001_L2=0.1_L3=1_a1=0.01r1=1_r2=1
+Iter= 351	 relative error= 1.041	 eucl dist= 4807644.7237
+Record_K=15_L1=0.001_L2=0.1_L3=1_a1=0.1r1=1_r2=1
+Iter= 352	 relative error= 1.0411	 eucl dist= 4808327.3567
+Record_K=15_L1=0.001_L2=0.1_L3=1_a1=1r1=1_r2=1
+Iter= 353	 relative error= 1.0413	 eucl dist= 4811292.1156
+Record_K=15_L1=0.001_L2=0.1_L3=1_a1=10r1=1_r2=1
+Iter= 354	 relative error= 1.0422	 eucl dist= 4823491.1953
+Record_K=15_L1=0.001_L2=0.1_L3=10_a1=0.0001r1=1_r2=1
+Iter= 355	 relative error= 1.0412	 eucl dist= 4807487.7641
+Record_K=15_L1=0.001_L2=0.1_L3=10_a1=0.001r1=1_r2=1
+Iter= 356	 relative error= 1.0411	 eucl dist= 4807502.578
+Record_K=15_L1=0.001_L2=0.1_L3=10_a1=0.01r1=1_r2=1
+Iter= 357	 relative error= 1.0411	 eucl dist= 4807648.3425
+Record_K=15_L1=0.001_L2=0.1_L3=10_a1=0.1r1=1_r2=1
+Iter= 358	 relative error= 1.0411	 eucl dist= 4808329.1376
+Record_K=15_L1=0.001_L2=0.1_L3=10_a1=1r1=1_r2=1
+Iter= 359	 relative error= 1.0413	 eucl dist= 4811293.447
+Record_K=15_L1=0.001_L2=0.1_L3=10_a1=10r1=1_r2=1
+Iter= 360	 relative error= 1.0422	 eucl dist= 4823492.4184
+Record_K=15_L1=0.001_L2=1_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 361	 relative error= 1.041	 eucl dist= 4807454.1393
+Record_K=15_L1=0.001_L2=1_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 362	 relative error= 1.041	 eucl dist= 4807491.2086
+Record_K=15_L1=0.001_L2=1_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 363	 relative error= 1.041	 eucl dist= 4807644.5782
+Record_K=15_L1=0.001_L2=1_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 364	 relative error= 1.0411	 eucl dist= 4808327.2231
+Record_K=15_L1=0.001_L2=1_L3=0.0001_a1=1r1=1_r2=1
+Iter= 365	 relative error= 1.0413	 eucl dist= 4811291.9836
+Record_K=15_L1=0.001_L2=1_L3=0.0001_a1=10r1=1_r2=1
+Iter= 366	 relative error= 1.0422	 eucl dist= 4823491.0628
+Record_K=15_L1=0.001_L2=1_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 367	 relative error= 1.041	 eucl dist= 4807454.1395
+Record_K=15_L1=0.001_L2=1_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 368	 relative error= 1.041	 eucl dist= 4807491.2087
+Record_K=15_L1=0.001_L2=1_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 369	 relative error= 1.041	 eucl dist= 4807644.5783
+Record_K=15_L1=0.001_L2=1_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 370	 relative error= 1.0411	 eucl dist= 4808327.2232
+Record_K=15_L1=0.001_L2=1_L3=0.001_a1=1r1=1_r2=1
+Iter= 371	 relative error= 1.0413	 eucl dist= 4811291.9837
+Record_K=15_L1=0.001_L2=1_L3=0.001_a1=10r1=1_r2=1
+Iter= 372	 relative error= 1.0422	 eucl dist= 4823491.0629
+Record_K=15_L1=0.001_L2=1_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 373	 relative error= 1.041	 eucl dist= 4807454.1411
+Record_K=15_L1=0.001_L2=1_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 374	 relative error= 1.041	 eucl dist= 4807491.2099
+Record_K=15_L1=0.001_L2=1_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 375	 relative error= 1.041	 eucl dist= 4807644.5793
+Record_K=15_L1=0.001_L2=1_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 376	 relative error= 1.0411	 eucl dist= 4808327.2243
+Record_K=15_L1=0.001_L2=1_L3=0.01_a1=1r1=1_r2=1
+Iter= 377	 relative error= 1.0413	 eucl dist= 4811291.9849
+Record_K=15_L1=0.001_L2=1_L3=0.01_a1=10r1=1_r2=1
+Iter= 378	 relative error= 1.0422	 eucl dist= 4823491.0641
+Record_K=15_L1=0.001_L2=1_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 379	 relative error= 1.041	 eucl dist= 4807454.1606
+Record_K=15_L1=0.001_L2=1_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 380	 relative error= 1.041	 eucl dist= 4807491.2225
+Record_K=15_L1=0.001_L2=1_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 381	 relative error= 1.041	 eucl dist= 4807644.5896
+Record_K=15_L1=0.001_L2=1_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 382	 relative error= 1.0411	 eucl dist= 4808327.2357
+Record_K=15_L1=0.001_L2=1_L3=0.1_a1=1r1=1_r2=1
+Iter= 383	 relative error= 1.0413	 eucl dist= 4811291.9967
+Record_K=15_L1=0.001_L2=1_L3=0.1_a1=10r1=1_r2=1
+Iter= 384	 relative error= 1.0422	 eucl dist= 4823491.076
+Record_K=15_L1=0.001_L2=1_L3=1_a1=0.0001r1=1_r2=1
+Iter= 385	 relative error= 1.041	 eucl dist= 4807454.6176
+Record_K=15_L1=0.001_L2=1_L3=1_a1=0.001r1=1_r2=1
+Iter= 386	 relative error= 1.041	 eucl dist= 4807491.4355
+Record_K=15_L1=0.001_L2=1_L3=1_a1=0.01r1=1_r2=1
+Iter= 387	 relative error= 1.041	 eucl dist= 4807644.7156
+Record_K=15_L1=0.001_L2=1_L3=1_a1=0.1r1=1_r2=1
+Iter= 388	 relative error= 1.0411	 eucl dist= 4808327.355
+Record_K=15_L1=0.001_L2=1_L3=1_a1=1r1=1_r2=1
+Iter= 389	 relative error= 1.0413	 eucl dist= 4811292.1159
+Record_K=15_L1=0.001_L2=1_L3=1_a1=10r1=1_r2=1
+Iter= 390	 relative error= 1.0422	 eucl dist= 4823491.1948
+Record_K=15_L1=0.001_L2=1_L3=10_a1=0.0001r1=1_r2=1
+Iter= 391	 relative error= 1.0412	 eucl dist= 4807487.7946
+Record_K=15_L1=0.001_L2=1_L3=10_a1=0.001r1=1_r2=1
+Iter= 392	 relative error= 1.0411	 eucl dist= 4807502.5693
+Record_K=15_L1=0.001_L2=1_L3=10_a1=0.01r1=1_r2=1
+Iter= 393	 relative error= 1.0411	 eucl dist= 4807648.3405
+Record_K=15_L1=0.001_L2=1_L3=10_a1=0.1r1=1_r2=1
+Iter= 394	 relative error= 1.0411	 eucl dist= 4808329.1377
+Record_K=15_L1=0.001_L2=1_L3=10_a1=1r1=1_r2=1
+Iter= 395	 relative error= 1.0413	 eucl dist= 4811293.4477
+Record_K=15_L1=0.001_L2=1_L3=10_a1=10r1=1_r2=1
+Iter= 396	 relative error= 1.0422	 eucl dist= 4823492.4181
+Record_K=15_L1=0.001_L2=10_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 397	 relative error= 1.041	 eucl dist= 4807456.0919
+Record_K=15_L1=0.001_L2=10_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 398	 relative error= 1.041	 eucl dist= 4807491.4757
+Record_K=15_L1=0.001_L2=10_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 399	 relative error= 1.041	 eucl dist= 4807644.5759
+Record_K=15_L1=0.001_L2=10_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 400	 relative error= 1.0411	 eucl dist= 4808327.221
+Record_K=15_L1=0.001_L2=10_L3=0.0001_a1=1r1=1_r2=1
+Iter= 401	 relative error= 1.0413	 eucl dist= 4811291.9896
+Record_K=15_L1=0.001_L2=10_L3=0.0001_a1=10r1=1_r2=1
+Iter= 402	 relative error= 1.0422	 eucl dist= 4823491.0593
+Record_K=15_L1=0.001_L2=10_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 403	 relative error= 1.041	 eucl dist= 4807456.092
+Record_K=15_L1=0.001_L2=10_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 404	 relative error= 1.041	 eucl dist= 4807491.4758
+Record_K=15_L1=0.001_L2=10_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 405	 relative error= 1.041	 eucl dist= 4807644.576
+Record_K=15_L1=0.001_L2=10_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 406	 relative error= 1.0411	 eucl dist= 4808327.2211
+Record_K=15_L1=0.001_L2=10_L3=0.001_a1=1r1=1_r2=1
+Iter= 407	 relative error= 1.0413	 eucl dist= 4811291.9897
+Record_K=15_L1=0.001_L2=10_L3=0.001_a1=10r1=1_r2=1
+Iter= 408	 relative error= 1.0422	 eucl dist= 4823491.0595
+Record_K=15_L1=0.001_L2=10_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 409	 relative error= 1.041	 eucl dist= 4807456.0933
+Record_K=15_L1=0.001_L2=10_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 410	 relative error= 1.041	 eucl dist= 4807491.477
+Record_K=15_L1=0.001_L2=10_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 411	 relative error= 1.041	 eucl dist= 4807644.577
+Record_K=15_L1=0.001_L2=10_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 412	 relative error= 1.0411	 eucl dist= 4808327.2222
+Record_K=15_L1=0.001_L2=10_L3=0.01_a1=1r1=1_r2=1
+Iter= 413	 relative error= 1.0413	 eucl dist= 4811291.9909
+Record_K=15_L1=0.001_L2=10_L3=0.01_a1=10r1=1_r2=1
+Iter= 414	 relative error= 1.0422	 eucl dist= 4823491.0606
+Record_K=15_L1=0.001_L2=10_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 415	 relative error= 1.041	 eucl dist= 4807456.1087
+Record_K=15_L1=0.001_L2=10_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 416	 relative error= 1.041	 eucl dist= 4807491.4903
+Record_K=15_L1=0.001_L2=10_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 417	 relative error= 1.041	 eucl dist= 4807644.5879
+Record_K=15_L1=0.001_L2=10_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 418	 relative error= 1.0411	 eucl dist= 4808327.2338
+Record_K=15_L1=0.001_L2=10_L3=0.1_a1=1r1=1_r2=1
+Iter= 419	 relative error= 1.0413	 eucl dist= 4811292.0027
+Record_K=15_L1=0.001_L2=10_L3=0.1_a1=10r1=1_r2=1
+Iter= 420	 relative error= 1.0422	 eucl dist= 4823491.0725
+Record_K=15_L1=0.001_L2=10_L3=1_a1=0.0001r1=1_r2=1
+Iter= 421	 relative error= 1.0411	 eucl dist= 4807456.5367
+Record_K=15_L1=0.001_L2=10_L3=1_a1=0.001r1=1_r2=1
+Iter= 422	 relative error= 1.041	 eucl dist= 4807491.7117
+Record_K=15_L1=0.001_L2=10_L3=1_a1=0.01r1=1_r2=1
+Iter= 423	 relative error= 1.041	 eucl dist= 4807644.72
+Record_K=15_L1=0.001_L2=10_L3=1_a1=0.1r1=1_r2=1
+Iter= 424	 relative error= 1.0411	 eucl dist= 4808327.3549
+Record_K=15_L1=0.001_L2=10_L3=1_a1=1r1=1_r2=1
+Iter= 425	 relative error= 1.0413	 eucl dist= 4811292.1223
+Record_K=15_L1=0.001_L2=10_L3=1_a1=10r1=1_r2=1
+Iter= 426	 relative error= 1.0422	 eucl dist= 4823491.1914
+Record_K=15_L1=0.001_L2=10_L3=10_a1=0.0001r1=1_r2=1
+Iter= 427	 relative error= 1.0412	 eucl dist= 4807490.2598
+Record_K=15_L1=0.001_L2=10_L3=10_a1=0.001r1=1_r2=1
+Iter= 428	 relative error= 1.0411	 eucl dist= 4807502.9644
+Record_K=15_L1=0.001_L2=10_L3=10_a1=0.01r1=1_r2=1
+Iter= 429	 relative error= 1.0411	 eucl dist= 4807648.4064
+Record_K=15_L1=0.001_L2=10_L3=10_a1=0.1r1=1_r2=1
+Iter= 430	 relative error= 1.0411	 eucl dist= 4808329.1567
+Record_K=15_L1=0.001_L2=10_L3=10_a1=1r1=1_r2=1
+Iter= 431	 relative error= 1.0413	 eucl dist= 4811293.4583
+Record_K=15_L1=0.001_L2=10_L3=10_a1=10r1=1_r2=1
+Iter= 432	 relative error= 1.0422	 eucl dist= 4823492.4155
+Record_K=15_L1=0.01_L2=0.0001_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 433	 relative error= 1.0411	 eucl dist= 4807454.2187
+Record_K=15_L1=0.01_L2=0.0001_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 434	 relative error= 1.041	 eucl dist= 4807491.2258
+Record_K=15_L1=0.01_L2=0.0001_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 435	 relative error= 1.041	 eucl dist= 4807644.583
+Record_K=15_L1=0.01_L2=0.0001_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 436	 relative error= 1.0411	 eucl dist= 4808327.2332
+Record_K=15_L1=0.01_L2=0.0001_L3=0.0001_a1=1r1=1_r2=1
+Iter= 437	 relative error= 1.0413	 eucl dist= 4811291.9957
+Record_K=15_L1=0.01_L2=0.0001_L3=0.0001_a1=10r1=1_r2=1
+Iter= 438	 relative error= 1.0422	 eucl dist= 4823491.0719
+Record_K=15_L1=0.01_L2=0.0001_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 439	 relative error= 1.0411	 eucl dist= 4807454.2189
+Record_K=15_L1=0.01_L2=0.0001_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 440	 relative error= 1.041	 eucl dist= 4807491.2259
+Record_K=15_L1=0.01_L2=0.0001_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 441	 relative error= 1.041	 eucl dist= 4807644.5831
+Record_K=15_L1=0.01_L2=0.0001_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 442	 relative error= 1.0411	 eucl dist= 4808327.2333
+Record_K=15_L1=0.01_L2=0.0001_L3=0.001_a1=1r1=1_r2=1
+Iter= 443	 relative error= 1.0413	 eucl dist= 4811291.9958
+Record_K=15_L1=0.01_L2=0.0001_L3=0.001_a1=10r1=1_r2=1
+Iter= 444	 relative error= 1.0422	 eucl dist= 4823491.072
+Record_K=15_L1=0.01_L2=0.0001_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 445	 relative error= 1.0411	 eucl dist= 4807454.2206
+Record_K=15_L1=0.01_L2=0.0001_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 446	 relative error= 1.041	 eucl dist= 4807491.2271
+Record_K=15_L1=0.01_L2=0.0001_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 447	 relative error= 1.041	 eucl dist= 4807644.5841
+Record_K=15_L1=0.01_L2=0.0001_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 448	 relative error= 1.0411	 eucl dist= 4808327.2344
+Record_K=15_L1=0.01_L2=0.0001_L3=0.01_a1=1r1=1_r2=1
+Iter= 449	 relative error= 1.0413	 eucl dist= 4811291.997
+Record_K=15_L1=0.01_L2=0.0001_L3=0.01_a1=10r1=1_r2=1
+Iter= 450	 relative error= 1.0422	 eucl dist= 4823491.0732
+Record_K=15_L1=0.01_L2=0.0001_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 451	 relative error= 1.0411	 eucl dist= 4807454.24
+Record_K=15_L1=0.01_L2=0.0001_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 452	 relative error= 1.041	 eucl dist= 4807491.2396
+Record_K=15_L1=0.01_L2=0.0001_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 453	 relative error= 1.041	 eucl dist= 4807644.5943
+Record_K=15_L1=0.01_L2=0.0001_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 454	 relative error= 1.0411	 eucl dist= 4808327.2458
+Record_K=15_L1=0.01_L2=0.0001_L3=0.1_a1=1r1=1_r2=1
+Iter= 455	 relative error= 1.0413	 eucl dist= 4811292.0088
+Record_K=15_L1=0.01_L2=0.0001_L3=0.1_a1=10r1=1_r2=1
+Iter= 456	 relative error= 1.0422	 eucl dist= 4823491.085
+Record_K=15_L1=0.01_L2=0.0001_L3=1_a1=0.0001r1=1_r2=1
+Iter= 457	 relative error= 1.0411	 eucl dist= 4807454.6973
+Record_K=15_L1=0.01_L2=0.0001_L3=1_a1=0.001r1=1_r2=1
+Iter= 458	 relative error= 1.041	 eucl dist= 4807491.4517
+Record_K=15_L1=0.01_L2=0.0001_L3=1_a1=0.01r1=1_r2=1
+Iter= 459	 relative error= 1.041	 eucl dist= 4807644.7196
+Record_K=15_L1=0.01_L2=0.0001_L3=1_a1=0.1r1=1_r2=1
+Iter= 460	 relative error= 1.0411	 eucl dist= 4808327.3649
+Record_K=15_L1=0.01_L2=0.0001_L3=1_a1=1r1=1_r2=1
+Iter= 461	 relative error= 1.0413	 eucl dist= 4811292.1279
+Record_K=15_L1=0.01_L2=0.0001_L3=1_a1=10r1=1_r2=1
+Iter= 462	 relative error= 1.0422	 eucl dist= 4823491.2039
+Record_K=15_L1=0.01_L2=0.0001_L3=10_a1=0.0001r1=1_r2=1
+Iter= 463	 relative error= 1.0412	 eucl dist= 4807487.887
+Record_K=15_L1=0.01_L2=0.0001_L3=10_a1=0.001r1=1_r2=1
+Iter= 464	 relative error= 1.0411	 eucl dist= 4807502.5783
+Record_K=15_L1=0.01_L2=0.0001_L3=10_a1=0.01r1=1_r2=1
+Iter= 465	 relative error= 1.0411	 eucl dist= 4807648.3381
+Record_K=15_L1=0.01_L2=0.0001_L3=10_a1=0.1r1=1_r2=1
+Iter= 466	 relative error= 1.0411	 eucl dist= 4808329.1456
+Record_K=15_L1=0.01_L2=0.0001_L3=10_a1=1r1=1_r2=1
+Iter= 467	 relative error= 1.0413	 eucl dist= 4811293.4593
+Record_K=15_L1=0.01_L2=0.0001_L3=10_a1=10r1=1_r2=1
+Iter= 468	 relative error= 1.0422	 eucl dist= 4823492.427
+Record_K=15_L1=0.01_L2=0.001_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 469	 relative error= 1.0411	 eucl dist= 4807454.2187
+Record_K=15_L1=0.01_L2=0.001_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 470	 relative error= 1.041	 eucl dist= 4807491.2258
+Record_K=15_L1=0.01_L2=0.001_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 471	 relative error= 1.041	 eucl dist= 4807644.583
+Record_K=15_L1=0.01_L2=0.001_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 472	 relative error= 1.0411	 eucl dist= 4808327.2332
+Record_K=15_L1=0.01_L2=0.001_L3=0.0001_a1=1r1=1_r2=1
+Iter= 473	 relative error= 1.0413	 eucl dist= 4811291.9957
+Record_K=15_L1=0.01_L2=0.001_L3=0.0001_a1=10r1=1_r2=1
+Iter= 474	 relative error= 1.0422	 eucl dist= 4823491.0719
+Record_K=15_L1=0.01_L2=0.001_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 475	 relative error= 1.0411	 eucl dist= 4807454.2188
+Record_K=15_L1=0.01_L2=0.001_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 476	 relative error= 1.041	 eucl dist= 4807491.2259
+Record_K=15_L1=0.01_L2=0.001_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 477	 relative error= 1.041	 eucl dist= 4807644.5831
+Record_K=15_L1=0.01_L2=0.001_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 478	 relative error= 1.0411	 eucl dist= 4808327.2333
+Record_K=15_L1=0.01_L2=0.001_L3=0.001_a1=1r1=1_r2=1
+Iter= 479	 relative error= 1.0413	 eucl dist= 4811291.9958
+Record_K=15_L1=0.01_L2=0.001_L3=0.001_a1=10r1=1_r2=1
+Iter= 480	 relative error= 1.0422	 eucl dist= 4823491.072
+Record_K=15_L1=0.01_L2=0.001_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 481	 relative error= 1.0411	 eucl dist= 4807454.2205
+Record_K=15_L1=0.01_L2=0.001_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 482	 relative error= 1.041	 eucl dist= 4807491.227
+Record_K=15_L1=0.01_L2=0.001_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 483	 relative error= 1.041	 eucl dist= 4807644.5841
+Record_K=15_L1=0.01_L2=0.001_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 484	 relative error= 1.0411	 eucl dist= 4808327.2344
+Record_K=15_L1=0.01_L2=0.001_L3=0.01_a1=1r1=1_r2=1
+Iter= 485	 relative error= 1.0413	 eucl dist= 4811291.997
+Record_K=15_L1=0.01_L2=0.001_L3=0.01_a1=10r1=1_r2=1
+Iter= 486	 relative error= 1.0422	 eucl dist= 4823491.0732
+Record_K=15_L1=0.01_L2=0.001_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 487	 relative error= 1.0411	 eucl dist= 4807454.24
+Record_K=15_L1=0.01_L2=0.001_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 488	 relative error= 1.041	 eucl dist= 4807491.2395
+Record_K=15_L1=0.01_L2=0.001_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 489	 relative error= 1.041	 eucl dist= 4807644.5943
+Record_K=15_L1=0.01_L2=0.001_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 490	 relative error= 1.0411	 eucl dist= 4808327.2458
+Record_K=15_L1=0.01_L2=0.001_L3=0.1_a1=1r1=1_r2=1
+Iter= 491	 relative error= 1.0413	 eucl dist= 4811292.0088
+Record_K=15_L1=0.01_L2=0.001_L3=0.1_a1=10r1=1_r2=1
+Iter= 492	 relative error= 1.0422	 eucl dist= 4823491.085
+Record_K=15_L1=0.01_L2=0.001_L3=1_a1=0.0001r1=1_r2=1
+Iter= 493	 relative error= 1.0411	 eucl dist= 4807454.6973
+Record_K=15_L1=0.01_L2=0.001_L3=1_a1=0.001r1=1_r2=1
+Iter= 494	 relative error= 1.041	 eucl dist= 4807491.4517
+Record_K=15_L1=0.01_L2=0.001_L3=1_a1=0.01r1=1_r2=1
+Iter= 495	 relative error= 1.041	 eucl dist= 4807644.7196
+Record_K=15_L1=0.01_L2=0.001_L3=1_a1=0.1r1=1_r2=1
+Iter= 496	 relative error= 1.0411	 eucl dist= 4808327.3649
+Record_K=15_L1=0.01_L2=0.001_L3=1_a1=1r1=1_r2=1
+Iter= 497	 relative error= 1.0413	 eucl dist= 4811292.1279
+Record_K=15_L1=0.01_L2=0.001_L3=1_a1=10r1=1_r2=1
+Iter= 498	 relative error= 1.0422	 eucl dist= 4823491.2039
+Record_K=15_L1=0.01_L2=0.001_L3=10_a1=0.0001r1=1_r2=1
+Iter= 499	 relative error= 1.0412	 eucl dist= 4807487.887
+Record_K=15_L1=0.01_L2=0.001_L3=10_a1=0.001r1=1_r2=1
+Iter= 500	 relative error= 1.0411	 eucl dist= 4807502.5783
+Record_K=15_L1=0.01_L2=0.001_L3=10_a1=0.01r1=1_r2=1
+Iter= 501	 relative error= 1.0411	 eucl dist= 4807648.3381
+Record_K=15_L1=0.01_L2=0.001_L3=10_a1=0.1r1=1_r2=1
+Iter= 502	 relative error= 1.0411	 eucl dist= 4808329.1456
+Record_K=15_L1=0.01_L2=0.001_L3=10_a1=1r1=1_r2=1
+Iter= 503	 relative error= 1.0413	 eucl dist= 4811293.4593
+Record_K=15_L1=0.01_L2=0.001_L3=10_a1=10r1=1_r2=1
+Iter= 504	 relative error= 1.0422	 eucl dist= 4823492.427
+Record_K=15_L1=0.01_L2=0.01_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 505	 relative error= 1.0411	 eucl dist= 4807454.2182
+Record_K=15_L1=0.01_L2=0.01_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 506	 relative error= 1.041	 eucl dist= 4807491.2255
+Record_K=15_L1=0.01_L2=0.01_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 507	 relative error= 1.041	 eucl dist= 4807644.5829
+Record_K=15_L1=0.01_L2=0.01_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 508	 relative error= 1.0411	 eucl dist= 4808327.2332
+Record_K=15_L1=0.01_L2=0.01_L3=0.0001_a1=1r1=1_r2=1
+Iter= 509	 relative error= 1.0413	 eucl dist= 4811291.9957
+Record_K=15_L1=0.01_L2=0.01_L3=0.0001_a1=10r1=1_r2=1
+Iter= 510	 relative error= 1.0422	 eucl dist= 4823491.0719
+Record_K=15_L1=0.01_L2=0.01_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 511	 relative error= 1.0411	 eucl dist= 4807454.2183
+Record_K=15_L1=0.01_L2=0.01_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 512	 relative error= 1.041	 eucl dist= 4807491.2256
+Record_K=15_L1=0.01_L2=0.01_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 513	 relative error= 1.041	 eucl dist= 4807644.583
+Record_K=15_L1=0.01_L2=0.01_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 514	 relative error= 1.0411	 eucl dist= 4808327.2333
+Record_K=15_L1=0.01_L2=0.01_L3=0.001_a1=1r1=1_r2=1
+Iter= 515	 relative error= 1.0413	 eucl dist= 4811291.9958
+Record_K=15_L1=0.01_L2=0.01_L3=0.001_a1=10r1=1_r2=1
+Iter= 516	 relative error= 1.0422	 eucl dist= 4823491.072
+Record_K=15_L1=0.01_L2=0.01_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 517	 relative error= 1.0411	 eucl dist= 4807454.22
+Record_K=15_L1=0.01_L2=0.01_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 518	 relative error= 1.041	 eucl dist= 4807491.2268
+Record_K=15_L1=0.01_L2=0.01_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 519	 relative error= 1.041	 eucl dist= 4807644.584
+Record_K=15_L1=0.01_L2=0.01_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 520	 relative error= 1.0411	 eucl dist= 4808327.2344
+Record_K=15_L1=0.01_L2=0.01_L3=0.01_a1=1r1=1_r2=1
+Iter= 521	 relative error= 1.0413	 eucl dist= 4811291.997
+Record_K=15_L1=0.01_L2=0.01_L3=0.01_a1=10r1=1_r2=1
+Iter= 522	 relative error= 1.0422	 eucl dist= 4823491.0732
+Record_K=15_L1=0.01_L2=0.01_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 523	 relative error= 1.0411	 eucl dist= 4807454.2395
+Record_K=15_L1=0.01_L2=0.01_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 524	 relative error= 1.041	 eucl dist= 4807491.2393
+Record_K=15_L1=0.01_L2=0.01_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 525	 relative error= 1.041	 eucl dist= 4807644.5942
+Record_K=15_L1=0.01_L2=0.01_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 526	 relative error= 1.0411	 eucl dist= 4808327.2457
+Record_K=15_L1=0.01_L2=0.01_L3=0.1_a1=1r1=1_r2=1
+Iter= 527	 relative error= 1.0413	 eucl dist= 4811292.0088
+Record_K=15_L1=0.01_L2=0.01_L3=0.1_a1=10r1=1_r2=1
+Iter= 528	 relative error= 1.0422	 eucl dist= 4823491.085
+Record_K=15_L1=0.01_L2=0.01_L3=1_a1=0.0001r1=1_r2=1
+Iter= 529	 relative error= 1.0411	 eucl dist= 4807454.6968
+Record_K=15_L1=0.01_L2=0.01_L3=1_a1=0.001r1=1_r2=1
+Iter= 530	 relative error= 1.041	 eucl dist= 4807491.4514
+Record_K=15_L1=0.01_L2=0.01_L3=1_a1=0.01r1=1_r2=1
+Iter= 531	 relative error= 1.041	 eucl dist= 4807644.7195
+Record_K=15_L1=0.01_L2=0.01_L3=1_a1=0.1r1=1_r2=1
+Iter= 532	 relative error= 1.0411	 eucl dist= 4808327.3648
+Record_K=15_L1=0.01_L2=0.01_L3=1_a1=1r1=1_r2=1
+Iter= 533	 relative error= 1.0413	 eucl dist= 4811292.1279
+Record_K=15_L1=0.01_L2=0.01_L3=1_a1=10r1=1_r2=1
+Iter= 534	 relative error= 1.0422	 eucl dist= 4823491.2039
+Record_K=15_L1=0.01_L2=0.01_L3=10_a1=0.0001r1=1_r2=1
+Iter= 535	 relative error= 1.0412	 eucl dist= 4807487.8871
+Record_K=15_L1=0.01_L2=0.01_L3=10_a1=0.001r1=1_r2=1
+Iter= 536	 relative error= 1.0411	 eucl dist= 4807502.5782
+Record_K=15_L1=0.01_L2=0.01_L3=10_a1=0.01r1=1_r2=1
+Iter= 537	 relative error= 1.0411	 eucl dist= 4807648.3381
+Record_K=15_L1=0.01_L2=0.01_L3=10_a1=0.1r1=1_r2=1
+Iter= 538	 relative error= 1.0411	 eucl dist= 4808329.1456
+Record_K=15_L1=0.01_L2=0.01_L3=10_a1=1r1=1_r2=1
+Iter= 539	 relative error= 1.0413	 eucl dist= 4811293.4593
+Record_K=15_L1=0.01_L2=0.01_L3=10_a1=10r1=1_r2=1
+Iter= 540	 relative error= 1.0422	 eucl dist= 4823492.427
+Record_K=15_L1=0.01_L2=0.1_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 541	 relative error= 1.0411	 eucl dist= 4807454.2134
+Record_K=15_L1=0.01_L2=0.1_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 542	 relative error= 1.041	 eucl dist= 4807491.2228
+Record_K=15_L1=0.01_L2=0.1_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 543	 relative error= 1.041	 eucl dist= 4807644.582
+Record_K=15_L1=0.01_L2=0.1_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 544	 relative error= 1.0411	 eucl dist= 4808327.233
+Record_K=15_L1=0.01_L2=0.1_L3=0.0001_a1=1r1=1_r2=1
+Iter= 545	 relative error= 1.0413	 eucl dist= 4811291.9957
+Record_K=15_L1=0.01_L2=0.1_L3=0.0001_a1=10r1=1_r2=1
+Iter= 546	 relative error= 1.0422	 eucl dist= 4823491.0718
+Record_K=15_L1=0.01_L2=0.1_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 547	 relative error= 1.0411	 eucl dist= 4807454.2136
+Record_K=15_L1=0.01_L2=0.1_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 548	 relative error= 1.041	 eucl dist= 4807491.223
+Record_K=15_L1=0.01_L2=0.1_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 549	 relative error= 1.041	 eucl dist= 4807644.5821
+Record_K=15_L1=0.01_L2=0.1_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 550	 relative error= 1.0411	 eucl dist= 4808327.2331
+Record_K=15_L1=0.01_L2=0.1_L3=0.001_a1=1r1=1_r2=1
+Iter= 551	 relative error= 1.0413	 eucl dist= 4811291.9958
+Record_K=15_L1=0.01_L2=0.1_L3=0.001_a1=10r1=1_r2=1
+Iter= 552	 relative error= 1.0422	 eucl dist= 4823491.0719
+Record_K=15_L1=0.01_L2=0.1_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 553	 relative error= 1.0411	 eucl dist= 4807454.2153
+Record_K=15_L1=0.01_L2=0.1_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 554	 relative error= 1.041	 eucl dist= 4807491.2241
+Record_K=15_L1=0.01_L2=0.1_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 555	 relative error= 1.041	 eucl dist= 4807644.5831
+Record_K=15_L1=0.01_L2=0.1_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 556	 relative error= 1.0411	 eucl dist= 4808327.2342
+Record_K=15_L1=0.01_L2=0.1_L3=0.01_a1=1r1=1_r2=1
+Iter= 557	 relative error= 1.0413	 eucl dist= 4811291.997
+Record_K=15_L1=0.01_L2=0.1_L3=0.01_a1=10r1=1_r2=1
+Iter= 558	 relative error= 1.0422	 eucl dist= 4823491.0731
+Record_K=15_L1=0.01_L2=0.1_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 559	 relative error= 1.0411	 eucl dist= 4807454.2348
+Record_K=15_L1=0.01_L2=0.1_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 560	 relative error= 1.041	 eucl dist= 4807491.2366
+Record_K=15_L1=0.01_L2=0.1_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 561	 relative error= 1.041	 eucl dist= 4807644.5933
+Record_K=15_L1=0.01_L2=0.1_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 562	 relative error= 1.0411	 eucl dist= 4808327.2455
+Record_K=15_L1=0.01_L2=0.1_L3=0.1_a1=1r1=1_r2=1
+Iter= 563	 relative error= 1.0413	 eucl dist= 4811292.0088
+Record_K=15_L1=0.01_L2=0.1_L3=0.1_a1=10r1=1_r2=1
+Iter= 564	 relative error= 1.0422	 eucl dist= 4823491.085
+Record_K=15_L1=0.01_L2=0.1_L3=1_a1=0.0001r1=1_r2=1
+Iter= 565	 relative error= 1.0411	 eucl dist= 4807454.6922
+Record_K=15_L1=0.01_L2=0.1_L3=1_a1=0.001r1=1_r2=1
+Iter= 566	 relative error= 1.041	 eucl dist= 4807491.4489
+Record_K=15_L1=0.01_L2=0.1_L3=1_a1=0.01r1=1_r2=1
+Iter= 567	 relative error= 1.041	 eucl dist= 4807644.7186
+Record_K=15_L1=0.01_L2=0.1_L3=1_a1=0.1r1=1_r2=1
+Iter= 568	 relative error= 1.0411	 eucl dist= 4808327.3646
+Record_K=15_L1=0.01_L2=0.1_L3=1_a1=1r1=1_r2=1
+Iter= 569	 relative error= 1.0413	 eucl dist= 4811292.128
+Record_K=15_L1=0.01_L2=0.1_L3=1_a1=10r1=1_r2=1
+Iter= 570	 relative error= 1.0422	 eucl dist= 4823491.2038
+Record_K=15_L1=0.01_L2=0.1_L3=10_a1=0.0001r1=1_r2=1
+Iter= 571	 relative error= 1.0412	 eucl dist= 4807487.8881
+Record_K=15_L1=0.01_L2=0.1_L3=10_a1=0.001r1=1_r2=1
+Iter= 572	 relative error= 1.0411	 eucl dist= 4807502.5768
+Record_K=15_L1=0.01_L2=0.1_L3=10_a1=0.01r1=1_r2=1
+Iter= 573	 relative error= 1.0411	 eucl dist= 4807648.3378
+Record_K=15_L1=0.01_L2=0.1_L3=10_a1=0.1r1=1_r2=1
+Iter= 574	 relative error= 1.0411	 eucl dist= 4808329.1456
+Record_K=15_L1=0.01_L2=0.1_L3=10_a1=1r1=1_r2=1
+Iter= 575	 relative error= 1.0413	 eucl dist= 4811293.4593
+Record_K=15_L1=0.01_L2=0.1_L3=10_a1=10r1=1_r2=1
+Iter= 576	 relative error= 1.0422	 eucl dist= 4823492.427
+Record_K=15_L1=0.01_L2=1_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 577	 relative error= 1.0411	 eucl dist= 4807454.1862
+Record_K=15_L1=0.01_L2=1_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 578	 relative error= 1.041	 eucl dist= 4807491.2012
+Record_K=15_L1=0.01_L2=1_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 579	 relative error= 1.041	 eucl dist= 4807644.5731
+Record_K=15_L1=0.01_L2=1_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 580	 relative error= 1.0411	 eucl dist= 4808327.231
+Record_K=15_L1=0.01_L2=1_L3=0.0001_a1=1r1=1_r2=1
+Iter= 581	 relative error= 1.0413	 eucl dist= 4811291.9959
+Record_K=15_L1=0.01_L2=1_L3=0.0001_a1=10r1=1_r2=1
+Iter= 582	 relative error= 1.0422	 eucl dist= 4823491.0714
+Record_K=15_L1=0.01_L2=1_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 583	 relative error= 1.0411	 eucl dist= 4807454.1864
+Record_K=15_L1=0.01_L2=1_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 584	 relative error= 1.041	 eucl dist= 4807491.2014
+Record_K=15_L1=0.01_L2=1_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 585	 relative error= 1.041	 eucl dist= 4807644.5732
+Record_K=15_L1=0.01_L2=1_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 586	 relative error= 1.0411	 eucl dist= 4808327.2311
+Record_K=15_L1=0.01_L2=1_L3=0.001_a1=1r1=1_r2=1
+Iter= 587	 relative error= 1.0413	 eucl dist= 4811291.9961
+Record_K=15_L1=0.01_L2=1_L3=0.001_a1=10r1=1_r2=1
+Iter= 588	 relative error= 1.0422	 eucl dist= 4823491.0715
+Record_K=15_L1=0.01_L2=1_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 589	 relative error= 1.0411	 eucl dist= 4807454.188
+Record_K=15_L1=0.01_L2=1_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 590	 relative error= 1.041	 eucl dist= 4807491.2025
+Record_K=15_L1=0.01_L2=1_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 591	 relative error= 1.041	 eucl dist= 4807644.5742
+Record_K=15_L1=0.01_L2=1_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 592	 relative error= 1.0411	 eucl dist= 4808327.2322
+Record_K=15_L1=0.01_L2=1_L3=0.01_a1=1r1=1_r2=1
+Iter= 593	 relative error= 1.0413	 eucl dist= 4811291.9972
+Record_K=15_L1=0.01_L2=1_L3=0.01_a1=10r1=1_r2=1
+Iter= 594	 relative error= 1.0422	 eucl dist= 4823491.0727
+Record_K=15_L1=0.01_L2=1_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 595	 relative error= 1.0411	 eucl dist= 4807454.2076
+Record_K=15_L1=0.01_L2=1_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 596	 relative error= 1.041	 eucl dist= 4807491.2151
+Record_K=15_L1=0.01_L2=1_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 597	 relative error= 1.041	 eucl dist= 4807644.5845
+Record_K=15_L1=0.01_L2=1_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 598	 relative error= 1.0411	 eucl dist= 4808327.2436
+Record_K=15_L1=0.01_L2=1_L3=0.1_a1=1r1=1_r2=1
+Iter= 599	 relative error= 1.0413	 eucl dist= 4811292.009
+Record_K=15_L1=0.01_L2=1_L3=0.1_a1=10r1=1_r2=1
+Iter= 600	 relative error= 1.0422	 eucl dist= 4823491.0846
+Record_K=15_L1=0.01_L2=1_L3=1_a1=0.0001r1=1_r2=1
+Iter= 601	 relative error= 1.0411	 eucl dist= 4807454.6658
+Record_K=15_L1=0.01_L2=1_L3=1_a1=0.001r1=1_r2=1
+Iter= 602	 relative error= 1.041	 eucl dist= 4807491.4284
+Record_K=15_L1=0.01_L2=1_L3=1_a1=0.01r1=1_r2=1
+Iter= 603	 relative error= 1.041	 eucl dist= 4807644.7105
+Record_K=15_L1=0.01_L2=1_L3=1_a1=0.1r1=1_r2=1
+Iter= 604	 relative error= 1.0411	 eucl dist= 4808327.3629
+Record_K=15_L1=0.01_L2=1_L3=1_a1=1r1=1_r2=1
+Iter= 605	 relative error= 1.0413	 eucl dist= 4811292.1283
+Record_K=15_L1=0.01_L2=1_L3=1_a1=10r1=1_r2=1
+Iter= 606	 relative error= 1.0422	 eucl dist= 4823491.2034
+Record_K=15_L1=0.01_L2=1_L3=10_a1=0.0001r1=1_r2=1
+Iter= 607	 relative error= 1.0412	 eucl dist= 4807487.9192
+Record_K=15_L1=0.01_L2=1_L3=10_a1=0.001r1=1_r2=1
+Iter= 608	 relative error= 1.0411	 eucl dist= 4807502.5681
+Record_K=15_L1=0.01_L2=1_L3=10_a1=0.01r1=1_r2=1
+Iter= 609	 relative error= 1.0411	 eucl dist= 4807648.3358
+Record_K=15_L1=0.01_L2=1_L3=10_a1=0.1r1=1_r2=1
+Iter= 610	 relative error= 1.0411	 eucl dist= 4808329.1457
+Record_K=15_L1=0.01_L2=1_L3=10_a1=1r1=1_r2=1
+Iter= 611	 relative error= 1.0413	 eucl dist= 4811293.46
+Record_K=15_L1=0.01_L2=1_L3=10_a1=10r1=1_r2=1
+Iter= 612	 relative error= 1.0422	 eucl dist= 4823492.4267
+Record_K=15_L1=0.01_L2=10_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 613	 relative error= 1.0411	 eucl dist= 4807456.1504
+Record_K=15_L1=0.01_L2=10_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 614	 relative error= 1.041	 eucl dist= 4807491.4694
+Record_K=15_L1=0.01_L2=10_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 615	 relative error= 1.041	 eucl dist= 4807644.5708
+Record_K=15_L1=0.01_L2=10_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 616	 relative error= 1.0411	 eucl dist= 4808327.2289
+Record_K=15_L1=0.01_L2=10_L3=0.0001_a1=1r1=1_r2=1
+Iter= 617	 relative error= 1.0413	 eucl dist= 4811292.0019
+Record_K=15_L1=0.01_L2=10_L3=0.0001_a1=10r1=1_r2=1
+Iter= 618	 relative error= 1.0422	 eucl dist= 4823491.0679
+Record_K=15_L1=0.01_L2=10_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 619	 relative error= 1.0411	 eucl dist= 4807456.1506
+Record_K=15_L1=0.01_L2=10_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 620	 relative error= 1.041	 eucl dist= 4807491.4695
+Record_K=15_L1=0.01_L2=10_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 621	 relative error= 1.041	 eucl dist= 4807644.5709
+Record_K=15_L1=0.01_L2=10_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 622	 relative error= 1.0411	 eucl dist= 4808327.229
+Record_K=15_L1=0.01_L2=10_L3=0.001_a1=1r1=1_r2=1
+Iter= 623	 relative error= 1.0413	 eucl dist= 4811292.002
+Record_K=15_L1=0.01_L2=10_L3=0.001_a1=10r1=1_r2=1
+Iter= 624	 relative error= 1.0422	 eucl dist= 4823491.068
+Record_K=15_L1=0.01_L2=10_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 625	 relative error= 1.0411	 eucl dist= 4807456.1518
+Record_K=15_L1=0.01_L2=10_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 626	 relative error= 1.041	 eucl dist= 4807491.4707
+Record_K=15_L1=0.01_L2=10_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 627	 relative error= 1.041	 eucl dist= 4807644.572
+Record_K=15_L1=0.01_L2=10_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 628	 relative error= 1.0411	 eucl dist= 4808327.2302
+Record_K=15_L1=0.01_L2=10_L3=0.01_a1=1r1=1_r2=1
+Iter= 629	 relative error= 1.0413	 eucl dist= 4811292.0032
+Record_K=15_L1=0.01_L2=10_L3=0.01_a1=10r1=1_r2=1
+Iter= 630	 relative error= 1.0422	 eucl dist= 4823491.0692
+Record_K=15_L1=0.01_L2=10_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 631	 relative error= 1.0411	 eucl dist= 4807456.1673
+Record_K=15_L1=0.01_L2=10_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 632	 relative error= 1.041	 eucl dist= 4807491.484
+Record_K=15_L1=0.01_L2=10_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 633	 relative error= 1.041	 eucl dist= 4807644.5829
+Record_K=15_L1=0.01_L2=10_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 634	 relative error= 1.0411	 eucl dist= 4808327.2417
+Record_K=15_L1=0.01_L2=10_L3=0.1_a1=1r1=1_r2=1
+Iter= 635	 relative error= 1.0413	 eucl dist= 4811292.015
+Record_K=15_L1=0.01_L2=10_L3=0.1_a1=10r1=1_r2=1
+Iter= 636	 relative error= 1.0422	 eucl dist= 4823491.0811
+Record_K=15_L1=0.01_L2=10_L3=1_a1=0.0001r1=1_r2=1
+Iter= 637	 relative error= 1.0411	 eucl dist= 4807456.5965
+Record_K=15_L1=0.01_L2=10_L3=1_a1=0.001r1=1_r2=1
+Iter= 638	 relative error= 1.0411	 eucl dist= 4807491.7056
+Record_K=15_L1=0.01_L2=10_L3=1_a1=0.01r1=1_r2=1
+Iter= 639	 relative error= 1.041	 eucl dist= 4807644.7149
+Record_K=15_L1=0.01_L2=10_L3=1_a1=0.1r1=1_r2=1
+Iter= 640	 relative error= 1.0411	 eucl dist= 4808327.3629
+Record_K=15_L1=0.01_L2=10_L3=1_a1=1r1=1_r2=1
+Iter= 641	 relative error= 1.0413	 eucl dist= 4811292.1347
+Record_K=15_L1=0.01_L2=10_L3=1_a1=10r1=1_r2=1
+Iter= 642	 relative error= 1.0422	 eucl dist= 4823491.2
+Record_K=15_L1=0.01_L2=10_L3=10_a1=0.0001r1=1_r2=1
+Iter= 643	 relative error= 1.0412	 eucl dist= 4807490.3982
+Record_K=15_L1=0.01_L2=10_L3=10_a1=0.001r1=1_r2=1
+Iter= 644	 relative error= 1.0411	 eucl dist= 4807502.9642
+Record_K=15_L1=0.01_L2=10_L3=10_a1=0.01r1=1_r2=1
+Iter= 645	 relative error= 1.0411	 eucl dist= 4807648.4018
+Record_K=15_L1=0.01_L2=10_L3=10_a1=0.1r1=1_r2=1
+Iter= 646	 relative error= 1.0411	 eucl dist= 4808329.1647
+Record_K=15_L1=0.01_L2=10_L3=10_a1=1r1=1_r2=1
+Iter= 647	 relative error= 1.0413	 eucl dist= 4811293.4707
+Record_K=15_L1=0.01_L2=10_L3=10_a1=10r1=1_r2=1
+Iter= 648	 relative error= 1.0422	 eucl dist= 4823492.4241
+Record_K=15_L1=0.1_L2=0.0001_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 649	 relative error= 1.042	 eucl dist= 4807457.2859
+Record_K=15_L1=0.1_L2=0.0001_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 650	 relative error= 1.0413	 eucl dist= 4807491.7736
+Record_K=15_L1=0.1_L2=0.0001_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 651	 relative error= 1.0411	 eucl dist= 4807644.7096
+Record_K=15_L1=0.1_L2=0.0001_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 652	 relative error= 1.0411	 eucl dist= 4808327.3636
+Record_K=15_L1=0.1_L2=0.0001_L3=0.0001_a1=1r1=1_r2=1
+Iter= 653	 relative error= 1.0413	 eucl dist= 4811292.1307
+Record_K=15_L1=0.1_L2=0.0001_L3=0.0001_a1=10r1=1_r2=1
+Iter= 654	 relative error= 1.0422	 eucl dist= 4823491.1601
+Record_K=15_L1=0.1_L2=0.0001_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 655	 relative error= 1.042	 eucl dist= 4807457.2861
+Record_K=15_L1=0.1_L2=0.0001_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 656	 relative error= 1.0413	 eucl dist= 4807491.7737
+Record_K=15_L1=0.1_L2=0.0001_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 657	 relative error= 1.0411	 eucl dist= 4807644.7097
+Record_K=15_L1=0.1_L2=0.0001_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 658	 relative error= 1.0411	 eucl dist= 4808327.3637
+Record_K=15_L1=0.1_L2=0.0001_L3=0.001_a1=1r1=1_r2=1
+Iter= 659	 relative error= 1.0413	 eucl dist= 4811292.1308
+Record_K=15_L1=0.1_L2=0.0001_L3=0.001_a1=10r1=1_r2=1
+Iter= 660	 relative error= 1.0422	 eucl dist= 4823491.1603
+Record_K=15_L1=0.1_L2=0.0001_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 661	 relative error= 1.042	 eucl dist= 4807457.288
+Record_K=15_L1=0.1_L2=0.0001_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 662	 relative error= 1.0413	 eucl dist= 4807491.7749
+Record_K=15_L1=0.1_L2=0.0001_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 663	 relative error= 1.0411	 eucl dist= 4807644.7107
+Record_K=15_L1=0.1_L2=0.0001_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 664	 relative error= 1.0411	 eucl dist= 4808327.3648
+Record_K=15_L1=0.1_L2=0.0001_L3=0.01_a1=1r1=1_r2=1
+Iter= 665	 relative error= 1.0413	 eucl dist= 4811292.132
+Record_K=15_L1=0.1_L2=0.0001_L3=0.01_a1=10r1=1_r2=1
+Iter= 666	 relative error= 1.0422	 eucl dist= 4823491.1614
+Record_K=15_L1=0.1_L2=0.0001_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 667	 relative error= 1.042	 eucl dist= 4807457.3094
+Record_K=15_L1=0.1_L2=0.0001_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 668	 relative error= 1.0413	 eucl dist= 4807491.7877
+Record_K=15_L1=0.1_L2=0.0001_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 669	 relative error= 1.0411	 eucl dist= 4807644.7209
+Record_K=15_L1=0.1_L2=0.0001_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 670	 relative error= 1.0411	 eucl dist= 4808327.3762
+Record_K=15_L1=0.1_L2=0.0001_L3=0.1_a1=1r1=1_r2=1
+Iter= 671	 relative error= 1.0413	 eucl dist= 4811292.1438
+Record_K=15_L1=0.1_L2=0.0001_L3=0.1_a1=10r1=1_r2=1
+Iter= 672	 relative error= 1.0422	 eucl dist= 4823491.1733
+Record_K=15_L1=0.1_L2=0.0001_L3=1_a1=0.0001r1=1_r2=1
+Iter= 673	 relative error= 1.042	 eucl dist= 4807457.792
+Record_K=15_L1=0.1_L2=0.0001_L3=1_a1=0.001r1=1_r2=1
+Iter= 674	 relative error= 1.0413	 eucl dist= 4807492.0025
+Record_K=15_L1=0.1_L2=0.0001_L3=1_a1=0.01r1=1_r2=1
+Iter= 675	 relative error= 1.0411	 eucl dist= 4807644.8465
+Record_K=15_L1=0.1_L2=0.0001_L3=1_a1=0.1r1=1_r2=1
+Iter= 676	 relative error= 1.0411	 eucl dist= 4808327.4953
+Record_K=15_L1=0.1_L2=0.0001_L3=1_a1=1r1=1_r2=1
+Iter= 677	 relative error= 1.0413	 eucl dist= 4811292.263
+Record_K=15_L1=0.1_L2=0.0001_L3=1_a1=10r1=1_r2=1
+Iter= 678	 relative error= 1.0422	 eucl dist= 4823491.2921
+Record_K=15_L1=0.1_L2=0.0001_L3=10_a1=0.0001r1=1_r2=1
+Iter= 679	 relative error= 1.0422	 eucl dist= 4807491.9016
+Record_K=15_L1=0.1_L2=0.0001_L3=10_a1=0.001r1=1_r2=1
+Iter= 680	 relative error= 1.0414	 eucl dist= 4807503.1979
+Record_K=15_L1=0.1_L2=0.0001_L3=10_a1=0.01r1=1_r2=1
+Iter= 681	 relative error= 1.0411	 eucl dist= 4807648.4691
+Record_K=15_L1=0.1_L2=0.0001_L3=10_a1=0.1r1=1_r2=1
+Iter= 682	 relative error= 1.0411	 eucl dist= 4808329.2766
+Record_K=15_L1=0.1_L2=0.0001_L3=10_a1=1r1=1_r2=1
+Iter= 683	 relative error= 1.0413	 eucl dist= 4811293.5944
+Record_K=15_L1=0.1_L2=0.0001_L3=10_a1=10r1=1_r2=1
+Iter= 684	 relative error= 1.0422	 eucl dist= 4823492.5153
+Record_K=15_L1=0.1_L2=0.001_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 685	 relative error= 1.042	 eucl dist= 4807457.2859
+Record_K=15_L1=0.1_L2=0.001_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 686	 relative error= 1.0413	 eucl dist= 4807491.7736
+Record_K=15_L1=0.1_L2=0.001_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 687	 relative error= 1.0411	 eucl dist= 4807644.7096
+Record_K=15_L1=0.1_L2=0.001_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 688	 relative error= 1.0411	 eucl dist= 4808327.3636
+Record_K=15_L1=0.1_L2=0.001_L3=0.0001_a1=1r1=1_r2=1
+Iter= 689	 relative error= 1.0413	 eucl dist= 4811292.1307
+Record_K=15_L1=0.1_L2=0.001_L3=0.0001_a1=10r1=1_r2=1
+Iter= 690	 relative error= 1.0422	 eucl dist= 4823491.1601
+Record_K=15_L1=0.1_L2=0.001_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 691	 relative error= 1.042	 eucl dist= 4807457.2861
+Record_K=15_L1=0.1_L2=0.001_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 692	 relative error= 1.0413	 eucl dist= 4807491.7737
+Record_K=15_L1=0.1_L2=0.001_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 693	 relative error= 1.0411	 eucl dist= 4807644.7097
+Record_K=15_L1=0.1_L2=0.001_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 694	 relative error= 1.0411	 eucl dist= 4808327.3637
+Record_K=15_L1=0.1_L2=0.001_L3=0.001_a1=1r1=1_r2=1
+Iter= 695	 relative error= 1.0413	 eucl dist= 4811292.1308
+Record_K=15_L1=0.1_L2=0.001_L3=0.001_a1=10r1=1_r2=1
+Iter= 696	 relative error= 1.0422	 eucl dist= 4823491.1603
+Record_K=15_L1=0.1_L2=0.001_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 697	 relative error= 1.042	 eucl dist= 4807457.2879
+Record_K=15_L1=0.1_L2=0.001_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 698	 relative error= 1.0413	 eucl dist= 4807491.7749
+Record_K=15_L1=0.1_L2=0.001_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 699	 relative error= 1.0411	 eucl dist= 4807644.7107
+Record_K=15_L1=0.1_L2=0.001_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 700	 relative error= 1.0411	 eucl dist= 4808327.3648
+Record_K=15_L1=0.1_L2=0.001_L3=0.01_a1=1r1=1_r2=1
+Iter= 701	 relative error= 1.0413	 eucl dist= 4811292.132
+Record_K=15_L1=0.1_L2=0.001_L3=0.01_a1=10r1=1_r2=1
+Iter= 702	 relative error= 1.0422	 eucl dist= 4823491.1614
+Record_K=15_L1=0.1_L2=0.001_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 703	 relative error= 1.042	 eucl dist= 4807457.3094
+Record_K=15_L1=0.1_L2=0.001_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 704	 relative error= 1.0413	 eucl dist= 4807491.7876
+Record_K=15_L1=0.1_L2=0.001_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 705	 relative error= 1.0411	 eucl dist= 4807644.7209
+Record_K=15_L1=0.1_L2=0.001_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 706	 relative error= 1.0411	 eucl dist= 4808327.3762
+Record_K=15_L1=0.1_L2=0.001_L3=0.1_a1=1r1=1_r2=1
+Iter= 707	 relative error= 1.0413	 eucl dist= 4811292.1438
+Record_K=15_L1=0.1_L2=0.001_L3=0.1_a1=10r1=1_r2=1
+Iter= 708	 relative error= 1.0422	 eucl dist= 4823491.1733
+Record_K=15_L1=0.1_L2=0.001_L3=1_a1=0.0001r1=1_r2=1
+Iter= 709	 relative error= 1.042	 eucl dist= 4807457.792
+Record_K=15_L1=0.1_L2=0.001_L3=1_a1=0.001r1=1_r2=1
+Iter= 710	 relative error= 1.0413	 eucl dist= 4807492.0025
+Record_K=15_L1=0.1_L2=0.001_L3=1_a1=0.01r1=1_r2=1
+Iter= 711	 relative error= 1.0411	 eucl dist= 4807644.8465
+Record_K=15_L1=0.1_L2=0.001_L3=1_a1=0.1r1=1_r2=1
+Iter= 712	 relative error= 1.0411	 eucl dist= 4808327.4953
+Record_K=15_L1=0.1_L2=0.001_L3=1_a1=1r1=1_r2=1
+Iter= 713	 relative error= 1.0413	 eucl dist= 4811292.263
+Record_K=15_L1=0.1_L2=0.001_L3=1_a1=10r1=1_r2=1
+Iter= 714	 relative error= 1.0422	 eucl dist= 4823491.2921
+Record_K=15_L1=0.1_L2=0.001_L3=10_a1=0.0001r1=1_r2=1
+Iter= 715	 relative error= 1.0422	 eucl dist= 4807491.9016
+Record_K=15_L1=0.1_L2=0.001_L3=10_a1=0.001r1=1_r2=1
+Iter= 716	 relative error= 1.0414	 eucl dist= 4807503.1979
+Record_K=15_L1=0.1_L2=0.001_L3=10_a1=0.01r1=1_r2=1
+Iter= 717	 relative error= 1.0411	 eucl dist= 4807648.4691
+Record_K=15_L1=0.1_L2=0.001_L3=10_a1=0.1r1=1_r2=1
+Iter= 718	 relative error= 1.0411	 eucl dist= 4808329.2766
+Record_K=15_L1=0.1_L2=0.001_L3=10_a1=1r1=1_r2=1
+Iter= 719	 relative error= 1.0413	 eucl dist= 4811293.5944
+Record_K=15_L1=0.1_L2=0.001_L3=10_a1=10r1=1_r2=1
+Iter= 720	 relative error= 1.0422	 eucl dist= 4823492.5153
+Record_K=15_L1=0.1_L2=0.01_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 721	 relative error= 1.042	 eucl dist= 4807457.2855
+Record_K=15_L1=0.1_L2=0.01_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 722	 relative error= 1.0413	 eucl dist= 4807491.7733
+Record_K=15_L1=0.1_L2=0.01_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 723	 relative error= 1.0411	 eucl dist= 4807644.7095
+Record_K=15_L1=0.1_L2=0.01_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 724	 relative error= 1.0411	 eucl dist= 4808327.3636
+Record_K=15_L1=0.1_L2=0.01_L3=0.0001_a1=1r1=1_r2=1
+Iter= 725	 relative error= 1.0413	 eucl dist= 4811292.1307
+Record_K=15_L1=0.1_L2=0.01_L3=0.0001_a1=10r1=1_r2=1
+Iter= 726	 relative error= 1.0422	 eucl dist= 4823491.1601
+Record_K=15_L1=0.1_L2=0.01_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 727	 relative error= 1.042	 eucl dist= 4807457.2857
+Record_K=15_L1=0.1_L2=0.01_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 728	 relative error= 1.0413	 eucl dist= 4807491.7735
+Record_K=15_L1=0.1_L2=0.01_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 729	 relative error= 1.0411	 eucl dist= 4807644.7096
+Record_K=15_L1=0.1_L2=0.01_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 730	 relative error= 1.0411	 eucl dist= 4808327.3637
+Record_K=15_L1=0.1_L2=0.01_L3=0.001_a1=1r1=1_r2=1
+Iter= 731	 relative error= 1.0413	 eucl dist= 4811292.1308
+Record_K=15_L1=0.1_L2=0.01_L3=0.001_a1=10r1=1_r2=1
+Iter= 732	 relative error= 1.0422	 eucl dist= 4823491.1603
+Record_K=15_L1=0.1_L2=0.01_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 733	 relative error= 1.042	 eucl dist= 4807457.2876
+Record_K=15_L1=0.1_L2=0.01_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 734	 relative error= 1.0413	 eucl dist= 4807491.7746
+Record_K=15_L1=0.1_L2=0.01_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 735	 relative error= 1.0411	 eucl dist= 4807644.7106
+Record_K=15_L1=0.1_L2=0.01_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 736	 relative error= 1.0411	 eucl dist= 4808327.3648
+Record_K=15_L1=0.1_L2=0.01_L3=0.01_a1=1r1=1_r2=1
+Iter= 737	 relative error= 1.0413	 eucl dist= 4811292.132
+Record_K=15_L1=0.1_L2=0.01_L3=0.01_a1=10r1=1_r2=1
+Iter= 738	 relative error= 1.0422	 eucl dist= 4823491.1614
+Record_K=15_L1=0.1_L2=0.01_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 739	 relative error= 1.042	 eucl dist= 4807457.309
+Record_K=15_L1=0.1_L2=0.01_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 740	 relative error= 1.0413	 eucl dist= 4807491.7874
+Record_K=15_L1=0.1_L2=0.01_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 741	 relative error= 1.0411	 eucl dist= 4807644.7208
+Record_K=15_L1=0.1_L2=0.01_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 742	 relative error= 1.0411	 eucl dist= 4808327.3761
+Record_K=15_L1=0.1_L2=0.01_L3=0.1_a1=1r1=1_r2=1
+Iter= 743	 relative error= 1.0413	 eucl dist= 4811292.1438
+Record_K=15_L1=0.1_L2=0.01_L3=0.1_a1=10r1=1_r2=1
+Iter= 744	 relative error= 1.0422	 eucl dist= 4823491.1733
+Record_K=15_L1=0.1_L2=0.01_L3=1_a1=0.0001r1=1_r2=1
+Iter= 745	 relative error= 1.042	 eucl dist= 4807457.7916
+Record_K=15_L1=0.1_L2=0.01_L3=1_a1=0.001r1=1_r2=1
+Iter= 746	 relative error= 1.0413	 eucl dist= 4807492.0022
+Record_K=15_L1=0.1_L2=0.01_L3=1_a1=0.01r1=1_r2=1
+Iter= 747	 relative error= 1.0411	 eucl dist= 4807644.8464
+Record_K=15_L1=0.1_L2=0.01_L3=1_a1=0.1r1=1_r2=1
+Iter= 748	 relative error= 1.0411	 eucl dist= 4808327.4953
+Record_K=15_L1=0.1_L2=0.01_L3=1_a1=1r1=1_r2=1
+Iter= 749	 relative error= 1.0413	 eucl dist= 4811292.263
+Record_K=15_L1=0.1_L2=0.01_L3=1_a1=10r1=1_r2=1
+Iter= 750	 relative error= 1.0422	 eucl dist= 4823491.2921
+Record_K=15_L1=0.1_L2=0.01_L3=10_a1=0.0001r1=1_r2=1
+Iter= 751	 relative error= 1.0422	 eucl dist= 4807491.9018
+Record_K=15_L1=0.1_L2=0.01_L3=10_a1=0.001r1=1_r2=1
+Iter= 752	 relative error= 1.0414	 eucl dist= 4807503.1978
+Record_K=15_L1=0.1_L2=0.01_L3=10_a1=0.01r1=1_r2=1
+Iter= 753	 relative error= 1.0411	 eucl dist= 4807648.469
+Record_K=15_L1=0.1_L2=0.01_L3=10_a1=0.1r1=1_r2=1
+Iter= 754	 relative error= 1.0411	 eucl dist= 4808329.2766
+Record_K=15_L1=0.1_L2=0.01_L3=10_a1=1r1=1_r2=1
+Iter= 755	 relative error= 1.0413	 eucl dist= 4811293.5944
+Record_K=15_L1=0.1_L2=0.01_L3=10_a1=10r1=1_r2=1
+Iter= 756	 relative error= 1.0422	 eucl dist= 4823492.5153
+Record_K=15_L1=0.1_L2=0.1_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 757	 relative error= 1.042	 eucl dist= 4807457.2818
+Record_K=15_L1=0.1_L2=0.1_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 758	 relative error= 1.0413	 eucl dist= 4807491.7708
+Record_K=15_L1=0.1_L2=0.1_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 759	 relative error= 1.0411	 eucl dist= 4807644.7085
+Record_K=15_L1=0.1_L2=0.1_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 760	 relative error= 1.0411	 eucl dist= 4808327.3634
+Record_K=15_L1=0.1_L2=0.1_L3=0.0001_a1=1r1=1_r2=1
+Iter= 761	 relative error= 1.0413	 eucl dist= 4811292.1307
+Record_K=15_L1=0.1_L2=0.1_L3=0.0001_a1=10r1=1_r2=1
+Iter= 762	 relative error= 1.0422	 eucl dist= 4823491.1601
+Record_K=15_L1=0.1_L2=0.1_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 763	 relative error= 1.042	 eucl dist= 4807457.2819
+Record_K=15_L1=0.1_L2=0.1_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 764	 relative error= 1.0413	 eucl dist= 4807491.7709
+Record_K=15_L1=0.1_L2=0.1_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 765	 relative error= 1.0411	 eucl dist= 4807644.7086
+Record_K=15_L1=0.1_L2=0.1_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 766	 relative error= 1.0411	 eucl dist= 4808327.3635
+Record_K=15_L1=0.1_L2=0.1_L3=0.001_a1=1r1=1_r2=1
+Iter= 767	 relative error= 1.0413	 eucl dist= 4811292.1309
+Record_K=15_L1=0.1_L2=0.1_L3=0.001_a1=10r1=1_r2=1
+Iter= 768	 relative error= 1.0422	 eucl dist= 4823491.1602
+Record_K=15_L1=0.1_L2=0.1_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 769	 relative error= 1.042	 eucl dist= 4807457.2838
+Record_K=15_L1=0.1_L2=0.1_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 770	 relative error= 1.0413	 eucl dist= 4807491.7721
+Record_K=15_L1=0.1_L2=0.1_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 771	 relative error= 1.0411	 eucl dist= 4807644.7096
+Record_K=15_L1=0.1_L2=0.1_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 772	 relative error= 1.0411	 eucl dist= 4808327.3646
+Record_K=15_L1=0.1_L2=0.1_L3=0.01_a1=1r1=1_r2=1
+Iter= 773	 relative error= 1.0413	 eucl dist= 4811292.132
+Record_K=15_L1=0.1_L2=0.1_L3=0.01_a1=10r1=1_r2=1
+Iter= 774	 relative error= 1.0422	 eucl dist= 4823491.1614
+Record_K=15_L1=0.1_L2=0.1_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 775	 relative error= 1.042	 eucl dist= 4807457.3052
+Record_K=15_L1=0.1_L2=0.1_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 776	 relative error= 1.0413	 eucl dist= 4807491.7848
+Record_K=15_L1=0.1_L2=0.1_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 777	 relative error= 1.0411	 eucl dist= 4807644.7198
+Record_K=15_L1=0.1_L2=0.1_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 778	 relative error= 1.0411	 eucl dist= 4808327.3759
+Record_K=15_L1=0.1_L2=0.1_L3=0.1_a1=1r1=1_r2=1
+Iter= 779	 relative error= 1.0413	 eucl dist= 4811292.1438
+Record_K=15_L1=0.1_L2=0.1_L3=0.1_a1=10r1=1_r2=1
+Iter= 780	 relative error= 1.0422	 eucl dist= 4823491.1732
+Record_K=15_L1=0.1_L2=0.1_L3=1_a1=0.0001r1=1_r2=1
+Iter= 781	 relative error= 1.042	 eucl dist= 4807457.788
+Record_K=15_L1=0.1_L2=0.1_L3=1_a1=0.001r1=1_r2=1
+Iter= 782	 relative error= 1.0413	 eucl dist= 4807491.9998
+Record_K=15_L1=0.1_L2=0.1_L3=1_a1=0.01r1=1_r2=1
+Iter= 783	 relative error= 1.0411	 eucl dist= 4807644.8455
+Record_K=15_L1=0.1_L2=0.1_L3=1_a1=0.1r1=1_r2=1
+Iter= 784	 relative error= 1.0411	 eucl dist= 4808327.4951
+Record_K=15_L1=0.1_L2=0.1_L3=1_a1=1r1=1_r2=1
+Iter= 785	 relative error= 1.0413	 eucl dist= 4811292.263
+Record_K=15_L1=0.1_L2=0.1_L3=1_a1=10r1=1_r2=1
+Iter= 786	 relative error= 1.0422	 eucl dist= 4823491.2921
+Record_K=15_L1=0.1_L2=0.1_L3=10_a1=0.0001r1=1_r2=1
+Iter= 787	 relative error= 1.0422	 eucl dist= 4807491.9041
+Record_K=15_L1=0.1_L2=0.1_L3=10_a1=0.001r1=1_r2=1
+Iter= 788	 relative error= 1.0414	 eucl dist= 4807503.1965
+Record_K=15_L1=0.1_L2=0.1_L3=10_a1=0.01r1=1_r2=1
+Iter= 789	 relative error= 1.0411	 eucl dist= 4807648.4688
+Record_K=15_L1=0.1_L2=0.1_L3=10_a1=0.1r1=1_r2=1
+Iter= 790	 relative error= 1.0411	 eucl dist= 4808329.2766
+Record_K=15_L1=0.1_L2=0.1_L3=10_a1=1r1=1_r2=1
+Iter= 791	 relative error= 1.0413	 eucl dist= 4811293.5945
+Record_K=15_L1=0.1_L2=0.1_L3=10_a1=10r1=1_r2=1
+Iter= 792	 relative error= 1.0422	 eucl dist= 4823492.5153
+Record_K=15_L1=0.1_L2=1_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 793	 relative error= 1.042	 eucl dist= 4807457.265
+Record_K=15_L1=0.1_L2=1_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 794	 relative error= 1.0413	 eucl dist= 4807491.75
+Record_K=15_L1=0.1_L2=1_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 795	 relative error= 1.0411	 eucl dist= 4807644.6997
+Record_K=15_L1=0.1_L2=1_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 796	 relative error= 1.0411	 eucl dist= 4808327.3614
+Record_K=15_L1=0.1_L2=1_L3=0.0001_a1=1r1=1_r2=1
+Iter= 797	 relative error= 1.0413	 eucl dist= 4811292.131
+Record_K=15_L1=0.1_L2=1_L3=0.0001_a1=10r1=1_r2=1
+Iter= 798	 relative error= 1.0422	 eucl dist= 4823491.1597
+Record_K=15_L1=0.1_L2=1_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 799	 relative error= 1.042	 eucl dist= 4807457.2652
+Record_K=15_L1=0.1_L2=1_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 800	 relative error= 1.0413	 eucl dist= 4807491.7501
+Record_K=15_L1=0.1_L2=1_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 801	 relative error= 1.0411	 eucl dist= 4807644.6998
+Record_K=15_L1=0.1_L2=1_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 802	 relative error= 1.0411	 eucl dist= 4808327.3615
+Record_K=15_L1=0.1_L2=1_L3=0.001_a1=1r1=1_r2=1
+Iter= 803	 relative error= 1.0413	 eucl dist= 4811292.1311
+Record_K=15_L1=0.1_L2=1_L3=0.001_a1=10r1=1_r2=1
+Iter= 804	 relative error= 1.0422	 eucl dist= 4823491.1598
+Record_K=15_L1=0.1_L2=1_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 805	 relative error= 1.042	 eucl dist= 4807457.267
+Record_K=15_L1=0.1_L2=1_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 806	 relative error= 1.0413	 eucl dist= 4807491.7513
+Record_K=15_L1=0.1_L2=1_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 807	 relative error= 1.0411	 eucl dist= 4807644.7008
+Record_K=15_L1=0.1_L2=1_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 808	 relative error= 1.0411	 eucl dist= 4808327.3626
+Record_K=15_L1=0.1_L2=1_L3=0.01_a1=1r1=1_r2=1
+Iter= 809	 relative error= 1.0413	 eucl dist= 4811292.1323
+Record_K=15_L1=0.1_L2=1_L3=0.01_a1=10r1=1_r2=1
+Iter= 810	 relative error= 1.0422	 eucl dist= 4823491.161
+Record_K=15_L1=0.1_L2=1_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 811	 relative error= 1.042	 eucl dist= 4807457.2885
+Record_K=15_L1=0.1_L2=1_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 812	 relative error= 1.0413	 eucl dist= 4807491.7642
+Record_K=15_L1=0.1_L2=1_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 813	 relative error= 1.0411	 eucl dist= 4807644.7111
+Record_K=15_L1=0.1_L2=1_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 814	 relative error= 1.0411	 eucl dist= 4808327.374
+Record_K=15_L1=0.1_L2=1_L3=0.1_a1=1r1=1_r2=1
+Iter= 815	 relative error= 1.0413	 eucl dist= 4811292.144
+Record_K=15_L1=0.1_L2=1_L3=0.1_a1=10r1=1_r2=1
+Iter= 816	 relative error= 1.0422	 eucl dist= 4823491.1728
+Record_K=15_L1=0.1_L2=1_L3=1_a1=0.0001r1=1_r2=1
+Iter= 817	 relative error= 1.042	 eucl dist= 4807457.7721
+Record_K=15_L1=0.1_L2=1_L3=1_a1=0.001r1=1_r2=1
+Iter= 818	 relative error= 1.0413	 eucl dist= 4807491.9801
+Record_K=15_L1=0.1_L2=1_L3=1_a1=0.01r1=1_r2=1
+Iter= 819	 relative error= 1.0411	 eucl dist= 4807644.8374
+Record_K=15_L1=0.1_L2=1_L3=1_a1=0.1r1=1_r2=1
+Iter= 820	 relative error= 1.0411	 eucl dist= 4808327.4933
+Record_K=15_L1=0.1_L2=1_L3=1_a1=1r1=1_r2=1
+Iter= 821	 relative error= 1.0413	 eucl dist= 4811292.2633
+Record_K=15_L1=0.1_L2=1_L3=1_a1=10r1=1_r2=1
+Iter= 822	 relative error= 1.0422	 eucl dist= 4823491.2917
+Record_K=15_L1=0.1_L2=1_L3=10_a1=0.0001r1=1_r2=1
+Iter= 823	 relative error= 1.0422	 eucl dist= 4807491.9491
+Record_K=15_L1=0.1_L2=1_L3=10_a1=0.001r1=1_r2=1
+Iter= 824	 relative error= 1.0414	 eucl dist= 4807503.1885
+Record_K=15_L1=0.1_L2=1_L3=10_a1=0.01r1=1_r2=1
+Iter= 825	 relative error= 1.0411	 eucl dist= 4807648.4668
+Record_K=15_L1=0.1_L2=1_L3=10_a1=0.1r1=1_r2=1
+Iter= 826	 relative error= 1.0411	 eucl dist= 4808329.2767
+Record_K=15_L1=0.1_L2=1_L3=10_a1=1r1=1_r2=1
+Iter= 827	 relative error= 1.0413	 eucl dist= 4811293.5952
+Record_K=15_L1=0.1_L2=1_L3=10_a1=10r1=1_r2=1
+Iter= 828	 relative error= 1.0422	 eucl dist= 4823492.5149
+Record_K=15_L1=0.1_L2=10_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 829	 relative error= 1.042	 eucl dist= 4807459.417
+Record_K=15_L1=0.1_L2=10_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 830	 relative error= 1.0413	 eucl dist= 4807492.0316
+Record_K=15_L1=0.1_L2=10_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 831	 relative error= 1.0411	 eucl dist= 4807644.698
+Record_K=15_L1=0.1_L2=10_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 832	 relative error= 1.0411	 eucl dist= 4808327.3593
+Record_K=15_L1=0.1_L2=10_L3=0.0001_a1=1r1=1_r2=1
+Iter= 833	 relative error= 1.0413	 eucl dist= 4811292.1369
+Record_K=15_L1=0.1_L2=10_L3=0.0001_a1=10r1=1_r2=1
+Iter= 834	 relative error= 1.0422	 eucl dist= 4823491.1562
+Record_K=15_L1=0.1_L2=10_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 835	 relative error= 1.042	 eucl dist= 4807459.4171
+Record_K=15_L1=0.1_L2=10_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 836	 relative error= 1.0413	 eucl dist= 4807492.0317
+Record_K=15_L1=0.1_L2=10_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 837	 relative error= 1.0411	 eucl dist= 4807644.6981
+Record_K=15_L1=0.1_L2=10_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 838	 relative error= 1.0411	 eucl dist= 4808327.3595
+Record_K=15_L1=0.1_L2=10_L3=0.001_a1=1r1=1_r2=1
+Iter= 839	 relative error= 1.0413	 eucl dist= 4811292.1371
+Record_K=15_L1=0.1_L2=10_L3=0.001_a1=10r1=1_r2=1
+Iter= 840	 relative error= 1.0422	 eucl dist= 4823491.1563
+Record_K=15_L1=0.1_L2=10_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 841	 relative error= 1.042	 eucl dist= 4807459.4186
+Record_K=15_L1=0.1_L2=10_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 842	 relative error= 1.0413	 eucl dist= 4807492.033
+Record_K=15_L1=0.1_L2=10_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 843	 relative error= 1.0411	 eucl dist= 4807644.6992
+Record_K=15_L1=0.1_L2=10_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 844	 relative error= 1.0411	 eucl dist= 4808327.3606
+Record_K=15_L1=0.1_L2=10_L3=0.01_a1=1r1=1_r2=1
+Iter= 845	 relative error= 1.0413	 eucl dist= 4811292.1382
+Record_K=15_L1=0.1_L2=10_L3=0.01_a1=10r1=1_r2=1
+Iter= 846	 relative error= 1.0422	 eucl dist= 4823491.1575
+Record_K=15_L1=0.1_L2=10_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 847	 relative error= 1.042	 eucl dist= 4807459.436
+Record_K=15_L1=0.1_L2=10_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 848	 relative error= 1.0413	 eucl dist= 4807492.0465
+Record_K=15_L1=0.1_L2=10_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 849	 relative error= 1.0411	 eucl dist= 4807644.7101
+Record_K=15_L1=0.1_L2=10_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 850	 relative error= 1.0411	 eucl dist= 4808327.3721
+Record_K=15_L1=0.1_L2=10_L3=0.1_a1=1r1=1_r2=1
+Iter= 851	 relative error= 1.0413	 eucl dist= 4811292.1501
+Record_K=15_L1=0.1_L2=10_L3=0.1_a1=10r1=1_r2=1
+Iter= 852	 relative error= 1.0422	 eucl dist= 4823491.1694
+Record_K=15_L1=0.1_L2=10_L3=1_a1=0.0001r1=1_r2=1
+Iter= 853	 relative error= 1.042	 eucl dist= 4807459.8902
+Record_K=15_L1=0.1_L2=10_L3=1_a1=0.001r1=1_r2=1
+Iter= 854	 relative error= 1.0413	 eucl dist= 4807492.2706
+Record_K=15_L1=0.1_L2=10_L3=1_a1=0.01r1=1_r2=1
+Iter= 855	 relative error= 1.0411	 eucl dist= 4807644.8425
+Record_K=15_L1=0.1_L2=10_L3=1_a1=0.1r1=1_r2=1
+Iter= 856	 relative error= 1.0411	 eucl dist= 4808327.4934
+Record_K=15_L1=0.1_L2=10_L3=1_a1=1r1=1_r2=1
+Iter= 857	 relative error= 1.0413	 eucl dist= 4811292.2697
+Record_K=15_L1=0.1_L2=10_L3=1_a1=10r1=1_r2=1
+Iter= 858	 relative error= 1.0422	 eucl dist= 4823491.2883
+Record_K=15_L1=0.1_L2=10_L3=10_a1=0.0001r1=1_r2=1
+Iter= 859	 relative error= 1.0422	 eucl dist= 4807494.6443
+Record_K=15_L1=0.1_L2=10_L3=10_a1=0.001r1=1_r2=1
+Iter= 860	 relative error= 1.0414	 eucl dist= 4807503.5971
+Record_K=15_L1=0.1_L2=10_L3=10_a1=0.01r1=1_r2=1
+Iter= 861	 relative error= 1.0411	 eucl dist= 4807648.5333
+Record_K=15_L1=0.1_L2=10_L3=10_a1=0.1r1=1_r2=1
+Iter= 862	 relative error= 1.0411	 eucl dist= 4808329.2957
+Record_K=15_L1=0.1_L2=10_L3=10_a1=1r1=1_r2=1
+Iter= 863	 relative error= 1.0413	 eucl dist= 4811293.6059
+Record_K=15_L1=0.1_L2=10_L3=10_a1=10r1=1_r2=1
+Iter= 864	 relative error= 1.0422	 eucl dist= 4823492.5124
+Record_K=15_L1=1_L2=0.0001_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 865	 relative error= 1.0752	 eucl dist= 4807864.5259
+Record_K=15_L1=1_L2=0.0001_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 866	 relative error= 1.0504	 eucl dist= 4807565.3223
+Record_K=15_L1=1_L2=0.0001_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 867	 relative error= 1.0438	 eucl dist= 4807663.3548
+Record_K=15_L1=1_L2=0.0001_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 868	 relative error= 1.042	 eucl dist= 4808333.3703
+Record_K=15_L1=1_L2=0.0001_L3=0.0001_a1=1r1=1_r2=1
+Iter= 869	 relative error= 1.0416	 eucl dist= 4811294.5799
+Record_K=15_L1=1_L2=0.0001_L3=0.0001_a1=10r1=1_r2=1
+Iter= 870	 relative error= 1.0423	 eucl dist= 4823492.2905
+Record_K=15_L1=1_L2=0.0001_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 871	 relative error= 1.0752	 eucl dist= 4807864.5283
+Record_K=15_L1=1_L2=0.0001_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 872	 relative error= 1.0504	 eucl dist= 4807565.3225
+Record_K=15_L1=1_L2=0.0001_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 873	 relative error= 1.0438	 eucl dist= 4807663.3549
+Record_K=15_L1=1_L2=0.0001_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 874	 relative error= 1.042	 eucl dist= 4808333.3704
+Record_K=15_L1=1_L2=0.0001_L3=0.001_a1=1r1=1_r2=1
+Iter= 875	 relative error= 1.0416	 eucl dist= 4811294.58
+Record_K=15_L1=1_L2=0.0001_L3=0.001_a1=10r1=1_r2=1
+Iter= 876	 relative error= 1.0423	 eucl dist= 4823492.2906
+Record_K=15_L1=1_L2=0.0001_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 877	 relative error= 1.0752	 eucl dist= 4807864.5528
+Record_K=15_L1=1_L2=0.0001_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 878	 relative error= 1.0504	 eucl dist= 4807565.3249
+Record_K=15_L1=1_L2=0.0001_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 879	 relative error= 1.0438	 eucl dist= 4807663.356
+Record_K=15_L1=1_L2=0.0001_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 880	 relative error= 1.042	 eucl dist= 4808333.3715
+Record_K=15_L1=1_L2=0.0001_L3=0.01_a1=1r1=1_r2=1
+Iter= 881	 relative error= 1.0416	 eucl dist= 4811294.5812
+Record_K=15_L1=1_L2=0.0001_L3=0.01_a1=10r1=1_r2=1
+Iter= 882	 relative error= 1.0423	 eucl dist= 4823492.2918
+Record_K=15_L1=1_L2=0.0001_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 883	 relative error= 1.0752	 eucl dist= 4807864.8008
+Record_K=15_L1=1_L2=0.0001_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 884	 relative error= 1.0504	 eucl dist= 4807565.3493
+Record_K=15_L1=1_L2=0.0001_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 885	 relative error= 1.0438	 eucl dist= 4807663.3669
+Record_K=15_L1=1_L2=0.0001_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 886	 relative error= 1.042	 eucl dist= 4808333.3829
+Record_K=15_L1=1_L2=0.0001_L3=0.1_a1=1r1=1_r2=1
+Iter= 887	 relative error= 1.0416	 eucl dist= 4811294.593
+Record_K=15_L1=1_L2=0.0001_L3=0.1_a1=10r1=1_r2=1
+Iter= 888	 relative error= 1.0423	 eucl dist= 4823492.3036
+Record_K=15_L1=1_L2=0.0001_L3=1_a1=0.0001r1=1_r2=1
+Iter= 889	 relative error= 1.0753	 eucl dist= 4807867.6484
+Record_K=15_L1=1_L2=0.0001_L3=1_a1=0.001r1=1_r2=1
+Iter= 890	 relative error= 1.0504	 eucl dist= 4807565.6859
+Record_K=15_L1=1_L2=0.0001_L3=1_a1=0.01r1=1_r2=1
+Iter= 891	 relative error= 1.0439	 eucl dist= 4807663.4997
+Record_K=15_L1=1_L2=0.0001_L3=1_a1=0.1r1=1_r2=1
+Iter= 892	 relative error= 1.042	 eucl dist= 4808333.5029
+Record_K=15_L1=1_L2=0.0001_L3=1_a1=1r1=1_r2=1
+Iter= 893	 relative error= 1.0416	 eucl dist= 4811294.7123
+Record_K=15_L1=1_L2=0.0001_L3=1_a1=10r1=1_r2=1
+Iter= 894	 relative error= 1.0423	 eucl dist= 4823492.4225
+Record_K=15_L1=1_L2=0.0001_L3=10_a1=0.0001r1=1_r2=1
+Iter= 895	 relative error= 1.0769	 eucl dist= 4807937.3665
+Record_K=15_L1=1_L2=0.0001_L3=10_a1=0.001r1=1_r2=1
+Iter= 896	 relative error= 1.0506	 eucl dist= 4807578.6113
+Record_K=15_L1=1_L2=0.0001_L3=10_a1=0.01r1=1_r2=1
+Iter= 897	 relative error= 1.0439	 eucl dist= 4807667.2121
+Record_K=15_L1=1_L2=0.0001_L3=10_a1=0.1r1=1_r2=1
+Iter= 898	 relative error= 1.042	 eucl dist= 4808335.2929
+Record_K=15_L1=1_L2=0.0001_L3=10_a1=1r1=1_r2=1
+Iter= 899	 relative error= 1.0416	 eucl dist= 4811296.045
+Record_K=15_L1=1_L2=0.0001_L3=10_a1=10r1=1_r2=1
+Iter= 900	 relative error= 1.0423	 eucl dist= 4823493.6458
+Record_K=15_L1=1_L2=0.001_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 901	 relative error= 1.0752	 eucl dist= 4807864.527
+Record_K=15_L1=1_L2=0.001_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 902	 relative error= 1.0504	 eucl dist= 4807565.3223
+Record_K=15_L1=1_L2=0.001_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 903	 relative error= 1.0438	 eucl dist= 4807663.3548
+Record_K=15_L1=1_L2=0.001_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 904	 relative error= 1.042	 eucl dist= 4808333.3703
+Record_K=15_L1=1_L2=0.001_L3=0.0001_a1=1r1=1_r2=1
+Iter= 905	 relative error= 1.0416	 eucl dist= 4811294.5799
+Record_K=15_L1=1_L2=0.001_L3=0.0001_a1=10r1=1_r2=1
+Iter= 906	 relative error= 1.0423	 eucl dist= 4823492.2905
+Record_K=15_L1=1_L2=0.001_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 907	 relative error= 1.0752	 eucl dist= 4807864.5294
+Record_K=15_L1=1_L2=0.001_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 908	 relative error= 1.0504	 eucl dist= 4807565.3226
+Record_K=15_L1=1_L2=0.001_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 909	 relative error= 1.0438	 eucl dist= 4807663.3549
+Record_K=15_L1=1_L2=0.001_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 910	 relative error= 1.042	 eucl dist= 4808333.3704
+Record_K=15_L1=1_L2=0.001_L3=0.001_a1=1r1=1_r2=1
+Iter= 911	 relative error= 1.0416	 eucl dist= 4811294.58
+Record_K=15_L1=1_L2=0.001_L3=0.001_a1=10r1=1_r2=1
+Iter= 912	 relative error= 1.0423	 eucl dist= 4823492.2906
+Record_K=15_L1=1_L2=0.001_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 913	 relative error= 1.0752	 eucl dist= 4807864.5539
+Record_K=15_L1=1_L2=0.001_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 914	 relative error= 1.0504	 eucl dist= 4807565.3249
+Record_K=15_L1=1_L2=0.001_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 915	 relative error= 1.0438	 eucl dist= 4807663.356
+Record_K=15_L1=1_L2=0.001_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 916	 relative error= 1.042	 eucl dist= 4808333.3715
+Record_K=15_L1=1_L2=0.001_L3=0.01_a1=1r1=1_r2=1
+Iter= 917	 relative error= 1.0416	 eucl dist= 4811294.5812
+Record_K=15_L1=1_L2=0.001_L3=0.01_a1=10r1=1_r2=1
+Iter= 918	 relative error= 1.0423	 eucl dist= 4823492.2918
+Record_K=15_L1=1_L2=0.001_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 919	 relative error= 1.0752	 eucl dist= 4807864.8018
+Record_K=15_L1=1_L2=0.001_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 920	 relative error= 1.0504	 eucl dist= 4807565.3493
+Record_K=15_L1=1_L2=0.001_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 921	 relative error= 1.0438	 eucl dist= 4807663.3669
+Record_K=15_L1=1_L2=0.001_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 922	 relative error= 1.042	 eucl dist= 4808333.3829
+Record_K=15_L1=1_L2=0.001_L3=0.1_a1=1r1=1_r2=1
+Iter= 923	 relative error= 1.0416	 eucl dist= 4811294.593
+Record_K=15_L1=1_L2=0.001_L3=0.1_a1=10r1=1_r2=1
+Iter= 924	 relative error= 1.0423	 eucl dist= 4823492.3036
+Record_K=15_L1=1_L2=0.001_L3=1_a1=0.0001r1=1_r2=1
+Iter= 925	 relative error= 1.0753	 eucl dist= 4807867.6495
+Record_K=15_L1=1_L2=0.001_L3=1_a1=0.001r1=1_r2=1
+Iter= 926	 relative error= 1.0504	 eucl dist= 4807565.6859
+Record_K=15_L1=1_L2=0.001_L3=1_a1=0.01r1=1_r2=1
+Iter= 927	 relative error= 1.0439	 eucl dist= 4807663.4997
+Record_K=15_L1=1_L2=0.001_L3=1_a1=0.1r1=1_r2=1
+Iter= 928	 relative error= 1.042	 eucl dist= 4808333.5029
+Record_K=15_L1=1_L2=0.001_L3=1_a1=1r1=1_r2=1
+Iter= 929	 relative error= 1.0416	 eucl dist= 4811294.7123
+Record_K=15_L1=1_L2=0.001_L3=1_a1=10r1=1_r2=1
+Iter= 930	 relative error= 1.0423	 eucl dist= 4823492.4225
+Record_K=15_L1=1_L2=0.001_L3=10_a1=0.0001r1=1_r2=1
+Iter= 931	 relative error= 1.0769	 eucl dist= 4807937.3678
+Record_K=15_L1=1_L2=0.001_L3=10_a1=0.001r1=1_r2=1
+Iter= 932	 relative error= 1.0506	 eucl dist= 4807578.6114
+Record_K=15_L1=1_L2=0.001_L3=10_a1=0.01r1=1_r2=1
+Iter= 933	 relative error= 1.0439	 eucl dist= 4807667.2121
+Record_K=15_L1=1_L2=0.001_L3=10_a1=0.1r1=1_r2=1
+Iter= 934	 relative error= 1.042	 eucl dist= 4808335.2929
+Record_K=15_L1=1_L2=0.001_L3=10_a1=1r1=1_r2=1
+Iter= 935	 relative error= 1.0416	 eucl dist= 4811296.0451
+Record_K=15_L1=1_L2=0.001_L3=10_a1=10r1=1_r2=1
+Iter= 936	 relative error= 1.0423	 eucl dist= 4823493.6458
+Record_K=15_L1=1_L2=0.01_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 937	 relative error= 1.0752	 eucl dist= 4807864.5378
+Record_K=15_L1=1_L2=0.01_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 938	 relative error= 1.0504	 eucl dist= 4807565.3225
+Record_K=15_L1=1_L2=0.01_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 939	 relative error= 1.0438	 eucl dist= 4807663.3547
+Record_K=15_L1=1_L2=0.01_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 940	 relative error= 1.042	 eucl dist= 4808333.3702
+Record_K=15_L1=1_L2=0.01_L3=0.0001_a1=1r1=1_r2=1
+Iter= 941	 relative error= 1.0416	 eucl dist= 4811294.5799
+Record_K=15_L1=1_L2=0.01_L3=0.0001_a1=10r1=1_r2=1
+Iter= 942	 relative error= 1.0423	 eucl dist= 4823492.2905
+Record_K=15_L1=1_L2=0.01_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 943	 relative error= 1.0752	 eucl dist= 4807864.5402
+Record_K=15_L1=1_L2=0.01_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 944	 relative error= 1.0504	 eucl dist= 4807565.3227
+Record_K=15_L1=1_L2=0.01_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 945	 relative error= 1.0438	 eucl dist= 4807663.3548
+Record_K=15_L1=1_L2=0.01_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 946	 relative error= 1.042	 eucl dist= 4808333.3704
+Record_K=15_L1=1_L2=0.01_L3=0.001_a1=1r1=1_r2=1
+Iter= 947	 relative error= 1.0416	 eucl dist= 4811294.58
+Record_K=15_L1=1_L2=0.01_L3=0.001_a1=10r1=1_r2=1
+Iter= 948	 relative error= 1.0423	 eucl dist= 4823492.2906
+Record_K=15_L1=1_L2=0.01_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 949	 relative error= 1.0752	 eucl dist= 4807864.5647
+Record_K=15_L1=1_L2=0.01_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 950	 relative error= 1.0504	 eucl dist= 4807565.3251
+Record_K=15_L1=1_L2=0.01_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 951	 relative error= 1.0438	 eucl dist= 4807663.3559
+Record_K=15_L1=1_L2=0.01_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 952	 relative error= 1.042	 eucl dist= 4808333.3715
+Record_K=15_L1=1_L2=0.01_L3=0.01_a1=1r1=1_r2=1
+Iter= 953	 relative error= 1.0416	 eucl dist= 4811294.5812
+Record_K=15_L1=1_L2=0.01_L3=0.01_a1=10r1=1_r2=1
+Iter= 954	 relative error= 1.0423	 eucl dist= 4823492.2918
+Record_K=15_L1=1_L2=0.01_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 955	 relative error= 1.0752	 eucl dist= 4807864.8127
+Record_K=15_L1=1_L2=0.01_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 956	 relative error= 1.0504	 eucl dist= 4807565.3495
+Record_K=15_L1=1_L2=0.01_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 957	 relative error= 1.0438	 eucl dist= 4807663.3668
+Record_K=15_L1=1_L2=0.01_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 958	 relative error= 1.042	 eucl dist= 4808333.3829
+Record_K=15_L1=1_L2=0.01_L3=0.1_a1=1r1=1_r2=1
+Iter= 959	 relative error= 1.0416	 eucl dist= 4811294.593
+Record_K=15_L1=1_L2=0.01_L3=0.1_a1=10r1=1_r2=1
+Iter= 960	 relative error= 1.0423	 eucl dist= 4823492.3036
+Record_K=15_L1=1_L2=0.01_L3=1_a1=0.0001r1=1_r2=1
+Iter= 961	 relative error= 1.0753	 eucl dist= 4807867.6604
+Record_K=15_L1=1_L2=0.01_L3=1_a1=0.001r1=1_r2=1
+Iter= 962	 relative error= 1.0504	 eucl dist= 4807565.6861
+Record_K=15_L1=1_L2=0.01_L3=1_a1=0.01r1=1_r2=1
+Iter= 963	 relative error= 1.0439	 eucl dist= 4807663.4996
+Record_K=15_L1=1_L2=0.01_L3=1_a1=0.1r1=1_r2=1
+Iter= 964	 relative error= 1.042	 eucl dist= 4808333.5028
+Record_K=15_L1=1_L2=0.01_L3=1_a1=1r1=1_r2=1
+Iter= 965	 relative error= 1.0416	 eucl dist= 4811294.7123
+Record_K=15_L1=1_L2=0.01_L3=1_a1=10r1=1_r2=1
+Iter= 966	 relative error= 1.0423	 eucl dist= 4823492.4225
+Record_K=15_L1=1_L2=0.01_L3=10_a1=0.0001r1=1_r2=1
+Iter= 967	 relative error= 1.0769	 eucl dist= 4807937.3808
+Record_K=15_L1=1_L2=0.01_L3=10_a1=0.001r1=1_r2=1
+Iter= 968	 relative error= 1.0506	 eucl dist= 4807578.6117
+Record_K=15_L1=1_L2=0.01_L3=10_a1=0.01r1=1_r2=1
+Iter= 969	 relative error= 1.0439	 eucl dist= 4807667.2121
+Record_K=15_L1=1_L2=0.01_L3=10_a1=0.1r1=1_r2=1
+Iter= 970	 relative error= 1.042	 eucl dist= 4808335.2929
+Record_K=15_L1=1_L2=0.01_L3=10_a1=1r1=1_r2=1
+Iter= 971	 relative error= 1.0416	 eucl dist= 4811296.0451
+Record_K=15_L1=1_L2=0.01_L3=10_a1=10r1=1_r2=1
+Iter= 972	 relative error= 1.0423	 eucl dist= 4823493.6458
+Record_K=15_L1=1_L2=0.1_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 973	 relative error= 1.0752	 eucl dist= 4807864.6462
+Record_K=15_L1=1_L2=0.1_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 974	 relative error= 1.0504	 eucl dist= 4807565.3244
+Record_K=15_L1=1_L2=0.1_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 975	 relative error= 1.0438	 eucl dist= 4807663.3537
+Record_K=15_L1=1_L2=0.1_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 976	 relative error= 1.042	 eucl dist= 4808333.37
+Record_K=15_L1=1_L2=0.1_L3=0.0001_a1=1r1=1_r2=1
+Iter= 977	 relative error= 1.0416	 eucl dist= 4811294.5799
+Record_K=15_L1=1_L2=0.1_L3=0.0001_a1=10r1=1_r2=1
+Iter= 978	 relative error= 1.0423	 eucl dist= 4823492.2904
+Record_K=15_L1=1_L2=0.1_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 979	 relative error= 1.0752	 eucl dist= 4807864.6487
+Record_K=15_L1=1_L2=0.1_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 980	 relative error= 1.0504	 eucl dist= 4807565.3246
+Record_K=15_L1=1_L2=0.1_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 981	 relative error= 1.0438	 eucl dist= 4807663.3538
+Record_K=15_L1=1_L2=0.1_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 982	 relative error= 1.042	 eucl dist= 4808333.3701
+Record_K=15_L1=1_L2=0.1_L3=0.001_a1=1r1=1_r2=1
+Iter= 983	 relative error= 1.0416	 eucl dist= 4811294.58
+Record_K=15_L1=1_L2=0.1_L3=0.001_a1=10r1=1_r2=1
+Iter= 984	 relative error= 1.0423	 eucl dist= 4823492.2905
+Record_K=15_L1=1_L2=0.1_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 985	 relative error= 1.0752	 eucl dist= 4807864.6731
+Record_K=15_L1=1_L2=0.1_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 986	 relative error= 1.0504	 eucl dist= 4807565.327
+Record_K=15_L1=1_L2=0.1_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 987	 relative error= 1.0438	 eucl dist= 4807663.3549
+Record_K=15_L1=1_L2=0.1_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 988	 relative error= 1.042	 eucl dist= 4808333.3713
+Record_K=15_L1=1_L2=0.1_L3=0.01_a1=1r1=1_r2=1
+Iter= 989	 relative error= 1.0416	 eucl dist= 4811294.5812
+Record_K=15_L1=1_L2=0.1_L3=0.01_a1=10r1=1_r2=1
+Iter= 990	 relative error= 1.0423	 eucl dist= 4823492.2917
+Record_K=15_L1=1_L2=0.1_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 991	 relative error= 1.0752	 eucl dist= 4807864.9212
+Record_K=15_L1=1_L2=0.1_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 992	 relative error= 1.0504	 eucl dist= 4807565.3514
+Record_K=15_L1=1_L2=0.1_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 993	 relative error= 1.0438	 eucl dist= 4807663.3658
+Record_K=15_L1=1_L2=0.1_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 994	 relative error= 1.042	 eucl dist= 4808333.3827
+Record_K=15_L1=1_L2=0.1_L3=0.1_a1=1r1=1_r2=1
+Iter= 995	 relative error= 1.0416	 eucl dist= 4811294.593
+Record_K=15_L1=1_L2=0.1_L3=0.1_a1=10r1=1_r2=1
+Iter= 996	 relative error= 1.0423	 eucl dist= 4823492.3036
+Record_K=15_L1=1_L2=0.1_L3=1_a1=0.0001r1=1_r2=1
+Iter= 997	 relative error= 1.0753	 eucl dist= 4807867.7699
+Record_K=15_L1=1_L2=0.1_L3=1_a1=0.001r1=1_r2=1
+Iter= 998	 relative error= 1.0504	 eucl dist= 4807565.6881
+Record_K=15_L1=1_L2=0.1_L3=1_a1=0.01r1=1_r2=1
+Iter= 999	 relative error= 1.0439	 eucl dist= 4807663.4987
+Record_K=15_L1=1_L2=0.1_L3=1_a1=0.1r1=1_r2=1
+Iter= 1000	 relative error= 1.042	 eucl dist= 4808333.5026
+Record_K=15_L1=1_L2=0.1_L3=1_a1=1r1=1_r2=1
+Iter= 1001	 relative error= 1.0416	 eucl dist= 4811294.7123
+Record_K=15_L1=1_L2=0.1_L3=1_a1=10r1=1_r2=1
+Iter= 1002	 relative error= 1.0423	 eucl dist= 4823492.4224
+Record_K=15_L1=1_L2=0.1_L3=10_a1=0.0001r1=1_r2=1
+Iter= 1003	 relative error= 1.077	 eucl dist= 4807937.5113
+Record_K=15_L1=1_L2=0.1_L3=10_a1=0.001r1=1_r2=1
+Iter= 1004	 relative error= 1.0506	 eucl dist= 4807578.615
+Record_K=15_L1=1_L2=0.1_L3=10_a1=0.01r1=1_r2=1
+Iter= 1005	 relative error= 1.0439	 eucl dist= 4807667.2118
+Record_K=15_L1=1_L2=0.1_L3=10_a1=0.1r1=1_r2=1
+Iter= 1006	 relative error= 1.042	 eucl dist= 4808335.2929
+Record_K=15_L1=1_L2=0.1_L3=10_a1=1r1=1_r2=1
+Iter= 1007	 relative error= 1.0416	 eucl dist= 4811296.0451
+Record_K=15_L1=1_L2=0.1_L3=10_a1=10r1=1_r2=1
+Iter= 1008	 relative error= 1.0423	 eucl dist= 4823493.6458
+Record_K=15_L1=1_L2=1_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 1009	 relative error= 1.0753	 eucl dist= 4807865.7644
+Record_K=15_L1=1_L2=1_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 1010	 relative error= 1.0504	 eucl dist= 4807565.3486
+Record_K=15_L1=1_L2=1_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 1011	 relative error= 1.0438	 eucl dist= 4807663.3448
+Record_K=15_L1=1_L2=1_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 1012	 relative error= 1.042	 eucl dist= 4808333.368
+Record_K=15_L1=1_L2=1_L3=0.0001_a1=1r1=1_r2=1
+Iter= 1013	 relative error= 1.0416	 eucl dist= 4811294.5802
+Record_K=15_L1=1_L2=1_L3=0.0001_a1=10r1=1_r2=1
+Iter= 1014	 relative error= 1.0423	 eucl dist= 4823492.29
+Record_K=15_L1=1_L2=1_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 1015	 relative error= 1.0753	 eucl dist= 4807865.7669
+Record_K=15_L1=1_L2=1_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 1016	 relative error= 1.0504	 eucl dist= 4807565.3488
+Record_K=15_L1=1_L2=1_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 1017	 relative error= 1.0438	 eucl dist= 4807663.3449
+Record_K=15_L1=1_L2=1_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 1018	 relative error= 1.042	 eucl dist= 4808333.3681
+Record_K=15_L1=1_L2=1_L3=0.001_a1=1r1=1_r2=1
+Iter= 1019	 relative error= 1.0416	 eucl dist= 4811294.5803
+Record_K=15_L1=1_L2=1_L3=0.001_a1=10r1=1_r2=1
+Iter= 1020	 relative error= 1.0423	 eucl dist= 4823492.2901
+Record_K=15_L1=1_L2=1_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 1021	 relative error= 1.0753	 eucl dist= 4807865.7914
+Record_K=15_L1=1_L2=1_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 1022	 relative error= 1.0504	 eucl dist= 4807565.3512
+Record_K=15_L1=1_L2=1_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 1023	 relative error= 1.0438	 eucl dist= 4807663.346
+Record_K=15_L1=1_L2=1_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 1024	 relative error= 1.042	 eucl dist= 4808333.3693
+Record_K=15_L1=1_L2=1_L3=0.01_a1=1r1=1_r2=1
+Iter= 1025	 relative error= 1.0416	 eucl dist= 4811294.5815
+Record_K=15_L1=1_L2=1_L3=0.01_a1=10r1=1_r2=1
+Iter= 1026	 relative error= 1.0423	 eucl dist= 4823492.2913
+Record_K=15_L1=1_L2=1_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 1027	 relative error= 1.0753	 eucl dist= 4807866.0404
+Record_K=15_L1=1_L2=1_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 1028	 relative error= 1.0504	 eucl dist= 4807565.3757
+Record_K=15_L1=1_L2=1_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 1029	 relative error= 1.0438	 eucl dist= 4807663.357
+Record_K=15_L1=1_L2=1_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 1030	 relative error= 1.042	 eucl dist= 4808333.3807
+Record_K=15_L1=1_L2=1_L3=0.1_a1=1r1=1_r2=1
+Iter= 1031	 relative error= 1.0416	 eucl dist= 4811294.5933
+Record_K=15_L1=1_L2=1_L3=0.1_a1=10r1=1_r2=1
+Iter= 1032	 relative error= 1.0423	 eucl dist= 4823492.3032
+Record_K=15_L1=1_L2=1_L3=1_a1=0.0001r1=1_r2=1
+Iter= 1033	 relative error= 1.0754	 eucl dist= 4807868.8987
+Record_K=15_L1=1_L2=1_L3=1_a1=0.001r1=1_r2=1
+Iter= 1034	 relative error= 1.0504	 eucl dist= 4807565.7136
+Record_K=15_L1=1_L2=1_L3=1_a1=0.01r1=1_r2=1
+Iter= 1035	 relative error= 1.0439	 eucl dist= 4807663.4905
+Record_K=15_L1=1_L2=1_L3=1_a1=0.1r1=1_r2=1
+Iter= 1036	 relative error= 1.042	 eucl dist= 4808333.5009
+Record_K=15_L1=1_L2=1_L3=1_a1=1r1=1_r2=1
+Iter= 1037	 relative error= 1.0416	 eucl dist= 4811294.7126
+Record_K=15_L1=1_L2=1_L3=1_a1=10r1=1_r2=1
+Iter= 1038	 relative error= 1.0423	 eucl dist= 4823492.422
+Record_K=15_L1=1_L2=1_L3=10_a1=0.0001r1=1_r2=1
+Iter= 1039	 relative error= 1.077	 eucl dist= 4807938.8529
+Record_K=15_L1=1_L2=1_L3=10_a1=0.001r1=1_r2=1
+Iter= 1040	 relative error= 1.0506	 eucl dist= 4807578.6535
+Record_K=15_L1=1_L2=1_L3=10_a1=0.01r1=1_r2=1
+Iter= 1041	 relative error= 1.0439	 eucl dist= 4807667.2096
+Record_K=15_L1=1_L2=1_L3=10_a1=0.1r1=1_r2=1
+Iter= 1042	 relative error= 1.042	 eucl dist= 4808335.293
+Record_K=15_L1=1_L2=1_L3=10_a1=1r1=1_r2=1
+Iter= 1043	 relative error= 1.0416	 eucl dist= 4811296.0458
+Record_K=15_L1=1_L2=1_L3=10_a1=10r1=1_r2=1
+Iter= 1044	 relative error= 1.0423	 eucl dist= 4823493.6454
+Record_K=15_L1=1_L2=10_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 1045	 relative error= 1.076	 eucl dist= 4807880.889
+Record_K=15_L1=1_L2=10_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 1046	 relative error= 1.0504	 eucl dist= 4807566.1548
+Record_K=15_L1=1_L2=10_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 1047	 relative error= 1.0439	 eucl dist= 4807663.3443
+Record_K=15_L1=1_L2=10_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 1048	 relative error= 1.042	 eucl dist= 4808333.3658
+Record_K=15_L1=1_L2=10_L3=0.0001_a1=1r1=1_r2=1
+Iter= 1049	 relative error= 1.0416	 eucl dist= 4811294.5862
+Record_K=15_L1=1_L2=10_L3=0.0001_a1=10r1=1_r2=1
+Iter= 1050	 relative error= 1.0423	 eucl dist= 4823492.2866
+Record_K=15_L1=1_L2=10_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 1051	 relative error= 1.076	 eucl dist= 4807880.8915
+Record_K=15_L1=1_L2=10_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 1052	 relative error= 1.0504	 eucl dist= 4807566.1551
+Record_K=15_L1=1_L2=10_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 1053	 relative error= 1.0439	 eucl dist= 4807663.3444
+Record_K=15_L1=1_L2=10_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 1054	 relative error= 1.042	 eucl dist= 4808333.3659
+Record_K=15_L1=1_L2=10_L3=0.001_a1=1r1=1_r2=1
+Iter= 1055	 relative error= 1.0416	 eucl dist= 4811294.5863
+Record_K=15_L1=1_L2=10_L3=0.001_a1=10r1=1_r2=1
+Iter= 1056	 relative error= 1.0423	 eucl dist= 4823492.2867
+Record_K=15_L1=1_L2=10_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 1057	 relative error= 1.076	 eucl dist= 4807880.9165
+Record_K=15_L1=1_L2=10_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 1058	 relative error= 1.0504	 eucl dist= 4807566.1575
+Record_K=15_L1=1_L2=10_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 1059	 relative error= 1.0439	 eucl dist= 4807663.3455
+Record_K=15_L1=1_L2=10_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 1060	 relative error= 1.042	 eucl dist= 4808333.3671
+Record_K=15_L1=1_L2=10_L3=0.01_a1=1r1=1_r2=1
+Iter= 1061	 relative error= 1.0416	 eucl dist= 4811294.5875
+Record_K=15_L1=1_L2=10_L3=0.01_a1=10r1=1_r2=1
+Iter= 1062	 relative error= 1.0423	 eucl dist= 4823492.2879
+Record_K=15_L1=1_L2=10_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 1063	 relative error= 1.076	 eucl dist= 4807881.1704
+Record_K=15_L1=1_L2=10_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 1064	 relative error= 1.0504	 eucl dist= 4807566.1827
+Record_K=15_L1=1_L2=10_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 1065	 relative error= 1.0439	 eucl dist= 4807663.3571
+Record_K=15_L1=1_L2=10_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 1066	 relative error= 1.042	 eucl dist= 4808333.3787
+Record_K=15_L1=1_L2=10_L3=0.1_a1=1r1=1_r2=1
+Iter= 1067	 relative error= 1.0416	 eucl dist= 4811294.5993
+Record_K=15_L1=1_L2=10_L3=0.1_a1=10r1=1_r2=1
+Iter= 1068	 relative error= 1.0423	 eucl dist= 4823492.2998
+Record_K=15_L1=1_L2=10_L3=1_a1=0.0001r1=1_r2=1
+Iter= 1069	 relative error= 1.0761	 eucl dist= 4807884.0949
+Record_K=15_L1=1_L2=10_L3=1_a1=0.001r1=1_r2=1
+Iter= 1070	 relative error= 1.0504	 eucl dist= 4807566.5289
+Record_K=15_L1=1_L2=10_L3=1_a1=0.01r1=1_r2=1
+Iter= 1071	 relative error= 1.0439	 eucl dist= 4807663.4966
+Record_K=15_L1=1_L2=10_L3=1_a1=0.1r1=1_r2=1
+Iter= 1072	 relative error= 1.042	 eucl dist= 4808333.5007
+Record_K=15_L1=1_L2=10_L3=1_a1=1r1=1_r2=1
+Iter= 1073	 relative error= 1.0416	 eucl dist= 4811294.7191
+Record_K=15_L1=1_L2=10_L3=1_a1=10r1=1_r2=1
+Iter= 1074	 relative error= 1.0423	 eucl dist= 4823492.4187
+Record_K=15_L1=1_L2=10_L3=10_a1=0.0001r1=1_r2=1
+Iter= 1075	 relative error= 1.0778	 eucl dist= 4807956.1752
+Record_K=15_L1=1_L2=10_L3=10_a1=0.001r1=1_r2=1
+Iter= 1076	 relative error= 1.0506	 eucl dist= 4807579.5941
+Record_K=15_L1=1_L2=10_L3=10_a1=0.01r1=1_r2=1
+Iter= 1077	 relative error= 1.0439	 eucl dist= 4807667.2759
+Record_K=15_L1=1_L2=10_L3=10_a1=0.1r1=1_r2=1
+Iter= 1078	 relative error= 1.042	 eucl dist= 4808335.3118
+Record_K=15_L1=1_L2=10_L3=10_a1=1r1=1_r2=1
+Iter= 1079	 relative error= 1.0416	 eucl dist= 4811296.0565
+Record_K=15_L1=1_L2=10_L3=10_a1=10r1=1_r2=1
+Iter= 1080	 relative error= 1.0423	 eucl dist= 4823493.643
+Record_K=15_L1=10_L2=0.0001_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 1081	 relative error= 10.4199	 eucl dist= 3915512482.7611
+Record_K=15_L1=10_L2=0.0001_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 1082	 relative error= 3.5605	 eucl dist= 5619599.2556
+Record_K=15_L1=10_L2=0.0001_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 1083	 relative error= 1.1439	 eucl dist= 4809933.3086
+Record_K=15_L1=10_L2=0.0001_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 1084	 relative error= 1.0749	 eucl dist= 4808814.0239
+Record_K=15_L1=10_L2=0.0001_L3=0.0001_a1=1r1=1_r2=1
+Iter= 1085	 relative error= 1.0528	 eucl dist= 4811414.9516
+Record_K=15_L1=10_L2=0.0001_L3=0.0001_a1=10r1=1_r2=1
+Iter= 1086	 relative error= 1.0459	 eucl dist= 4823526.055
+Record_K=15_L1=10_L2=0.0001_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 1087	 relative error= 1.2914	 eucl dist= 7016066.3196
+Record_K=15_L1=10_L2=0.0001_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 1088	 relative error= 3.5611	 eucl dist= 5619861.4683
+Record_K=15_L1=10_L2=0.0001_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 1089	 relative error= 1.1439	 eucl dist= 4809933.3092
+Record_K=15_L1=10_L2=0.0001_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 1090	 relative error= 1.0749	 eucl dist= 4808814.0241
+Record_K=15_L1=10_L2=0.0001_L3=0.001_a1=1r1=1_r2=1
+Iter= 1091	 relative error= 1.0528	 eucl dist= 4811414.9517
+Record_K=15_L1=10_L2=0.0001_L3=0.001_a1=10r1=1_r2=1
+Iter= 1092	 relative error= 1.0459	 eucl dist= 4823526.0551
+Record_K=15_L1=10_L2=0.0001_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 1093	 relative error= 1.8518	 eucl dist= 7134165.6691
+Record_K=15_L1=10_L2=0.0001_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 1094	 relative error= 3.5669	 eucl dist= 5622222.6133
+Record_K=15_L1=10_L2=0.0001_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 1095	 relative error= 1.1439	 eucl dist= 4809933.3155
+Record_K=15_L1=10_L2=0.0001_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 1096	 relative error= 1.0749	 eucl dist= 4808814.0256
+Record_K=15_L1=10_L2=0.0001_L3=0.01_a1=1r1=1_r2=1
+Iter= 1097	 relative error= 1.0528	 eucl dist= 4811414.9529
+Record_K=15_L1=10_L2=0.0001_L3=0.01_a1=10r1=1_r2=1
+Iter= 1098	 relative error= 1.0459	 eucl dist= 4823526.0563
+Record_K=15_L1=10_L2=0.0001_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 1099	 relative error= 2.5868	 eucl dist= 11450010.5355
+Record_K=15_L1=10_L2=0.0001_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 1100	 relative error= 3.5865	 eucl dist= 5630302.4923
+Record_K=15_L1=10_L2=0.0001_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 1101	 relative error= 1.1439	 eucl dist= 4809933.3782
+Record_K=15_L1=10_L2=0.0001_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 1102	 relative error= 1.0749	 eucl dist= 4808814.0409
+Record_K=15_L1=10_L2=0.0001_L3=0.1_a1=1r1=1_r2=1
+Iter= 1103	 relative error= 1.0528	 eucl dist= 4811414.965
+Record_K=15_L1=10_L2=0.0001_L3=0.1_a1=10r1=1_r2=1
+Iter= 1104	 relative error= 1.0459	 eucl dist= 4823526.0683
+Record_K=15_L1=10_L2=0.0001_L3=1_a1=0.0001r1=1_r2=1
+Iter= 1105	 relative error= 1.3708	 eucl dist= 6909031.0201
+Record_K=15_L1=10_L2=0.0001_L3=1_a1=0.001r1=1_r2=1
+Iter= 1106	 relative error= 1.5388	 eucl dist= 8730685.7501
+Record_K=15_L1=10_L2=0.0001_L3=1_a1=0.01r1=1_r2=1
+Iter= 1107	 relative error= 1.144	 eucl dist= 4809934.0352
+Record_K=15_L1=10_L2=0.0001_L3=1_a1=0.1r1=1_r2=1
+Iter= 1108	 relative error= 1.0749	 eucl dist= 4808814.2002
+Record_K=15_L1=10_L2=0.0001_L3=1_a1=1r1=1_r2=1
+Iter= 1109	 relative error= 1.0528	 eucl dist= 4811415.0874
+Record_K=15_L1=10_L2=0.0001_L3=1_a1=10r1=1_r2=1
+Iter= 1110	 relative error= 1.0459	 eucl dist= 4823526.1881
+Record_K=15_L1=10_L2=0.0001_L3=10_a1=0.0001r1=1_r2=1
+Iter= 1111	 relative error= 1.7791	 eucl dist= 7044275.4333
+Record_K=15_L1=10_L2=0.0001_L3=10_a1=0.001r1=1_r2=1
+Iter= 1112	 relative error= 3.3919	 eucl dist= 5552847.0442
+Record_K=15_L1=10_L2=0.0001_L3=10_a1=0.01r1=1_r2=1
+Iter= 1113	 relative error= 1.1442	 eucl dist= 4809943.573
+Record_K=15_L1=10_L2=0.0001_L3=10_a1=0.1r1=1_r2=1
+Iter= 1114	 relative error= 1.0749	 eucl dist= 4808816.4077
+Record_K=15_L1=10_L2=0.0001_L3=10_a1=1r1=1_r2=1
+Iter= 1115	 relative error= 1.0528	 eucl dist= 4811416.4516
+Record_K=15_L1=10_L2=0.0001_L3=10_a1=10r1=1_r2=1
+Iter= 1116	 relative error= 1.0459	 eucl dist= 4823527.4209
+Record_K=15_L1=10_L2=0.001_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 1117	 relative error= 1.2703	 eucl dist= 7015606.5187
+Record_K=15_L1=10_L2=0.001_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 1118	 relative error= 3.5604	 eucl dist= 5619550.1265
+Record_K=15_L1=10_L2=0.001_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 1119	 relative error= 1.1439	 eucl dist= 4809933.3085
+Record_K=15_L1=10_L2=0.001_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 1120	 relative error= 1.0749	 eucl dist= 4808814.0239
+Record_K=15_L1=10_L2=0.001_L3=0.0001_a1=1r1=1_r2=1
+Iter= 1121	 relative error= 1.0528	 eucl dist= 4811414.9516
+Record_K=15_L1=10_L2=0.001_L3=0.0001_a1=10r1=1_r2=1
+Iter= 1122	 relative error= 1.0459	 eucl dist= 4823526.055
+Record_K=15_L1=10_L2=0.001_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 1123	 relative error= 1.2814	 eucl dist= 7015841.2335
+Record_K=15_L1=10_L2=0.001_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 1124	 relative error= 3.561	 eucl dist= 5619813.3757
+Record_K=15_L1=10_L2=0.001_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 1125	 relative error= 1.1439	 eucl dist= 4809933.3091
+Record_K=15_L1=10_L2=0.001_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 1126	 relative error= 1.0749	 eucl dist= 4808814.024
+Record_K=15_L1=10_L2=0.001_L3=0.001_a1=1r1=1_r2=1
+Iter= 1127	 relative error= 1.0528	 eucl dist= 4811414.9517
+Record_K=15_L1=10_L2=0.001_L3=0.001_a1=10r1=1_r2=1
+Iter= 1128	 relative error= 1.0459	 eucl dist= 4823526.0551
+Record_K=15_L1=10_L2=0.001_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 1129	 relative error= 1.8248	 eucl dist= 7048567.2779
+Record_K=15_L1=10_L2=0.001_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 1130	 relative error= 3.5668	 eucl dist= 5622184.1222
+Record_K=15_L1=10_L2=0.001_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 1131	 relative error= 1.1439	 eucl dist= 4809933.3154
+Record_K=15_L1=10_L2=0.001_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 1132	 relative error= 1.0749	 eucl dist= 4808814.0256
+Record_K=15_L1=10_L2=0.001_L3=0.01_a1=1r1=1_r2=1
+Iter= 1133	 relative error= 1.0528	 eucl dist= 4811414.9529
+Record_K=15_L1=10_L2=0.001_L3=0.01_a1=10r1=1_r2=1
+Iter= 1134	 relative error= 1.0459	 eucl dist= 4823526.0563
+Record_K=15_L1=10_L2=0.001_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 1135	 relative error= 2.5922	 eucl dist= 17231820.9298
+Record_K=15_L1=10_L2=0.001_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 1136	 relative error= 3.5865	 eucl dist= 5630306.9759
+Record_K=15_L1=10_L2=0.001_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 1137	 relative error= 1.1439	 eucl dist= 4809933.3781
+Record_K=15_L1=10_L2=0.001_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 1138	 relative error= 1.0749	 eucl dist= 4808814.0409
+Record_K=15_L1=10_L2=0.001_L3=0.1_a1=1r1=1_r2=1
+Iter= 1139	 relative error= 1.0528	 eucl dist= 4811414.965
+Record_K=15_L1=10_L2=0.001_L3=0.1_a1=10r1=1_r2=1
+Iter= 1140	 relative error= 1.0459	 eucl dist= 4823526.0683
+Record_K=15_L1=10_L2=0.001_L3=1_a1=0.0001r1=1_r2=1
+Iter= 1141	 relative error= 17.9129	 eucl dist= 44167851.8734
+Record_K=15_L1=10_L2=0.001_L3=1_a1=0.001r1=1_r2=1
+Iter= 1142	 relative error= 1.7163	 eucl dist= 10375204.6764
+Record_K=15_L1=10_L2=0.001_L3=1_a1=0.01r1=1_r2=1
+Iter= 1143	 relative error= 1.144	 eucl dist= 4809934.0351
+Record_K=15_L1=10_L2=0.001_L3=1_a1=0.1r1=1_r2=1
+Iter= 1144	 relative error= 1.0749	 eucl dist= 4808814.2002
+Record_K=15_L1=10_L2=0.001_L3=1_a1=1r1=1_r2=1
+Iter= 1145	 relative error= 1.0528	 eucl dist= 4811415.0874
+Record_K=15_L1=10_L2=0.001_L3=1_a1=10r1=1_r2=1
+Iter= 1146	 relative error= 1.0459	 eucl dist= 4823526.1881
+Record_K=15_L1=10_L2=0.001_L3=10_a1=0.0001r1=1_r2=1
+Iter= 1147	 relative error= 1.2697	 eucl dist= 7015594.6569
+Record_K=15_L1=10_L2=0.001_L3=10_a1=0.001r1=1_r2=1
+Iter= 1148	 relative error= 3.4237	 eucl dist= 5564937.7272
+Record_K=15_L1=10_L2=0.001_L3=10_a1=0.01r1=1_r2=1
+Iter= 1149	 relative error= 1.1442	 eucl dist= 4809943.5729
+Record_K=15_L1=10_L2=0.001_L3=10_a1=0.1r1=1_r2=1
+Iter= 1150	 relative error= 1.0749	 eucl dist= 4808816.4077
+Record_K=15_L1=10_L2=0.001_L3=10_a1=1r1=1_r2=1
+Iter= 1151	 relative error= 1.0528	 eucl dist= 4811416.4516
+Record_K=15_L1=10_L2=0.001_L3=10_a1=10r1=1_r2=1
+Iter= 1152	 relative error= 1.0459	 eucl dist= 4823527.4209
+Record_K=15_L1=10_L2=0.01_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 1153	 relative error= 1.4026	 eucl dist= 10307398.8222
+Record_K=15_L1=10_L2=0.01_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 1154	 relative error= 3.5591	 eucl dist= 5619046.8107
+Record_K=15_L1=10_L2=0.01_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 1155	 relative error= 1.1439	 eucl dist= 4809933.3076
+Record_K=15_L1=10_L2=0.01_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 1156	 relative error= 1.0749	 eucl dist= 4808814.0239
+Record_K=15_L1=10_L2=0.01_L3=0.0001_a1=1r1=1_r2=1
+Iter= 1157	 relative error= 1.0528	 eucl dist= 4811414.9516
+Record_K=15_L1=10_L2=0.01_L3=0.0001_a1=10r1=1_r2=1
+Iter= 1158	 relative error= 1.0459	 eucl dist= 4823526.055
+Record_K=15_L1=10_L2=0.01_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 1159	 relative error= 1.2382	 eucl dist= 7015075.5521
+Record_K=15_L1=10_L2=0.01_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 1160	 relative error= 3.5598	 eucl dist= 5619320.5864
+Record_K=15_L1=10_L2=0.01_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 1161	 relative error= 1.1439	 eucl dist= 4809933.3082
+Record_K=15_L1=10_L2=0.01_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 1162	 relative error= 1.0749	 eucl dist= 4808814.024
+Record_K=15_L1=10_L2=0.01_L3=0.001_a1=1r1=1_r2=1
+Iter= 1163	 relative error= 1.0528	 eucl dist= 4811414.9517
+Record_K=15_L1=10_L2=0.01_L3=0.001_a1=10r1=1_r2=1
+Iter= 1164	 relative error= 1.0459	 eucl dist= 4823526.0551
+Record_K=15_L1=10_L2=0.01_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 1165	 relative error= 1.2591	 eucl dist= 7015394.8375
+Record_K=15_L1=10_L2=0.01_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 1166	 relative error= 3.5658	 eucl dist= 5621788.9267
+Record_K=15_L1=10_L2=0.01_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 1167	 relative error= 1.1439	 eucl dist= 4809933.3145
+Record_K=15_L1=10_L2=0.01_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 1168	 relative error= 1.0749	 eucl dist= 4808814.0255
+Record_K=15_L1=10_L2=0.01_L3=0.01_a1=1r1=1_r2=1
+Iter= 1169	 relative error= 1.0528	 eucl dist= 4811414.9529
+Record_K=15_L1=10_L2=0.01_L3=0.01_a1=10r1=1_r2=1
+Iter= 1170	 relative error= 1.0459	 eucl dist= 4823526.0563
+Record_K=15_L1=10_L2=0.01_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 1171	 relative error= 1.2317	 eucl dist= 7015002.5972
+Record_K=15_L1=10_L2=0.01_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 1172	 relative error= 3.5867	 eucl dist= 5630350.1485
+Record_K=15_L1=10_L2=0.01_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 1173	 relative error= 1.1439	 eucl dist= 4809933.3772
+Record_K=15_L1=10_L2=0.01_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 1174	 relative error= 1.0749	 eucl dist= 4808814.0409
+Record_K=15_L1=10_L2=0.01_L3=0.1_a1=1r1=1_r2=1
+Iter= 1175	 relative error= 1.0528	 eucl dist= 4811414.965
+Record_K=15_L1=10_L2=0.01_L3=0.1_a1=10r1=1_r2=1
+Iter= 1176	 relative error= 1.0459	 eucl dist= 4823526.0683
+Record_K=15_L1=10_L2=0.01_L3=1_a1=0.0001r1=1_r2=1
+Iter= 1177	 relative error= 1.585	 eucl dist= 7029163.3429
+Record_K=15_L1=10_L2=0.01_L3=1_a1=0.001r1=1_r2=1
+Iter= 1178	 relative error= 3.0454	 eucl dist= 5432748.5928
+Record_K=15_L1=10_L2=0.01_L3=1_a1=0.01r1=1_r2=1
+Iter= 1179	 relative error= 1.144	 eucl dist= 4809934.0343
+Record_K=15_L1=10_L2=0.01_L3=1_a1=0.1r1=1_r2=1
+Iter= 1180	 relative error= 1.0749	 eucl dist= 4808814.2002
+Record_K=15_L1=10_L2=0.01_L3=1_a1=1r1=1_r2=1
+Iter= 1181	 relative error= 1.0528	 eucl dist= 4811415.0874
+Record_K=15_L1=10_L2=0.01_L3=1_a1=10r1=1_r2=1
+Iter= 1182	 relative error= 1.0459	 eucl dist= 4823526.1881
+Record_K=15_L1=10_L2=0.01_L3=10_a1=0.0001r1=1_r2=1
+Iter= 1183	 relative error= 3.9703	 eucl dist= 7565859.4121
+Record_K=15_L1=10_L2=0.01_L3=10_a1=0.001r1=1_r2=1
+Iter= 1184	 relative error= 3.0928	 eucl dist= 5447690.1167
+Record_K=15_L1=10_L2=0.01_L3=10_a1=0.01r1=1_r2=1
+Iter= 1185	 relative error= 1.1442	 eucl dist= 4809943.5721
+Record_K=15_L1=10_L2=0.01_L3=10_a1=0.1r1=1_r2=1
+Iter= 1186	 relative error= 1.0749	 eucl dist= 4808816.4077
+Record_K=15_L1=10_L2=0.01_L3=10_a1=1r1=1_r2=1
+Iter= 1187	 relative error= 1.0528	 eucl dist= 4811416.4516
+Record_K=15_L1=10_L2=0.01_L3=10_a1=10r1=1_r2=1
+Iter= 1188	 relative error= 1.0459	 eucl dist= 4823527.4209
+Record_K=15_L1=10_L2=0.1_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 1189	 relative error= 1.2289	 eucl dist= 7014976.6308
+Record_K=15_L1=10_L2=0.1_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 1190	 relative error= 3.5435	 eucl dist= 5612684.6318
+Record_K=15_L1=10_L2=0.1_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 1191	 relative error= 1.1439	 eucl dist= 4809933.2987
+Record_K=15_L1=10_L2=0.1_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 1192	 relative error= 1.0749	 eucl dist= 4808814.0235
+Record_K=15_L1=10_L2=0.1_L3=0.0001_a1=1r1=1_r2=1
+Iter= 1193	 relative error= 1.0528	 eucl dist= 4811414.9516
+Record_K=15_L1=10_L2=0.1_L3=0.0001_a1=10r1=1_r2=1
+Iter= 1194	 relative error= 1.0459	 eucl dist= 4823526.055
+Record_K=15_L1=10_L2=0.1_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 1195	 relative error= 1.4883	 eucl dist= 6907249.4101
+Record_K=15_L1=10_L2=0.1_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 1196	 relative error= 3.5445	 eucl dist= 5613080.0716
+Record_K=15_L1=10_L2=0.1_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 1197	 relative error= 1.1439	 eucl dist= 4809933.2994
+Record_K=15_L1=10_L2=0.1_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 1198	 relative error= 1.0749	 eucl dist= 4808814.0236
+Record_K=15_L1=10_L2=0.1_L3=0.001_a1=1r1=1_r2=1
+Iter= 1199	 relative error= 1.0528	 eucl dist= 4811414.9517
+Record_K=15_L1=10_L2=0.1_L3=0.001_a1=10r1=1_r2=1
+Iter= 1200	 relative error= 1.0459	 eucl dist= 4823526.0551
+Record_K=15_L1=10_L2=0.1_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 1201	 relative error= 3.3856	 eucl dist= 23664003.3762
+Record_K=15_L1=10_L2=0.1_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 1202	 relative error= 3.5534	 eucl dist= 5616686.7868
+Record_K=15_L1=10_L2=0.1_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 1203	 relative error= 1.1439	 eucl dist= 4809933.3056
+Record_K=15_L1=10_L2=0.1_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 1204	 relative error= 1.0749	 eucl dist= 4808814.0252
+Record_K=15_L1=10_L2=0.1_L3=0.01_a1=1r1=1_r2=1
+Iter= 1205	 relative error= 1.0528	 eucl dist= 4811414.9529
+Record_K=15_L1=10_L2=0.1_L3=0.01_a1=10r1=1_r2=1
+Iter= 1206	 relative error= 1.0459	 eucl dist= 4823526.0563
+Record_K=15_L1=10_L2=0.1_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 1207	 relative error= 1.2756	 eucl dist= 7015716.7126
+Record_K=15_L1=10_L2=0.1_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 1208	 relative error= 3.5872	 eucl dist= 5630586.4567
+Record_K=15_L1=10_L2=0.1_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 1209	 relative error= 1.1439	 eucl dist= 4809933.3684
+Record_K=15_L1=10_L2=0.1_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 1210	 relative error= 1.0749	 eucl dist= 4808814.0405
+Record_K=15_L1=10_L2=0.1_L3=0.1_a1=1r1=1_r2=1
+Iter= 1211	 relative error= 1.0528	 eucl dist= 4811414.965
+Record_K=15_L1=10_L2=0.1_L3=0.1_a1=10r1=1_r2=1
+Iter= 1212	 relative error= 1.0459	 eucl dist= 4823526.0682
+Record_K=15_L1=10_L2=0.1_L3=1_a1=0.0001r1=1_r2=1
+Iter= 1213	 relative error= 1.3841	 eucl dist= 6905960.7804
+Record_K=15_L1=10_L2=0.1_L3=1_a1=0.001r1=1_r2=1
+Iter= 1214	 relative error= 3.0686	 eucl dist= 5440132.4915
+Record_K=15_L1=10_L2=0.1_L3=1_a1=0.01r1=1_r2=1
+Iter= 1215	 relative error= 1.144	 eucl dist= 4809934.0255
+Record_K=15_L1=10_L2=0.1_L3=1_a1=0.1r1=1_r2=1
+Iter= 1216	 relative error= 1.0749	 eucl dist= 4808814.1998
+Record_K=15_L1=10_L2=0.1_L3=1_a1=1r1=1_r2=1
+Iter= 1217	 relative error= 1.0528	 eucl dist= 4811415.0874
+Record_K=15_L1=10_L2=0.1_L3=1_a1=10r1=1_r2=1
+Iter= 1218	 relative error= 1.0459	 eucl dist= 4823526.188
+Record_K=15_L1=10_L2=0.1_L3=10_a1=0.0001r1=1_r2=1
+Iter= 1219	 relative error= 1.7589	 eucl dist= 6487727.4265
+Record_K=15_L1=10_L2=0.1_L3=10_a1=0.001r1=1_r2=1
+Iter= 1220	 relative error= 3.3195	 eucl dist= 5525870.9433
+Record_K=15_L1=10_L2=0.1_L3=10_a1=0.01r1=1_r2=1
+Iter= 1221	 relative error= 1.1442	 eucl dist= 4809943.5641
+Record_K=15_L1=10_L2=0.1_L3=10_a1=0.1r1=1_r2=1
+Iter= 1222	 relative error= 1.0749	 eucl dist= 4808816.4075
+Record_K=15_L1=10_L2=0.1_L3=10_a1=1r1=1_r2=1
+Iter= 1223	 relative error= 1.0528	 eucl dist= 4811416.4517
+Record_K=15_L1=10_L2=0.1_L3=10_a1=10r1=1_r2=1
+Iter= 1224	 relative error= 1.0459	 eucl dist= 4823527.4208
+Record_K=15_L1=10_L2=1_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 1225	 relative error= 1.2409	 eucl dist= 7015112.8976
+Record_K=15_L1=10_L2=1_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 1226	 relative error= 3.2178	 eucl dist= 5489901.7906
+Record_K=15_L1=10_L2=1_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 1227	 relative error= 1.1439	 eucl dist= 4809933.2112
+Record_K=15_L1=10_L2=1_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 1228	 relative error= 1.0749	 eucl dist= 4808814.0199
+Record_K=15_L1=10_L2=1_L3=0.0001_a1=1r1=1_r2=1
+Iter= 1229	 relative error= 1.0528	 eucl dist= 4811414.9517
+Record_K=15_L1=10_L2=1_L3=0.0001_a1=10r1=1_r2=1
+Iter= 1230	 relative error= 1.0459	 eucl dist= 4823526.0545
+Record_K=15_L1=10_L2=1_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 1231	 relative error= 1.3468	 eucl dist= 6739552.6441
+Record_K=15_L1=10_L2=1_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 1232	 relative error= 3.2173	 eucl dist= 5489707.5776
+Record_K=15_L1=10_L2=1_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 1233	 relative error= 1.1439	 eucl dist= 4809933.2119
+Record_K=15_L1=10_L2=1_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 1234	 relative error= 1.0749	 eucl dist= 4808814.02
+Record_K=15_L1=10_L2=1_L3=0.001_a1=1r1=1_r2=1
+Iter= 1235	 relative error= 1.0528	 eucl dist= 4811414.9518
+Record_K=15_L1=10_L2=1_L3=0.001_a1=10r1=1_r2=1
+Iter= 1236	 relative error= 1.0459	 eucl dist= 4823526.0546
+Record_K=15_L1=10_L2=1_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 1237	 relative error= 1.2646	 eucl dist= 7015496.1674
+Record_K=15_L1=10_L2=1_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 1238	 relative error= 3.2133	 eucl dist= 5488334.78
+Record_K=15_L1=10_L2=1_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 1239	 relative error= 1.1439	 eucl dist= 4809933.2181
+Record_K=15_L1=10_L2=1_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 1240	 relative error= 1.0749	 eucl dist= 4808814.0216
+Record_K=15_L1=10_L2=1_L3=0.01_a1=1r1=1_r2=1
+Iter= 1241	 relative error= 1.0528	 eucl dist= 4811414.9531
+Record_K=15_L1=10_L2=1_L3=0.01_a1=10r1=1_r2=1
+Iter= 1242	 relative error= 1.0459	 eucl dist= 4823526.0558
+Record_K=15_L1=10_L2=1_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 1243	 relative error= 1.3331	 eucl dist= 7017179.5313
+Record_K=15_L1=10_L2=1_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 1244	 relative error= 3.3743	 eucl dist= 5546504.5989
+Record_K=15_L1=10_L2=1_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 1245	 relative error= 1.1439	 eucl dist= 4809933.281
+Record_K=15_L1=10_L2=1_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 1246	 relative error= 1.0749	 eucl dist= 4808814.0369
+Record_K=15_L1=10_L2=1_L3=0.1_a1=1r1=1_r2=1
+Iter= 1247	 relative error= 1.0528	 eucl dist= 4811414.9652
+Record_K=15_L1=10_L2=1_L3=0.1_a1=10r1=1_r2=1
+Iter= 1248	 relative error= 1.0459	 eucl dist= 4823526.0678
+Record_K=15_L1=10_L2=1_L3=1_a1=0.0001r1=1_r2=1
+Iter= 1249	 relative error= 1.5701	 eucl dist= 7028210.1799
+Record_K=15_L1=10_L2=1_L3=1_a1=0.001r1=1_r2=1
+Iter= 1250	 relative error= 1.8244	 eucl dist= 11475282.0376
+Record_K=15_L1=10_L2=1_L3=1_a1=0.01r1=1_r2=1
+Iter= 1251	 relative error= 1.144	 eucl dist= 4809933.939
+Record_K=15_L1=10_L2=1_L3=1_a1=0.1r1=1_r2=1
+Iter= 1252	 relative error= 1.0749	 eucl dist= 4808814.1965
+Record_K=15_L1=10_L2=1_L3=1_a1=1r1=1_r2=1
+Iter= 1253	 relative error= 1.0528	 eucl dist= 4811415.0876
+Record_K=15_L1=10_L2=1_L3=1_a1=10r1=1_r2=1
+Iter= 1254	 relative error= 1.0459	 eucl dist= 4823526.1876
+Record_K=15_L1=10_L2=1_L3=10_a1=0.0001r1=1_r2=1
+Iter= 1255	 relative error= 2.4972	 eucl dist= 13572457.1612
+Record_K=15_L1=10_L2=1_L3=10_a1=0.001r1=1_r2=1
+Iter= 1256	 relative error= 3.2755	 eucl dist= 5509974.522
+Record_K=15_L1=10_L2=1_L3=10_a1=0.01r1=1_r2=1
+Iter= 1257	 relative error= 1.1442	 eucl dist= 4809943.4856
+Record_K=15_L1=10_L2=1_L3=10_a1=0.1r1=1_r2=1
+Iter= 1258	 relative error= 1.0749	 eucl dist= 4808816.4061
+Record_K=15_L1=10_L2=1_L3=10_a1=1r1=1_r2=1
+Iter= 1259	 relative error= 1.0528	 eucl dist= 4811416.4522
+Record_K=15_L1=10_L2=1_L3=10_a1=10r1=1_r2=1
+Iter= 1260	 relative error= 1.0459	 eucl dist= 4823527.4205
+Record_K=15_L1=10_L2=10_L3=0.0001_a1=0.0001r1=1_r2=1
+Iter= 1261	 relative error= 2.3058	 eucl dist= 6930446.4288
+Record_K=15_L1=10_L2=10_L3=0.0001_a1=0.001r1=1_r2=1
+Iter= 1262	 relative error= 3.6801	 eucl dist= 5669417.8394
+Record_K=15_L1=10_L2=10_L3=0.0001_a1=0.01r1=1_r2=1
+Iter= 1263	 relative error= 1.144	 eucl dist= 4809932.4546
+Record_K=15_L1=10_L2=10_L3=0.0001_a1=0.1r1=1_r2=1
+Iter= 1264	 relative error= 1.0749	 eucl dist= 4808814.0025
+Record_K=15_L1=10_L2=10_L3=0.0001_a1=1r1=1_r2=1
+Iter= 1265	 relative error= 1.0528	 eucl dist= 4811414.9567
+Record_K=15_L1=10_L2=10_L3=0.0001_a1=10r1=1_r2=1
+Iter= 1266	 relative error= 1.0459	 eucl dist= 4823526.0505
+Record_K=15_L1=10_L2=10_L3=0.001_a1=0.0001r1=1_r2=1
+Iter= 1267	 relative error= 1.2713	 eucl dist= 7015627.0199
+Record_K=15_L1=10_L2=10_L3=0.001_a1=0.001r1=1_r2=1
+Iter= 1268	 relative error= 3.6799	 eucl dist= 5669351.5198
+Record_K=15_L1=10_L2=10_L3=0.001_a1=0.01r1=1_r2=1
+Iter= 1269	 relative error= 1.144	 eucl dist= 4809932.4553
+Record_K=15_L1=10_L2=10_L3=0.001_a1=0.1r1=1_r2=1
+Iter= 1270	 relative error= 1.0749	 eucl dist= 4808814.0027
+Record_K=15_L1=10_L2=10_L3=0.001_a1=1r1=1_r2=1
+Iter= 1271	 relative error= 1.0528	 eucl dist= 4811414.9568
+Record_K=15_L1=10_L2=10_L3=0.001_a1=10r1=1_r2=1
+Iter= 1272	 relative error= 1.0459	 eucl dist= 4823526.0506
+Record_K=15_L1=10_L2=10_L3=0.01_a1=0.0001r1=1_r2=1
+Iter= 1273	 relative error= 1.6013	 eucl dist= 7030236.2606
+Record_K=15_L1=10_L2=10_L3=0.01_a1=0.001r1=1_r2=1
+Iter= 1274	 relative error= 3.6777	 eucl dist= 5668405.029
+Record_K=15_L1=10_L2=10_L3=0.01_a1=0.01r1=1_r2=1
+Iter= 1275	 relative error= 1.144	 eucl dist= 4809932.4616
+Record_K=15_L1=10_L2=10_L3=0.01_a1=0.1r1=1_r2=1
+Iter= 1276	 relative error= 1.0749	 eucl dist= 4808814.0042
+Record_K=15_L1=10_L2=10_L3=0.01_a1=1r1=1_r2=1
+Iter= 1277	 relative error= 1.0528	 eucl dist= 4811414.958
+Record_K=15_L1=10_L2=10_L3=0.01_a1=10r1=1_r2=1
+Iter= 1278	 relative error= 1.0459	 eucl dist= 4823526.0518
+Record_K=15_L1=10_L2=10_L3=0.1_a1=0.0001r1=1_r2=1
+Iter= 1279	 relative error= 1.2426	 eucl dist= 7015133.0274
+Record_K=15_L1=10_L2=10_L3=0.1_a1=0.001r1=1_r2=1
+Iter= 1280	 relative error= 3.4635	 eucl dist= 5580498.3964
+Record_K=15_L1=10_L2=10_L3=0.1_a1=0.01r1=1_r2=1
+Iter= 1281	 relative error= 1.144	 eucl dist= 4809932.5253
+Record_K=15_L1=10_L2=10_L3=0.1_a1=0.1r1=1_r2=1
+Iter= 1282	 relative error= 1.0749	 eucl dist= 4808814.0198
+Record_K=15_L1=10_L2=10_L3=0.1_a1=1r1=1_r2=1
+Iter= 1283	 relative error= 1.0528	 eucl dist= 4811414.9701
+Record_K=15_L1=10_L2=10_L3=0.1_a1=10r1=1_r2=1
+Iter= 1284	 relative error= 1.0459	 eucl dist= 4823526.0637
+Record_K=15_L1=10_L2=10_L3=1_a1=0.0001r1=1_r2=1
+Iter= 1285	 relative error= 2.0585	 eucl dist= 8684910.1804
+Record_K=15_L1=10_L2=10_L3=1_a1=0.001r1=1_r2=1
+Iter= 1286	 relative error= 3.5231	 eucl dist= 5604047.9887
+Record_K=15_L1=10_L2=10_L3=1_a1=0.01r1=1_r2=1
+Iter= 1287	 relative error= 1.144	 eucl dist= 4809933.1919
+Record_K=15_L1=10_L2=10_L3=1_a1=0.1r1=1_r2=1
+Iter= 1288	 relative error= 1.0749	 eucl dist= 4808814.1813
+Record_K=15_L1=10_L2=10_L3=1_a1=1r1=1_r2=1
+Iter= 1289	 relative error= 1.0528	 eucl dist= 4811415.093
+Record_K=15_L1=10_L2=10_L3=1_a1=10r1=1_r2=1
+Iter= 1290	 relative error= 1.0459	 eucl dist= 4823526.1836
+Record_K=15_L1=10_L2=10_L3=10_a1=0.0001r1=1_r2=1
+Iter= 1291	 relative error= 1.3666	 eucl dist= 7484643.7568
+Record_K=15_L1=10_L2=10_L3=10_a1=0.001r1=1_r2=1
+Iter= 1292	 relative error= 3.6086	 eucl dist= 5638626.9549
+Record_K=15_L1=10_L2=10_L3=10_a1=0.01r1=1_r2=1
+Iter= 1293	 relative error= 1.1442	 eucl dist= 4809942.8181
+Record_K=15_L1=10_L2=10_L3=10_a1=0.1r1=1_r2=1
+Iter= 1294	 relative error= 1.0749	 eucl dist= 4808816.4103
+Record_K=15_L1=10_L2=10_L3=10_a1=1r1=1_r2=1
+Iter= 1295	 relative error= 1.0528	 eucl dist= 4811416.4618
+Record_K=15_L1=10_L2=10_L3=10_a1=10r1=1_r2=1
+Iter= 1296	 relative error= 1.0459	 eucl dist= 4823527.4174

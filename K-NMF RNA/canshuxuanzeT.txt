@@ -1,0 +1,12 @@
+Record_K=49_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 2	 relative error= 0.00035872	 eucl dist= 677.9684
+corr1= 0.99851	 corr2= 0.99419	 corr3= 0.99755	 chong1= 0.0011501	 chong2= 0.14	 chong3= 0
+
+Record_K=50_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 3	 relative error= 0.00040926	 eucl dist= 681.9406
+corr1= 0.99842	 corr2= 0.99191	 corr3= 0.99807	 chong1= 0	 chong2= 0.13043	 chong3= 0
+
+Record_K=51_L1=0.0001_L2=0.0001_w=0.1_a1=1r1=0.0001_r2=0.001
+Iter= 4	 relative error= 0.00036248	 eucl dist= 676.2068
+corr1= 0.99862	 corr2= 0.99169	 corr3= 0.99792	 chong1= 0.00056306	 chong2= 0.12245	 chong3= 0
+

@@ -1,0 +1,66 @@
+Record_K=2_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 2	 relative error= 1.1911	 eucl dist= 6512337.9424
+corr1= 0.99368	 corr2= 0.90077	 corr3= 0.9436	 corr4= 0.7828	 chong1= 1	 chong2= 1	 chong3= 1	 chong4= 1
+
+Record_K=3_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 3	 relative error= 1.1636	 eucl dist= 6212718.6873
+corr1= 0.99371	 corr2= 0.90438	 corr3= 0.94555	 corr4= 0.78971	 chong1= 0.66667	 chong2= 0.66667	 chong3= 0.66667	 chong4= 0.66667
+
+Record_K=4_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 4	 relative error= 1.1411	 eucl dist= 5974262.3349
+corr1= 0.99373	 corr2= 0.90812	 corr3= 0.9466	 corr4= 0.79531	 chong1= 0.5	 chong2= 0.5	 chong3= 0.5	 chong4= 0.51339
+
+Record_K=5_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 5	 relative error= 1.117	 eucl dist= 5713873.8277
+corr1= 0.99379	 corr2= 0.91265	 corr3= 0.94786	 corr4= 0.80375	 chong1= 0.4	 chong2= 0.46809	 chong3= 0.41538	 chong4= 0.44
+
+Record_K=6_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 6	 relative error= 1.1035	 eucl dist= 5549839.8519
+corr1= 0.99381	 corr2= 0.91566	 corr3= 0.94858	 corr4= 0.80748	 chong1= 0.35185	 chong2= 0.38462	 chong3= 0.34921	 chong4= 0.36538
+
+Record_K=7_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 7	 relative error= 1.0939	 eucl dist= 5420284.224
+corr1= 0.99382	 corr2= 0.91767	 corr3= 0.9495	 corr4= 0.81233	 chong1= 0.31579	 chong2= 0.3338	 chong3= 0.34286	 chong4= 0.32032
+
+Record_K=8_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 8	 relative error= 1.0851	 eucl dist= 5317754.709
+corr1= 0.99394	 corr2= 0.91945	 corr3= 0.95031	 corr4= 0.81563	 chong1= 0.34028	 chong2= 0.29932	 chong3= 0.3125	 chong4= 0.28988
+
+Record_K=9_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 9	 relative error= 1.0776	 eucl dist= 5216517.3147
+corr1= 0.99394	 corr2= 0.92138	 corr3= 0.95073	 corr4= 0.81821	 chong1= 0.3	 chong2= 0.27403	 chong3= 0.29333	 chong4= 0.26146
+
+Record_K=10_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 10	 relative error= 1.0707	 eucl dist= 5135968.4623
+corr1= 0.99402	 corr2= 0.92275	 corr3= 0.9513	 corr4= 0.82082	 chong1= 0.3	 chong2= 0.25455	 chong3= 0.26774	 chong4= 0.25
+
+Record_K=11_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 11	 relative error= 1.0643	 eucl dist= 5060183.7756
+corr1= 0.99404	 corr2= 0.92402	 corr3= 0.95169	 corr4= 0.82331	 chong1= 0.30808	 chong2= 0.23545	 chong3= 0.26019	 chong4= 0.23543
+
+Record_K=12_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 12	 relative error= 1.0561	 eucl dist= 4985597.3312
+corr1= 0.99405	 corr2= 0.92517	 corr3= 0.95208	 corr4= 0.82537	 chong1= 0.26449	 chong2= 0.21886	 chong3= 0.24194	 chong4= 0.22442
+
+Record_K=13_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 13	 relative error= 1.0497	 eucl dist= 4918247.1778
+corr1= 0.99409	 corr2= 0.92609	 corr3= 0.95235	 corr4= 0.8274	 chong1= 0.23669	 chong2= 0.20405	 chong3= 0.23798	 chong4= 0.21269
+
+Record_K=14_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 14	 relative error= 1.0453	 eucl dist= 4862477.0272
+corr1= 0.99411	 corr2= 0.92706	 corr3= 0.95274	 corr4= 0.82917	 chong1= 0.23901	 chong2= 0.19505	 chong3= 0.23593	 chong4= 0.19709
+
+Record_K=15_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 15	 relative error= 1.0409	 eucl dist= 4807403.9694
+corr1= 0.99412	 corr2= 0.92789	 corr3= 0.95292	 corr4= 0.83117	 chong1= 0.22529	 chong2= 0.18584	 chong3= 0.21905	 chong4= 0.19022
+
+Record_K=16_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 16	 relative error= 1.0365	 eucl dist= 4743364.7714
+corr1= 0.99413	 corr2= 0.92904	 corr3= 0.9531	 corr4= 0.83286	 chong1= 0.21458	 chong2= 0.17641	 chong3= 0.19687	 chong4= 0.18221
+
+Record_K=17_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 17	 relative error= 1.0332	 eucl dist= 4695555.7324
+corr1= 0.99413	 corr2= 0.92992	 corr3= 0.95363	 corr4= 0.83407	 chong1= 0.21176	 chong2= 0.17479	 chong3= 0.19559	 chong4= 0.17777
+
+Record_K=18_L1=0.0001_L2=1_L3=0.0001_a1=0.0001r1=0.0001_r2=0.0001
+Iter= 18

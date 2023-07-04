@@ -1,0 +1,2 @@
+ iteration 1
+Iter = 	20	 relative error = 	0.0088311	 diff_step = 	2413479.529	 diff = 	26385.5808	 diff1 = 	25219.3311	 diff2 = 	-2.7347e-06	 diff3 = 	-6.6064e-05	 diff4 = 	0.00071564	 diff5 = 	0.29657	 diff6 = 	1165.9525	 diff7 = 	1166.249
